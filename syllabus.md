@@ -6,4 +6,7 @@ permalink: /syllabus/
 
 ## Syllabus
 
-*Coming Soon*
+1/4: Course introduction and scripting with data
+
+1/6: Python with data
+
