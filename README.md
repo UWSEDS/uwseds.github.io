@@ -1,2 +1,3 @@
 # uwseds.github.io
-UW Software Engineering for Data Science Website
+ 
+Website for the 2016 UW course, *Software Engineering for Data Scientists*
