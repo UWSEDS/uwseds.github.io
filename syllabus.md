@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: /syllabus/
+permalink: syllabus/
 ---
 
 | Week  | Monday Topic | Wednesday Topic | Assignment |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework
-permalink: /homework/
+permalink: homework/
 ---
 
 ## Homework
