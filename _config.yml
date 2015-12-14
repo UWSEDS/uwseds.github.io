@@ -2,7 +2,7 @@
 title: Sofware Engineering for Data Scientists
 email: jakevdp -- AT -- uw.edu
 description: "2016 UW course, Software Engineering for Data Scientists"
-baseurl: "/"
+baseurl: "http://uwseds.github.io"
 url: "http://uwseds.github.io"
 twitter_username: uwescience
 github_username:  UWSEDS
