@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 
 | Week      | Monday Topic | Wednesday Topic | Assignment |
-|:----------|:------------:|:---------------:|:----------:|
+|:----------|:-------------|:----------------|:-----------|
 |Jan 03-07       |Course introduction and data analysis with the shell scripts   |Data analysis with python  ||
 |Jan 10-14       |Version control I   |Vesion control II  ||
 |Jan 17-21       |NO CLASS   |IPython notebook  ||
