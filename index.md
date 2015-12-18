@@ -9,6 +9,13 @@ layout: home
 - Jake VanderPlas
 
 
+## Logistics
+
+-Days: Mon, Wed
+-Time: 12:30-1:50
+-Place: MEB 242
+
+
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
 
