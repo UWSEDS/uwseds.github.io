@@ -11,9 +11,9 @@ layout: home
 
 ## Logistics
 
--Days: Mon, Wed
--Time: 12:30-1:50
--Place: MEB 242
+- Days: Mon, Wed
+- Time: 12:30-1:50
+- Place: MEB 242
 
 
 ## Course Description
