@@ -31,3 +31,4 @@ like MS Word, in that text editors often recognize
 program syntax and do no formatting.
 For details on sublime, see 
 http://git-scm.com/download/win.
+For details on atom, see https://atom.io/docs/v0.194.0/getting-started-installing-atom.
