@@ -5,7 +5,7 @@ title: Syllabus
 
 | Week  | Monday Topic | Wednesday Topic | Assignment |
 |:------------|:-------------|:----------------|:-----------|
-|Jan 03 |[Course introduction and data essentials](http://www.google.com)   |Data analysis with python  ||
+|Jan 03 |[Course introduction and data essentials](https://drive.google.com/open?id=0B_5opJbPTdCOaTJROC1kdi1xdjg)   |Data analysis with python  ||
 |Jan 10 |Version control I   |Vesion control II  ||
 |Jan 17 |NO CLASS   |IPython notebook  ||
 |Jan 24 |Procedural python   |Debugging and unit tests  ||
