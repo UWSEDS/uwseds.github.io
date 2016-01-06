@@ -3,7 +3,7 @@ layout: page
 title: Homework
 ---
 
-## Homework 1: Data basics (Due: TBD)
+## Homework 1: Data basics (Due: 1/12/2016)
 
 # Problem: 
 - Obtain the CSV (comma separated variable) file containing the counts of bicycles crossing the Fremont Bridge since 2012 
@@ -16,7 +16,6 @@ title: Homework
 # Hints 
 
 - The “date” field is a string coded as “yyyy-mm-dd-Thh” where “yyyy” is the year, “mm” is the month, “dd” is the day, and “hh” is the hour. (You’ll need to write python code to decode the strings.)
-
 - The “fremont_bridge_nb” and “fremont_bridge_sb” values are identical since they both contain the sum of north-bound and south-bound crossings of the Fremont Bridge.
 
 
