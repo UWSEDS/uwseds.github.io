@@ -16,6 +16,12 @@ title: Homework
 # Hints 
 
 - The “date” field is a string coded as “yyyy-mm-dd-Thh” where “yyyy” is the year, “mm” is the month, “dd” is the day, and “hh” is the hour. (You’ll need to write python code to decode the strings.)
-- The “fremont_bridge_nb” and “fremont_bridge_sb” values are identical since they both contain the sum of north-bound and south-bound crossings of the Fremont Bridge.
+- To select data of just a particular year, etc. you can use [Boolean indexing](http://pandas.pydata.org/pandas-docs/stable/indexing.html#boolean-indexing) of the array. For example, in the analysis we did in class you can write
+
+    data2015 = data[times.year == 2015]
+
+See the [Pandas indexing documentation](http://pandas.pydata.org/pandas-docs/stable/indexing.html) for more information.
+
+
 
 
