@@ -17,7 +17,7 @@ Course project: 40%
 
 There will be 7 homeworks, each worth 5 points.
 The homeworks will be assigned in the first part of the course.
-Homework is due by midnight Pacific Time on the day it is assigned.
+To receive full credit, homework must be posted by midnight Pacific Time on the due date.
 
 #Class Participation Grading
 
