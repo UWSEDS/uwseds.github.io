@@ -21,7 +21,3 @@ title: Homework
     data2015 = data[times.year == 2015]
 
 See the [Pandas indexing documentation](http://pandas.pydata.org/pandas-docs/stable/indexing.html) for more information.
-
-
-
-
