@@ -3,7 +3,7 @@ layout: page
 title: Homework
 ---
 
-## Homework 1: Data basics (Due: 1/12/2016)
+## Homework 1: Data basics (Due: 1/13/2016)
 
 # Problem: 
 - Obtain the CSV (comma separated variable) file containing the counts of bicycles crossing the Fremont Bridge since 2012 
