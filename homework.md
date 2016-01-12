@@ -11,7 +11,7 @@ title: Homework
 - Create a project directory with subdirectories for data and analysis, and create a README file. 
 - Download the data from [here](https://data.seattle.gov/resource/4xy5-26gy.csv). Put the it into the data directory.
 - Create an iPython Notebook to analyze these data. In the notebook: (1) Isolate the 2015 data, creating fields for date, hour, and count; 
-(2) use python matplotlib to plot the counts by hour;  (3) compute hourly average counts over the year; and (4) determine what is the busiest hour of the day.
+(2) use python matplotlib to plot (with labels for the x and y axis) the counts (either northbound, southbound, or both) by hour by computing compute hourly average counts over the year; and (3) determine what is the busiest hour of the day.
 
 # Hints 
 
