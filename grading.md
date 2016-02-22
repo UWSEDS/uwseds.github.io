@@ -34,7 +34,7 @@ You should do this without slides. The stand-up should cover the following:
 met), 
 (b) what will be delivered next period; and (c) challenges with making the deliverables for next period.
 In addition, you should provide a short write-up of your stand-up (which may just be
-bullet points) that is committed to your team repo in a "Standups" folder.
+bullet points) that is committed to your team repo in a Standups folder.
 
 # Technology Review Presentations
 
