@@ -3,7 +3,7 @@ layout: page
 title: Grading
 ---
 
-## Course Grade
+# Course Grade
 
 The course grade consists of the following components and percentages:
 
