@@ -3,7 +3,7 @@ layout: page
 title: Grading
 ---
 
-# Course Grade
+## Course Grade
 
 The course grade consists of the following components and percentages:
 
@@ -13,7 +13,7 @@ Class participation: 25%
 
 Course project: 40%
 
-# Homework grading
+## Homework grading
 
 There will be 7 homeworks, each worth 5 points.
 The homeworks will be assigned in the first part of the course.
@@ -26,7 +26,7 @@ No credit will be given for homework more than one week late.
 Class participation will be graded based on the stand-up presentation (10 pts) and participation in 
 the technology review presentation (15 pts).
 
-## Stand-up Presentations
+# Stand-up Presentations
 
 Each student will do a stand-up presentation that should be one to two minutes. 
 You should do this without slides. The stand-up should cover the following:
@@ -36,7 +36,7 @@ met),
 In addition, you should provide a short write-up of your stand-up (which may just be
 bullet points) that is committed to your team repo in a "Standups" folder.
 
-## Technology Review Presentations
+# Technology Review Presentations
 
 Each team will do one technology presentation on a package they are considering for their project. 
 All team members should participate in the preparation
@@ -50,7 +50,7 @@ and (d) drawbacks of the package.
 The slides for the technology review should be committed to the
 team repo.
 
-# Course Project
+## Course Project
 
 The requirements for the class project are described in lecture 10.
 Projects will be graded based on:
