@@ -21,7 +21,7 @@ To receive full credit, homework must be posted by midnight Pacific Time on the 
 Two points will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late.
 
-# Class Participation
+## Class Participation
 
 Class participation will be graded based on the stand-up presentation (10 pts) and participation in 
 the technology review presentation (15 pts).
