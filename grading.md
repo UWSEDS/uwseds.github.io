@@ -54,8 +54,9 @@ team repo.
 
 The requirements for the class project are described in lecture 10.
 Projects will be graded based on:
-(a) a poster presentation on 3/17 and (b) the structure and content
-of the project github repo.
+(a) the poster presentation, (b) documentation
+(especially function and design specifications), (c) the features implemented,
+and (d) code quality.
 Grades for the project will be assigned to the entire team, although
 there will be adjustments
 for significant discrepancies in 
