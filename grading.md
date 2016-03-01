@@ -60,6 +60,7 @@ Projects will be graded based on:
 (especially function and design specifications), (c) the features implemented,
 and (d) code quality.
 The poster presentation will be held 3pm-5pm on Tuesday March 15 in the CSE Atrium (Allen Building).
+You need to [register](http://escience.washington.edu/engineering-poster-registration) in advance.
 Grades for the project will be assigned to the entire team, although
 there will be adjustments
 for significant discrepancies in 
