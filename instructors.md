@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Instructors
-permalink: /instructors/
+tags:
+  - winter2016
 ---
 
 ## Office hours. Place: Data Science Studio, 6th Floor PAB (except as noted)

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Syllabus
+tags:
+  - winter2016
 ---
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |

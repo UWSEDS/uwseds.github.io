@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Software
+tags:
+  - winter2016
 ---
 
 The course makes use of a number of software packages that students
@@ -14,7 +16,7 @@ See http://conda.pydata.org/miniconda.html
 for instructions for downloading and installing miniconda.
 
 ##Bash shell and git software version control
-The bash shell provides a programming environment that 
+The bash shell provides a programming environment that
 is often used to manipulate files, install programs, and
 basic data analysis.
 The git version control system (along with the github website)

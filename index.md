@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+tags:
+  - winter2016
 ---
 
 ## Instructors
@@ -22,7 +24,7 @@ Scientists, engineers, and other technical professionals require skills in compu
 
 Examples of data science skills abound. Biologists search thousands of genomes for DNA sequences with special characteristics, such as genes that transcribe non-coding RNA that is “anti-sense” to messenger RNAs. Astronomers search, integrate, and visualize data from many instruments that produce terabytes of complex data. Social scientists do text analytics on massive repositories of social media data to distill patterns in topics and trends in sentiment.
 
-This course teaches graduate students the software engineering skills to do research in data science fields and to be successful technical professionals in the 21st Century. In particular, this course teaches how to approach computational research with reproducibility in mind: to create sharable and reusable research projects that incorporate both computation and data. 
+This course teaches graduate students the software engineering skills to do research in data science fields and to be successful technical professionals in the 21st Century. In particular, this course teaches how to approach computational research with reproducibility in mind: to create sharable and reusable research projects that incorporate both computation and data.
 
 Students will learn the following skills:
 
@@ -40,7 +42,7 @@ Some prior computing experience is desirable. For example, we expect that given 
 - Using the shell (command line): http://swcarpentry.github.io/shell-novice/
 - General Python overview: http://swcarpentry.github.io/python-novice-inflammation/
 
-  
+
 
 <div class="home">
 
