@@ -2,7 +2,8 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ "/images/logo.png" | prepend: site.baseurl }}" height="80px;">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ "/images/logo.png" | prepend: site.baseurl }}" height="80px;">{{ site.title }} {% if page.collection %}[{{ page.collection }}]{% endif %}</a>
+
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,9 +15,11 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for thispage in site.pages %}
+          {% if thispage.title %}
+            {% if thispage.collection == page.collection %}
+              <a class="page-link" href="{{ thispage.url | prepend: site.baseurl }}">{{ thispage.title }}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>

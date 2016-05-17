@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-collection: main
+collection: winter2016
 ---
 
 The course makes use of a number of software packages that students

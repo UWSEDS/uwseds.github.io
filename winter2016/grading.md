@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: main
+collection: winter2016
 ---
 
 ## Course Grade
