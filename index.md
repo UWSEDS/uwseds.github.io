@@ -15,7 +15,7 @@ collection: main
 
 - Days: Mon & Wed
 - Time: 12:30-1:50
-- Place: MEB 242
+- Place: Odegaard Undergraduate Library (OUG) 141
 
 
 ## Course Description
