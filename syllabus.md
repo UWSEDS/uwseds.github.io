@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SyllabusFall2016
+title: Syllabus
 collection: main
 ---
 
