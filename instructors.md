@@ -8,4 +8,4 @@ collection: main
 
 - David A. C. Beck (dacb@uw.edu): TBD
 - Joseph L. Hellerstein (jlheller@uw.edu): Wed, 3-5pm
-- Jake VanderPlas (jakevdp@cs.washington.edu): TBD
+- Jake VanderPlas (jakevdp@cs.washington.edu): Tues, 10am-noon
