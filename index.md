@@ -27,7 +27,7 @@ This course teaches graduate students the software engineering skills to do rese
 
 Students will learn the following skills:
 
-- Developing a piece of software in a way that it can be used by others, including documentation, installing packages, automating setup, and running computational studies.
+- Developing software in a way that it can be used by others, including documentation, installing packages, automating setup, and running computational studies.
 - Creating technical specifications for what a program should do (its use cases) and how this is accomplished (software design).
 Creating, updating, and sharing a project using version control (specifically GitHub).
 - Programming in python using the Python scientific stack, including numpy, pandas, and matplotlib.
