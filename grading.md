@@ -8,11 +8,11 @@ collection: main
 
 The course grade consists of the following components and percentages:
 
-Homework: 35%
+Homework: 25%
 
 Class participation: 25%
 
-Course project: 40%
+Course project: 50%
 
 ## Homework grading
 
