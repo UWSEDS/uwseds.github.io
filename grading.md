@@ -8,11 +8,11 @@ collection: main
 
 The course grade consists of the following components and percentages:
 
-Homework: 35%
+Homework: 25%
 
 Class participation: 25%
 
-Course project: 40%
+Course project: 50%
 
 ## Homework grading
 
@@ -22,7 +22,7 @@ To receive full credit, homework must be posted by midnight Pacific Time on the 
 Two points will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
 from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight PT Tuesday March 15, 2016.
+All homework, including those with extensions, must be submitted no later than midnight PT Tuesday December 9, 2016.
 
 ## Class Participation
 
