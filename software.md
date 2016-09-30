@@ -8,12 +8,16 @@ The course makes use of a number of software packages that students
 will install on their computers.
 The following software are available for Windows, Mac, and Linux.
 
+## Get the class notes
+- Use git to clone the repo for the lectures. (We're assuming that you git installed.)
+-- git clone https://github.com/UWSEDS/LectureNotes.git
+
 ## Conda
 Conda is a system for installing and otherwise managing python packages.
 We recommend students use miniconda.
 See http://conda.pydata.org/miniconda.html
 for instructions for downloading and installing miniconda. Below
-are detailed instructions:
+are detailed instructions after you have installed miniconda:
 
 1. Update conda's listing of packages for your system:
 - $conda update conda
@@ -25,10 +29,6 @@ are detailed instructions:
 - $ ipython notebook
 
 If everything has worked correctly, it should automatically launch your default browser
-
-## Get the class notes
-- Use git to clone the repo for the lectures. (We're assuming that you git installed.)
--- git clone https://github.com/UWSEDS/LectureNotes.git
 
 ## Bash shell and git software version control
 The bash shell provides a programming environment that
