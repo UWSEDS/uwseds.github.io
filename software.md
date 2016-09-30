@@ -16,13 +16,13 @@ for instructions for downloading and installing miniconda. Below
 are detailed instructions:
 
 - Update conda's listing of packages for your system:
-.. $ conda update conda
+..*$ conda update conda
 - Install IPython notebook and all its requirements
-.. $ conda install ipython-notebook
+..*$ conda install ipython-notebook
 - Navigate to the directory containing the course material. For example:
-.. $ cd ~/LectureNotes/02-Python-and-Data
+..* $ cd ~/LectureNotes/02-Python-and-Data
 - Type ipython notebook in the terminal to start the notebook
-.. $ ipython notebook
+..*$ ipython notebook
 
 If everything has worked correctly, it should automatically launch your default browser
 
