@@ -10,6 +10,7 @@ The following software are available for Windows, Mac, and Linux.
 
 ## Get the class notes
 Use git to clone the repo for the lectures. (We're assuming that you git installed.)
+
 - git clone https://github.com/UWSEDS/LectureNotes.git
 
 ## Conda
