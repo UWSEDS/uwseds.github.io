@@ -13,6 +13,11 @@ Use git to clone the repo for the lectures. (We're assuming that you git install
 
 - git clone https://github.com/UWSEDS/LectureNotes.git
 
+## Python
+We recommend that you use Python 3.5. Earlier versions of Python 3 work as well.
+There are some differences between Python 2.7 (and earlier releases of Python 2)
+and Python 3.
+
 ## Conda
 Conda is a system for installing and otherwise managing python packages.
 We recommend students use miniconda.
