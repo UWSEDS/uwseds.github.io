@@ -8,6 +8,16 @@ The course makes use of a number of software packages that students
 will install on their computers.
 The following software are available for Windows, Mac, and Linux.
 
+## Bash shell and git software version control
+The bash shell provides a programming environment that
+is often used to manipulate files, install programs, and
+basic data analysis.
+The git version control system (along with the github website)
+are widely used for sharing codes and collaborative development
+of software.
+Bash and git are part of Linux and Mac OSX.
+Windows users should install gitbash. (See https://git-scm.com/download/win.)
+
 ## Get the class notes
 Use git to clone the repo for the lectures. (We're assuming that you git installed.)
 
@@ -22,7 +32,9 @@ and Python 3.
 Conda is a system for installing and otherwise managing python packages.
 We recommend students use miniconda.
 See http://conda.pydata.org/miniconda.html
-for instructions for downloading and installing miniconda. Below
+for instructions for downloading and installing miniconda. 
+(You should use the instructions for your OS and Python 3.5.)
+Below
 are detailed instructions after you have installed miniconda:
 
 1. Update conda's listing of packages for your system:
@@ -35,16 +47,6 @@ are detailed instructions after you have installed miniconda:
 - $ ipython notebook
 
 If everything has worked correctly, it should automatically launch your default browser
-
-## Bash shell and git software version control
-The bash shell provides a programming environment that
-is often used to manipulate files, install programs, and
-basic data analysis.
-The git version control system (along with the github website)
-are widely used for sharing codes and collaborative development
-of software.
-Bash and git are part of Linux and Mac OSX.
-Windows users should install gitbash. (See https://git-scm.com/download/win.)
 
 ## Text editor
 Students will select a text editor of their choice, such as
