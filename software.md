@@ -17,6 +17,8 @@ are widely used for sharing codes and collaborative development
 of software.
 Bash and git are part of Linux and Mac OSX.
 Windows users should install gitbash. (See https://git-scm.com/download/win.)
+Look [here](https://github.com/UWSEDS/uwseds.github.io/blob/master/software_windows.md) for more
+details on the use of an editor with Windows for git.
 
 ## Get the class notes
 Use git to clone the repo for the lectures. (We're assuming that you git installed.)
