@@ -32,6 +32,8 @@ Class participation will be graded based on project related presentations.
 
 ## Course Project
 
+[Description of Class Project](https://docs.google.com/document/d/14XfgSuko_hfYbNBq8agz31CxnmIJkw2Iz8yW0cs-mSY/edit?usp=sharing)
+
 Projects will be graded based on:
 (a) the poster presentation, (b) documentation
 (especially function and design specifications), (c) the features implemented,
