@@ -73,8 +73,8 @@ Top level folders/files within the repository include:
 * README.md file that gives an overview of the project
 * LICENSE file
 * setup.py file that initializes the project after it has been cloned
-* doc folder that contains documentation (including the functional specifical
-and the design specification)
+* doc folder that contains documentation (including the functional specification,
+the design specification, and the final project presentation or poster)
 * python package folder (with the same name as the repository)
 that is structured as one or more python modules 
 (e.g., with __init__.py files) and test files that begin with "test_".
