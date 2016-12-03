@@ -42,7 +42,10 @@ Grades for the project will be assigned to the entire team, although
 there will be adjustments
 for significant discrepancies in
 the relative contributions of team members.
+(Details of the grading rubric can be found
+in the Projects tab.)
 The latter will be assessed by commit logs and by
 a survey students will submit
 at the end of the quarter.
-Projects are due by midnight PT on Tuesday December 14, 2016.
+The last commit to the project repository
+is happen no later than 8am (Pacfic Time) Thursday December 15, 2016.
