@@ -5,17 +5,24 @@ collection: main
 ---
 
 ## Overview
-The course project is a "capstone" that pulls together all of elements of the course:
-data, programming, version control, testing, design, and team collaborations.
+The course project is a "capstone" that pulls together all elements of the course:
+data, programming, coding style,
+version control, testing, design, and team collaborations.
 This is a team effort, often with members drawn from different disciplines.
 
 Projects will address a science or business question of interest.
-This may by direct analysis. For example, a business question related to the
+For example, a business question related to the
 bike sharing company Pronto might be "How should bicycles be allocated
 among stations?"
-The analysis may be indirect in that you are providing a tool to help
-others (e.g., better organize the Pronto data for analysis) or
-you are teaching others the skills needed to do analysis
+An *analysis project* would seek data to answer this question
+directly.
+However, you choose not to actually answer the question
+yourself but rather to build
+a tool to help
+others to answer the question
+(e.g., better organize the Pronto data for analysis).
+Still another possibility is that you will build a system that teaches
+others the skills needed to do analysis
 (e.g., a system that teaches about logistics for businesses in the
 sharing economy).
 
