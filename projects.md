@@ -78,8 +78,9 @@ that is structured as one or more python modules
 * examples folder that contains examples of using the packages
 
 ## Presentations
-Projec teams 
-will present their projects, either as a poster or a 25 presentation.
+Teams 
+will present their projects, either as a poster or a 
+25 minute oral presentation.
 The presentation should include:
 problem description and motivation,
 data used,
@@ -89,6 +90,7 @@ demonstration (either live or in screen shots).
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
+
 * Organized as described in the section on project structure
 * Quality of the documentation (especially the functional
 specification and design specification)
