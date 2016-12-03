@@ -16,15 +16,17 @@ bike sharing company Pronto might be "How should bicycles be allocated
 among stations?"
 An **analysis project** would seek data to answer this question
 directly.
-However, you choose not to actually answer the question
+However, you may choose not to answer the question
 yourself.
 Rather, you might do a **tool project** that builds
 a tool to help
 others to answer the question.
-For example,
-a tool better organize the Pronto data for analysis.
+For example, one such tool might be a package that
+better organizes
+the Pronto data for analysis.
 Still another possibility is that you will build a system that teaches
-others the skills needed to do analysis, or an
+others the skills needed to do analysis, which
+we call an
 **instructional system project**.
 An example here would be
 a system that teaches about logistics for businesses in the
@@ -46,9 +48,9 @@ questions of interest.
 ### Step 3: Write the Functional Specification
 The functional specification details:
 
-* Who are the users and what do they know (e.g., business analyst)
-* What information users want from the system (e.g., where to put bicycles)
-* Use cases - how users interact with the system to get the 
+* who are the users and what do they know (e.g., business analyst)
+* what information users want from the system (e.g., where to put bicycles)
+* use cases - how users interact with the system to get the 
 information they want
 
 For tool projects, the users are typically programmers, and so the
@@ -67,6 +69,7 @@ will provide key features (e.g., visualizations).
 ## Project Structure
 Projects should have a github repository with the project name.
 Top level folders/files within the repository include: 
+
 * README.md file that gives an overview of the project
 * LICENSE file
 * setup.py file that initializes the project after it has been cloned
@@ -86,7 +89,7 @@ problem description and motivation,
 data used,
 use cases,
 design,
-demonstration (either live or in screen shots).
+and demonstration (either live or in screen shots).
 The presentations will take place on Wed Dec 14 between
 1pm and 3pm in the Data Science Studio
 (6th floor of the Physics and Astronomy Building).
@@ -97,6 +100,7 @@ Projects will be evaluated based on the following criteria:
 * Organized as described in the section on project structure
 * Quality of the documentation (especially the functional
 specification and design specification)
+* Uses at least two data sources
 * Code quality, especially consistent coding standard
 * Test coverage
 * Quality of the example of using the package (in the examples
