@@ -17,26 +17,25 @@ among stations?"
 An *analysis project* would seek data to answer this question
 directly.
 However, you choose not to actually answer the question
-yourself but rather to build
+yourself.
+Rather, you might do a *tool project* that builds
 a tool to help
-others to answer the question
-(e.g., better organize the Pronto data for analysis).
+others to answer the question.
+For example,
+a tool better organize the Pronto data for analysis.
 Still another possibility is that you will build a system that teaches
-others the skills needed to do analysis
-(e.g., a system that teaches about logistics for businesses in the
-sharing economy).
-
-Projects may be of many types:
-- Analysis projects answer one or more science questions.
-- Tool projects create software or data resources intended for use by others.
-- Instructional projects create an environment intended to teach specific material.
+others the skills needed to do analysis, or an
+*instructional system project*.
+An example here would be
+a system that teaches about logistics for businesses in the
+sharing economy.
 Other types of projects are possible as well.
 
 ## Project Workflow
 
 ### Step 1: Pick Your Data
 You should have two data sets so that you can demonstrate an ability
-to join data with different characteristics (e.g., granularity in time and/or space)
+to join data with different characteristics (e.g., granularity in time and/or space).
 The data must be available immediately, without concerns
 about access rights for team members or the instructors.
 
@@ -46,9 +45,9 @@ questions of interest.
 
 ### Step 3: Write the Functional Specification
 The functional specification details:
-- Who are the users and what do they know (e.g., business analyst)
-- What information users want from the system (e.g., where to put bicycles)
-- Use cases - how users interact with the system to get the 
+ - Who are the users and what do they know (e.g., business analyst)
+ - What information users want from the system (e.g., where to put bicycles)
+ - Use cases - how users interact with the system to get the 
 information they want
 For tool projects, the users are typically programmers, and so the
 functional specification describes the programming interface.
