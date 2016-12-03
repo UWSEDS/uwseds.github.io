@@ -1,8 +1,8 @@
----
+*--
 layout: page
 title: Projects
 collection: main
----
+*--
 
 ## Overview
 The course project is a "capstone" that pulls together all elements of the course:
@@ -14,18 +14,18 @@ Projects will address a science or business question of interest.
 For example, a business question related to the
 bike sharing company Pronto might be "How should bicycles be allocated
 among stations?"
-An *analysis project* would seek data to answer this question
+An **analysis project** would seek data to answer this question
 directly.
 However, you choose not to actually answer the question
 yourself.
-Rather, you might do a *tool project* that builds
+Rather, you might do a **tool project** that builds
 a tool to help
 others to answer the question.
 For example,
 a tool better organize the Pronto data for analysis.
 Still another possibility is that you will build a system that teaches
 others the skills needed to do analysis, or an
-*instructional system project*.
+**instructional system project**.
 An example here would be
 a system that teaches about logistics for businesses in the
 sharing economy.
@@ -46,9 +46,9 @@ questions of interest.
 ### Step 3: Write the Functional Specification
 The functional specification details:
 
-- Who are the users and what do they know (e.g., business analyst)
-- What information users want from the system (e.g., where to put bicycles)
-- Use cases - how users interact with the system to get the 
+* Who are the users and what do they know (e.g., business analyst)
+* What information users want from the system (e.g., where to put bicycles)
+* Use cases - how users interact with the system to get the 
 information they want
 
 For tool projects, the users are typically programmers, and so the
@@ -67,15 +67,15 @@ will provide key features (e.g., visualizations).
 ## Project Structure
 Projects should have a github repository with the project name.
 Top level folders/files within the repository include: 
-- README.md file that gives an overview of the project
-- LICENSE file
-- setup.py file that initializes the project after it has been cloned
-- doc folder that contains documentation (including the functional specifical
+* README.md file that gives an overview of the project
+* LICENSE file
+* setup.py file that initializes the project after it has been cloned
+* doc folder that contains documentation (including the functional specifical
 and the design specification)
-- python package folder (with the same name as the repository)
+* python package folder (with the same name as the repository)
 that is structured as one or more python modules 
 (e.g., with __init__.py files) and test files that begin with "test_".
-- examples folder that contains examples of using the packages
+* examples folder that contains examples of using the packages
 
 ## Presentations
 Projec teams 
@@ -89,11 +89,11 @@ demonstration (either live or in screen shots).
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
-- Organized as described in the section on project structure
-- Quality of the documentation (especially the functional
+* Organized as described in the section on project structure
+* Quality of the documentation (especially the functional
 specification and design specification)
-- Code quality, especially consistent coding standard
-- Test coverage
-- Quality of the example of using the package (in the examples
+* Code quality, especially consistent coding standard
+* Test coverage
+* Quality of the example of using the package (in the examples
 folder of the project repository)
-- Completeness of the setup.py script
+* Completeness of the setup.py script
