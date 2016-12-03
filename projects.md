@@ -45,10 +45,12 @@ questions of interest.
 
 ### Step 3: Write the Functional Specification
 The functional specification details:
- - Who are the users and what do they know (e.g., business analyst)
- - What information users want from the system (e.g., where to put bicycles)
- - Use cases - how users interact with the system to get the 
+
+- Who are the users and what do they know (e.g., business analyst)
+- What information users want from the system (e.g., where to put bicycles)
+- Use cases - how users interact with the system to get the 
 information they want
+
 For tool projects, the users are typically programmers, and so the
 functional specification describes the programming interface.
 
