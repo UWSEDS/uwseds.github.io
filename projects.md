@@ -87,6 +87,9 @@ data used,
 use cases,
 design,
 demonstration (either live or in screen shots).
+The presentations will take place on Wed Dec 14 between
+1pm and 3pm in the Data Science Studio
+(6th floor of the Physics and Astronomy Building).
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
