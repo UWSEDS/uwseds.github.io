@@ -1,8 +1,8 @@
-*--
+---
 layout: page
 title: Projects
 collection: main
-*--
+---
 
 ## Overview
 The course project is a "capstone" that pulls together all elements of the course:
