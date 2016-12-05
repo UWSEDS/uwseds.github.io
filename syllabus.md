@@ -17,5 +17,5 @@ collection: main
 |Nov 21 | [Machine Learning Essentials & Project Stand-ups](http://github.com/jakevdp/sklearn_tutorial) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1078cb7d-966b-48bc-9654-9f35664a0b70) |NO CLASS (Thanksgiving) | [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | |
 |Nov 28  | Student-led Tech Reviews (Example tech review in [Working in Teams](https://docs.google.com/presentation/d/1rCc2J73XQeaTOGLi2eUZQCbMy3Jk20W7waIjCPUSwHs/edit#slide=id.p31)) | Structured Query Language (SQL) & Project Stand-ups |[Software Engineering Group Guide](http://www.sei.cmu.edu/reports/90tr024.pdf) – [Pull Request Tutorial](https://yangsu.github.io/pull-request-tutorial/) |[Homework 7](https://drive.google.com/open?id=1_4znfRTfUYs82_2HbzeReiBsQvBiGhWfWt7EqB3ZCVQ)
 |Dec 06 |[Project Summaries & Stand-ups](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd3e2b9d-66ff-4914-8c1a-445d2ec63265)   |[Project Summaries & Stand-ups](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d25aafe9-7585-4a7a-b39a-fc99b4ac0171)   |
-|Dec 13 | Project Posters
+|Dec 13 | Wed 12/14, 1-3pm: Project Presentations (6th Floor, Physics and Astronomy Building)
 {: rules="groups"}
