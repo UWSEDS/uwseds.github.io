@@ -34,18 +34,21 @@ Class participation will be graded based on project related presentations.
 
 [Description of Class Project](https://docs.google.com/document/d/14XfgSuko_hfYbNBq8agz31CxnmIJkw2Iz8yW0cs-mSY/edit?usp=sharing)
 
+Deadlines:
+
+* Wed. 12/14 1-3pm: Project Presentations (6th Floor, Physics and Astronomy Building)
+* Thurs. 12/15 8am: Project repositories are finalized
+
 Projects will be graded based on:
 (a) the poster presentation, (b) documentation
 (especially function and design specifications), (c) the features implemented,
 and (d) code quality.
+(Details of the grading rubric can be found
+in the Projects tab.)
 Grades for the project will be assigned to the entire team, although
 there will be adjustments
 for significant discrepancies in
 the relative contributions of team members.
-(Details of the grading rubric can be found
-in the Projects tab.)
 The latter will be assessed by commit logs and by
 a survey students will submit
 at the end of the quarter.
-The last commit to the project repository
-is happen no later than 8am (Pacfic Time) Thursday December 15, 2016.
