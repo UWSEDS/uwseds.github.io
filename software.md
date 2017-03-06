@@ -8,6 +8,9 @@ The course makes use of a number of software packages that students
 will install on their computers.
 The following software are available for Windows, Mac, and Linux.
 
+## git and github. You should have a github account and ensure that
+git is installed on your computer.
+
 ## Bash shell and git software version control
 The bash shell provides a programming environment that
 is often used to manipulate files, install programs, and

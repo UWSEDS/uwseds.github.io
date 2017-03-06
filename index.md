@@ -8,13 +8,12 @@ collection: main
 
 - David A. C. Beck
 - Joseph L. Hellerstein
-- Jake VanderPlas
 
 
 ## Logistics
 
-- Days: Mon & Wed
-- Time: 12:30-1:50
+- Days: Tuesday
+- Time: 5pm - 8:50pm
 - Place: Odegaard Undergraduate Library (OUG) 141
 
 
