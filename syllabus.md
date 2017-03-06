@@ -17,4 +17,3 @@ collection: main
 |May   23 | Machine learning essentials. Project standups. |                  |            |
 |May   30 | Project presentations.                         |                  |            |
 |June   6 | Posters.                                       |                  |            |
-{: rules="groups"}
