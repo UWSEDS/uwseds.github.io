@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-collection: main
+collection: fall2016
 ---
 
 | Week  | Monday Topic | Wednesday Topic | References | Assignment |
