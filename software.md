@@ -26,6 +26,27 @@ Look [here](https://github.com/UWSEDS/uwseds.github.io/blob/master/software_wind
 for more
 details on the use of an editor with Windows for git.
 
+### Mac OSX note: Some students reported an error with ``git``:
+```
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+```
+To fix this, do the following:
+
+* Start a new Terminal
+* Run the following command: ``xcode-select --install``
+* Click ``Install``
+* Click ``Agree`` to agree to the terms
+For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/)
+
+### Windows user note:
+Windows users should install the Software Carpentry recommended software:
+Please follow these instructions on YouTube: [https://www.youtube.com/watch?v=339AEqk9c-8](https://www.youtube.com/watch?v=339AEqk9c-8).
+Make sure you install gitbash _and_ the text editor (SWCarpentryInstaller).
+Links to the installers for Windows:
+* GitBASH: [https://git-for-windows.github.io](https://git-for-windows.github.io)
+* Software Carpentry Installer: [https://github.com/swcarpentry/windows-installer/releases/](https://github.com/swcarpentry/windows-installer/releases/)
+
+
 ## Get the class notes
 Use git to clone the repo for the lectures. (We're assuming that you git installed.)
 
