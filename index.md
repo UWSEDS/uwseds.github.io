@@ -3,6 +3,7 @@ layout: home
 title: Home
 collection: main
 ---
+# Data 515a: Software Development for Data Scientists
 
 ## Instructors
 
