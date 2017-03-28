@@ -6,7 +6,7 @@ collection: main
 
 | Date    | Topic                                          | References       | Assignment |
 |:--------|:-----------------------------------------------|:-----------------|:-----------|
-|March 28 | Course introduction and data essentials        |                  |            |
+|March 28 | Course introduction and data essentials        | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php) | [Homework 1](https://classroom.github.com/assignment-invitations/8b23042c9edadbe4e37f7fc0e3307e82) |
 |April  4 | Procedural python and version control          |                  |            |
 |April 11 | Visualization in python and reproducibility    |                  |            |
 |April 18 | Exceptions, debugging, software design         |                  |            |
