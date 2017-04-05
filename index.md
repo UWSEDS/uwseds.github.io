@@ -12,7 +12,7 @@ collection: main
 
 ## Logistics
 
-- Days: Tuesday
+- Days: Thursday
 - Time: 5pm - 8:50pm
 - Place: Odegaard Undergraduate Library (OUG) 141
 
