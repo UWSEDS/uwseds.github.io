@@ -13,7 +13,7 @@ collection: main
 |April 27 | [Programming style & documentation.](https://github.com/UWSEDS/LectureNotes/blob/master/11.Style_Doc_Communicate.pptx?raw=true) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8aeb2ce-be0d-433c-aa98-3aa5885b5843) [Working in teams.](https://github.com/UWSEDS/LectureNotes/blob/master/Working-in-Teams.pdf) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab668af8-9a24-4431-a675-cea9e07cb9b5)) Projects 2.   | [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/) – [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) – [Beyond PEP 8 (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)  | [Homework 5](https://classroom.github.com/assignment-invitations/9e42d1a662156ff0605d6cc78e6349dd)           |
 |May    4 | Version control with collaboration. Student Technology Reviews.            |                  |            |
 |May   11 | SQL with python. Advanced visualization with Bokeh.               |                  |            |
-|May   18 | Project structure & packages. Object oriented programming and design.|                  |            |
+|May   18 | Object oriented programming and design. Project structure and packages. |                  |            |
 |May   25 | Machine learning essentials. Project standups. |                  |            |
 |June   1 | Project presentations.                         |                  |            |
 |June   8 | Posters.                                       |                  |            |
