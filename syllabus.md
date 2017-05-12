@@ -15,5 +15,5 @@ collection: main
 |May   11 | [Data IO](https://github.com/UWSEDS/LectureNotes/blob/master/13.Data_IO_SQL/Challenge.md), [SQL](http://www.sqlitetutorial.net/sqlite-sample-database/) with python. [Advanced visualization with Bokeh](https://github.com/UWSEDS/LectureNotes/blob/master/Visualization-in-Depth/Visualization-in-depth.ipynb) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3349bc01-5f62-49c9-a97a-c161aca62554)).   | |[Homework 7](https://classroom.github.com/assignment-invitations/1d8e98d326789b9b9971a9a60223e76e) |
 |May   18 | Object oriented programming and design. Project structure and packages. |                  |            |
 |May   25 | Machine learning essentials. Project standups. |                  |            |
-|June   1 | Project presentations.                         |                  |            |
-|June   8 | Posters.                                       |                  |            |
+|June   1 | Preliminary project presentations.                         |                  |            |
+|June   6 | 6:30pm: Final Project Presentations                                       |                  |            |
