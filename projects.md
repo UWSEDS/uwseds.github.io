@@ -82,17 +82,19 @@ that is structured as one or more python modules
 
 ## Presentations
 Teams 
-will present their projects, either as a poster or a 
-25 minute oral presentation.
+will present their projects using slides in
+15 minute oral presentation.
 The presentation should include:
-problem description and motivation,
-data used,
-use cases,
-design,
-and demonstration (either live or in screen shots).
-The presentations will take place on Wed Dec 14 between
-1pm and 3pm in the Data Science Studio
-(6th floor of the Physics and Astronomy Building).
+
+- Background. Describe the problem or area being addressed.
+- Data used. What data did you use? How was it obtained? What are its limitations?
+- Use cases. How users will interact with your system in a way that addresses the problem area.
+- Demo. Demonstrate your software.
+- Design. Describe the components and how they interact to accomplish the use cases.
+- Project Structure. Show the structure of your github repository.
+- Lessons learned and future work.
+
+You should post a PDF of your presentation in the docs folder of your project.
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
