@@ -108,3 +108,5 @@ specification and design specification)
 * Quality of the example of using the package (in the examples
 folder of the project repository)
 * Completeness of the setup.py script
+
+*ALL INFORMATION MUST BE POSTED TO YOUR REPO BY MIDNIGHT (PDT) JUNE 6.*
