@@ -4,7 +4,7 @@ title: Syllabus
 collection: main
 ---
 
-| Week  | Monday Topic | Wednesday Topic | References | Assignment |
+| Week  | Wednesday Topic | Friday Topic | References | Assignment |
 |:------------|:-------------|:----------------|:-------------------|:-------------|
 |Sep 27 |[Course introduction and data essentials](https://drive.google.com/open?id=0B_5opJbPTdCOaTJROC1kdi1xdjg) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce3583c-f7a7-4851-b2df-70176e6f9565) | TBD | | |
 |Oct 04 |[Data analysis with python](https://github.com/UWSEDS/LectureNotes/blob/master/02-Python-and-Data/) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d380c508-fe15-414f-8ca0-a79a0aeef047))  | [Version control I](https://drive.google.com/file/d/0B2W0sLi5wYs7Z1F1aFk0SmxxMmc/view?usp=sharing) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02cb6f86-70ff-4f71-a2c1-a0d8c8150fc7)   |[learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php)| [Homework 1](https://docs.google.com/document/d/1mxF8YyXCk4EPgfQF6xLXAZM1akhQ0WEg-Rp7Sp_BfYI/edit?usp=sharing)|
