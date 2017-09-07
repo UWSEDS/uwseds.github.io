@@ -8,4 +8,5 @@ collection: main
 
 - David A. C. Beck (dacb@uw.edu): TBD
 - Joseph L. Hellerstein (jlheller@uw.edu): TBD
-- Teaching Assistant: TBD
+- Jake VanderPlas (jakevdp@cs.washington.edu): TBD
+- Alex Ford (fordas@uw.edu): TBD

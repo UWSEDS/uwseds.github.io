@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-collection: main
+collection: spring2017
 ---
 
 | Date    | Topic                                          | References       | Assignment |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-collection: main
+collection: spring2017
 ---
 
 ## Overview

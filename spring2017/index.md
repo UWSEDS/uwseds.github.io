@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-collection: main
+collection: spring2017
 ---
 
 ## Instructors
