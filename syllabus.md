@@ -12,7 +12,7 @@ collection: main
 |Oct 18 |Exceptions & Debugging, Class project teams/data  | Writing unit tests             | | Homework 3 |
 |Oct 25 |Working in teams, First student standups          | Software design, Draft project function specificatons | | Homework 4 |
 |Nov 01 |Visualization in Python                           | Machine learning essentials    | | Homework 5 |
-|Nov 08 |Programming style and documentation               | Project Structure              | | Homework 6 |
+|Nov 08 |Programming style and documentation               | Package structure              | | Homework 6 |
 |Nov 15 |Structured query language (SQL), Student standups | Student standups               | | Homework 7 |
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
 |Nov 29 |Student technology reviews                        | Student technology reviews     | |            |
