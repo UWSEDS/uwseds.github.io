@@ -15,7 +15,7 @@ collection: main
 |Nov 08 |Programming style and documentation               | Package structure              | | Homework 6 |
 |Nov 15 |Structured query language (SQL), Student standups | Student standups               | | Homework 7 |
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
-|Nov 29 |Student technology reviews                        | Student technology reviews     | |            |
+|Nov 29 |Student technology reviews (11/27 is final date for late homeworks.)  | Student technology reviews     | |            |
 |Dec 06 |Project Summaries                                 | Project Summaries              | |            |
 |Dec ?  | Project Presentations (6th Floor, Physics and Astronomy Building) | | |
 {: rules="groups"}
