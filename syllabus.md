@@ -5,7 +5,7 @@ collection: main
 ---
 
 | Week      | Wednesday Topic | Friday Topic   | References | Assignment |
-|:------------|:-------------|:----------------|:-------------------|:-------------|
+|:----------|:----------------|:---------------|:-------------------|:-------------|
 |Sep 27 |Course introduction and data essentials           | Data analysis with python      | |            |
 |Oct 04 |Version control I                                 | Version control II             | | Homework 1 |
 |Oct 11 |Jupyter Notebook in Depth, Class project overview | Procedural python              | | Homework 2 |
