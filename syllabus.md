@@ -13,7 +13,7 @@ collection: main
 |Oct 25 |Project overview + Version Control 2 (Dave)       | Working in teams (Joe)         | | Homework 4 |
 |Nov 01 |In-class standups, Student Tech Review, Software Design (Joe) |2 Student Tech Reviews, Visualization in Python (Joe) | | Homework 5 |
 |Nov 08 |Student Tech Review, Structuring Data (Alex)      | Machine learning essentials (Jake) | | Homework 6 |
-|Nov 15 |2 Student Tech Reviews, Package Structure | Student Tech Review, Student standups | | Homework 7 |
+|Nov 15 |2 Student Tech Reviews, Package Structure (Dave) | Student Tech Review, Student standups | | Homework 7 |
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
 |Nov 29 |Student standups in groups + mentored project time | Student standups in groups + mentored project time | | |
 |Dec 06 |Student Project Summaries                         | Student Project Summaries      | |            |
