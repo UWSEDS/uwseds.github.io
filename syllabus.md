@@ -10,10 +10,10 @@ collection: main
 |Oct 04 |Jupyter Notebook in Depth (Jake)                  | Version Control 1 (Dave)       | | Homework 1 |
 |Oct 11 |Procedural Python (Jake)                          | Exceptions & Debugging (Joe)   | | Homework 2 |
 |Oct 18 |Programming style & documentation (Dave)          | Writing unit tests (Joe)       | | Homework 3 |
-|Oct 25 |Project overview + Version Control 2 (Dave)       | Working in teams               | | Homework 4 |
-|Nov 01 |First standups, Student Tech Review, Software Design (Joe) |2 Student Tech Reviews, Visualization in Python | | Homework 5 |
-|Nov 08 |Student Tech Review, Structuring Data (Alex)      | Machine learning essentials (Jake) | Homework 6 |
-|Nov 15 |2 Student Tech Reviews, Package Structure | Student Tech Reviews, Student standups | | Homework 7 |
+|Oct 25 |Project overview + Version Control 2 (Dave)       | Working in teams (Joe)         | | Homework 4 |
+|Nov 01 |In-class standups, Student Tech Review, Software Design (Joe) |2 Student Tech Reviews, Visualization in Python | | Homework 5 |
+|Nov 08 |Student Tech Review, Structuring Data (Alex)      | Machine learning essentials (Jake) | | Homework 6 |
+|Nov 15 |2 Student Tech Reviews, Package Structure | Student Tech Review, Student standups | | Homework 7 |
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
 |Nov 29 |Student standups in groups + mentored project time | Student standups in groups + mentored project time | | |
 |Dec 06 |Project Summaries                                 | Project Summaries              | |            |
