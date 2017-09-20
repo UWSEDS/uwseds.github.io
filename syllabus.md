@@ -9,7 +9,7 @@ collection: main
 |Sep 27 |Course introduction and data essentials (all)     | Data analysis with python (Jake)     | |            |
 |Oct 04 |Jupyter Notebook in Depth (Jake)                  | Version Control 1 (Dave)       | | Homework 1 |
 |Oct 11 |Procedural Python (Jake)                          | Exceptions & Debugging (Joe)   | | Homework 2 |
-|Oct 18 |Programming style & documentation (Dave)          | Writing unit tests (Joe)       | | Homework 3 |
+|Oct 18 |Writing unit tests (Joe)                          | Programming sytle & documentation (Dave)       | | Homework 3 |
 |Oct 25 |Project overview + Version Control 2 (Dave)       | Working in teams (Joe)         | | Homework 4 |
 |Nov 01 |In-class standups, Student Tech Review, Software Design (Joe) |2 Student Tech Reviews, Visualization in Python (Joe) | | Homework 5 |
 |Nov 08 |Student Tech Review, Structuring Data (Alex)      | Machine learning essentials (Jake) | | Homework 6 |
