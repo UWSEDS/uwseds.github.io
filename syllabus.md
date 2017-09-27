@@ -6,7 +6,7 @@ collection: main
 
 | Week      | Wednesday Topic | Friday Topic   | References | Assignment |
 |:----------|:----------------|:---------------|:-------------------|:-------------|
-|Sep 27 |Course introduction and data essentials           | Data analysis with python      | |            |
+|Sep 27 |[Course introduction and data essentials](https://github.com/UWSEDS/LectureNotes/blob/master/01-Course-Introduction-And-Data-Essentials.ppt?raw=true)<br>[video]()           | Data analysis with python      | |            |
 |Oct 04 |Version control I                                 | Version control II             | | Homework 1 |
 |Oct 11 |Jupyter Notebook in Depth, Class project overview | Procedural python              | | Homework 2 |
 |Oct 18 |Exceptions & Debugging, Class project teams/data  | Writing unit tests             | | Homework 3 |
