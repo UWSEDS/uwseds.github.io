@@ -6,7 +6,7 @@ collection: main
 
 | Week      | Wednesday Topic | Friday Topic   | References | Assignment |
 |:----------|:----------------|:---------------|:-------------------|:-------------|
-|Sep 27 |[Course introduction and data essentials](https://github.com/UWSEDS/LectureNotes/blob/master/01-Course-Introduction-And-Data-Essentials.ppt?raw=true)<br>[video]() (all)     | Data analysis with python (Jake)     | |            |
+|Sep 27 |[Course introduction and data essentials](https://github.com/UWSEDS/LectureNotes/blob/master/01-Course-Introduction-And-Data-Essentials.ppt?raw=true)<br>[video]() (all)     | Data analysis with python (Jake)     | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php) |            |
 |Oct 04 |Jupyter Notebook in Depth (Jake)                  | Version Control 1 (Dave)       | | Homework 1 |
 |Oct 11 |Procedural Python (Jake)                          | Exceptions & Debugging (Joe)   | | Homework 2 |
 |Oct 18 |Writing unit tests (Joe)                          | Programming sytle & documentation (Dave)       | | Homework 3 |
