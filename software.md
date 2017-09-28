@@ -53,30 +53,32 @@ Use git to clone the repo for the lectures. (We're assuming that you git install
 - git clone https://github.com/UWSEDS/LectureNotes.git
 
 ## Python
-We recommend that you use Python 3.5 or later. Earlier versions of Python 3 work as well.
-There are some differences between Python 2.7 (and earlier releases of Python 2)
-and Python 3.
-Details on installing Python can be found at https://www.python.org/downloads/.
+We recommend that you use Python 3.5 or later (e.g. 3.6). Earlier versions of Python 3 work as
+well.  There are some differences between Python 2.7 (and earlier releases of
+Python 2) and Python 3. A python installation for this course will be managed by the
+[conda](https://conda.io/docs/) package management system, described below.
 
 ## Conda
-Conda is a system for installing and otherwise managing python packages.
-We recommend students use miniconda.
-See http://conda.pydata.org/miniconda.html
-for instructions for downloading and installing miniconda. 
-(You should use the instructions for your OS and Python 3.5.)
-Below
-are detailed instructions after you have installed miniconda:
+Conda is a system for installing and otherwise managing python and other
+software packages.  We recommend students use miniconda.  See
+[http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
+for instructions for downloading and installing miniconda for your OS.
+
+Below are detailed instructions after you have installed miniconda:
 
 1. Update conda's listing of packages for your system:
 - $conda update conda
-2. Install IPython notebook and all its requirements
+2. Shift to a python 3.5 installation for your system:
+- $conda install python=3.5
+3. Install IPython notebook and its requirements:
 - $ conda install ipython-notebook
-3. Navigate to the directory containing the course material. For example:
+4. Navigate to the directory containing the course material. For example:
 - $ cd ~/LectureNotes/02-Python-and-Data
-4. Type ipython notebook in the terminal to start the notebook
+5. Type ipython notebook in the terminal to start the notebook:
 - $ ipython notebook
 
-If everything has worked correctly, it should automatically launch your default browser
+If everything has worked correctly, it should automatically open the notebook
+server in your default browser. 
 
 ## Text editor
 Students will select a text editor of their choice, such as
