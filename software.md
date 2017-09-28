@@ -69,11 +69,13 @@ are detailed instructions after you have installed miniconda:
 
 1. Update conda's listing of packages for your system:
 - $conda update conda
-2. Install IPython notebook and all its requirements
+2. Shift to a python 3.5 installation for your system:
+- $conda install python==3.5
+3. Install IPython notebook and all its requirements:
 - $ conda install ipython-notebook
-3. Navigate to the directory containing the course material. For example:
+4. Navigate to the directory containing the course material. For example:
 - $ cd ~/LectureNotes/02-Python-and-Data
-4. Type ipython notebook in the terminal to start the notebook
+5. Type ipython notebook in the terminal to start the notebook;
 - $ ipython notebook
 
 If everything has worked correctly, it should automatically launch your default browser
