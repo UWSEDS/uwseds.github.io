@@ -70,7 +70,7 @@ are detailed instructions after you have installed miniconda:
 1. Update conda's listing of packages for your system:
 - $conda update conda
 2. Shift to a python 3.5 installation for your system:
-- $conda install python==3.5
+- $conda install python=3.5
 3. Install IPython notebook and all its requirements:
 - $ conda install ipython-notebook
 4. Navigate to the directory containing the course material. For example:
