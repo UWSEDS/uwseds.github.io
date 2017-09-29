@@ -74,8 +74,8 @@ Below are detailed instructions after you have installed miniconda:
 - $ conda install notebook
 4. Navigate to the directory containing the course material. For example:
 - $ cd ~/LectureNotes/02-Python-and-Data
-5. Type ipython notebook in the terminal to start the notebook:
-- $ ipython notebook
+5. Type jupyter notebook in the terminal to start the notebook:
+- $ jupyter notebook
 
 If everything has worked correctly, it should automatically open the notebook
 server in your default browser. 
