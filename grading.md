@@ -36,17 +36,21 @@ Second, the mechanisms for peer review will rely on github; so, doing peer revie
 Last, the interest in CSE 583 has grown beyond our capacity to grade homework in a scalable way. Peer review provides a way for us to have more students take the course.
 
 Here are the details of the peer review process:
-Each homework you submit will be a separate github repository. We will randomly assign two members of the class as collaborators for each homework repository. These collaborators will be your reviewers.
-The review is done by submitting an issue to the homework repository. 
-Submitting an issue creates a boilerplate (template) of the review that is the grading rubric for that assignment. 
-Reviewers will have 1 week from the date of submission of your homework to input their review. 
-You can respond to reviews by using the github issue mechanism. 
-The response can be to change your homework in compliance with observations from the reviewers. 
-Or, the response can be to question/refine the issues raised by the reviewers. 
-The reviewers can respond to your response as well. It is expected that reviewers will update their grades of the homework in response to changes made by the home submitting student. 
-The repository will be closed to modification two weeks after the homework is due.
-Your grade will be the average of the grades assigned by your reviewers when the homework repository is closed. 
-You will receive this grade only if you completed the two reviews that you were assigned for that homework. 
+1. Each homework you submit will be a separate github repository. 
+   We will randomly assign two members of the class as collaborators for each homework repository. 
+   These collaborators will be your reviewers.
+1. To review a classmate's homework, you submit a github issue to the classmate's homework repository. 
+   Submitting an issue creates a boilerplate (template) of the review that is the grading rubric for that assignment. 
+1. Reviewers will have 1 week from the date of submission of your homework to input their review. 
+   You can respond to reviews by using the github issue mechanism. 
+   The response can be to change your homework in compliance with observations from the reviewers. 
+   Or, the response can be to question/refine the issues raised by the reviewers. 
+   The reviewers can respond to your response as well. 
+   It is expected that reviewers will update their grades of the homework in response to changes made by the home submitting student. 
+1. The repository will be closed to modification two weeks after the homework is due.
+   Your grade will be the average of the grades assigned by your reviewers when the homework repository is closed. 
+   You will receive this grade only if you completed the two reviews that you were assigned for that homework.
+ 
 Please contact one of the instructors by email if there is an issue with how the collaboration works for grading homework.
 
 ## Class Participation
