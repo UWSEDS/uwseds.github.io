@@ -5,7 +5,7 @@ title: Homework 1 Submission
 
 # Homework 1 Submission
 
-This guide will walk you through submitting homework 1 after you've finished developing your notebook. They assume you've a workspace directory setup with the following files:
+This guide will walk you through submitting homework 1 after you've finished developing your notebook. It assumes you've a workspace setup with the following files:
 
 ````
 > ls
@@ -15,16 +15,16 @@ data/*
 
 ## 1: Clone Repo
 
-Visit the github classroom to establish/access your personal homework repository: https://classroom.github.com/a/yiSZgFof 
+Visit github classroom to establish & access your personal homework repository via the submission link on the syllabus page.
 
-From the repository page use the provided clone url to clone the remote repository into your workspace. For example:
+From your github repository page use the provided clone url to clone the remote repository into your workspace. For example:
 
 ````
-> git clone https://github.com/UWSEDS-aut17/hw1-asford
+> git clone https://github.com/UWSEDS/hw1-username
 > ls
 data
 homework1.ipynb
-hw1-asford
+hw1-username
 ````
 
 ## 2: Move homework into repository clone and commit
@@ -32,8 +32,8 @@ hw1-asford
 Move your homework submission into the repository folder and commit it to the repo.
 
 ````
-> mv homework1.ipynb data hw1-asford
-> cd hw1-asford
+> mv homework1.ipynb data hw1-username
+> cd hw1-username
 > ls
 LICENSE
 README.md
@@ -79,7 +79,7 @@ Delta compression using up to 8 threads.
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (4/4), 422 bytes | 0 bytes/s, done.
 Total 4 (delta 0), reused 0 (delta 0)
-To https://github.com/UWSEDS-aut17/hw1-asford
+To https://github.com/UWSEDS/hw1-username
    fb67da8..b4b3b65  master -> master
 > git log --graph --oneline --decorate
 * b4b3b65 (HEAD -> master, origin/master, origin/HEAD) Homework submission.
