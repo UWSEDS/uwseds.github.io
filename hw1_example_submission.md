@@ -1,3 +1,8 @@
+---
+layout: page
+title: Homework 1 Submission
+---
+
 # Homework 1 Submission
 
 This guide will walk you through submitting homework 1 after you've finished developing your notebook. They assume you've a workspace directory setup with the following files:
