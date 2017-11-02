@@ -15,7 +15,7 @@ collection: main
 |Nov 08 | Structuring Data (Alex)      | NO CLASS - Veterans Day | | Homework 6 |
 |Nov 15 |Tech Reviews      | Package Structure (Dave) | | Homework 7 |
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
-|Nov 29 |Student standups in groups + mentored project time | Student standups in groups + mentored project time | | |
+|Nov 29 |Student standups in groups + mentored project time | Machine Learning Basics (Jake)  | | |
 |Dec 06 |Student Project Summaries                         | Student Project Summaries      | |            |
 |Dec 13 |                                                  | Project Posters (Dec `15)      | |            |
 {: rules="groups"}
