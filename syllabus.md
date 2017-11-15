@@ -17,5 +17,5 @@ collection: main
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
 |Nov 29 |Student standups in groups + mentored project time | Machine Learning Basics (Jake)  | | |
 |Dec 06 |Student Project Summaries                         | Student Project Summaries      | |            |
-|Dec 13 |                                                  | Project Posters (Dec `15)      | |            |
+|Dec 13 |Project Presentations: 3pm-6pm, 6th Floor, Physicals and Astronomy Building    |   | |            |
 {: rules="groups"}
