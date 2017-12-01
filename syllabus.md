@@ -15,7 +15,7 @@ collection: main
 |Nov 08 | Structuring Data (Alex)      | NO CLASS - Veterans Day | | [Homework 6](https://github.com/UWSEDS/hw6-aut17) Due 11-15 |
 |Nov 15 | Tech Reviews overview & [Package Structure](https://github.com/UWSEDS/LectureNotes-Autumn2017/raw/master/11-Project-Structure-and-Packages/Project-Structure.pdf)[video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae19aca7-c569-4258-b128-eae751cc96bd) (Dave) | Tech Reviews | Homework 7 |
 |Nov 22 |NO CLASS - Thanksgiving                           | NO CLASS - Thanksgiving        | |            |
-|Nov 29 |Student standups in groups + mentored project time | Machine Learning Basics (Jake)  | | |
+|Nov 29 |Student standups in groups + mentored project time | [Machine Learning Basics](https://github.com/jakevdp/sklearn_tutorial) (Jake)  | | |
 |Dec 06 |Student Project Summaries                         | Student Project Summaries      | |            |
 |Dec 13 |Project Presentations: 3pm-6pm, 6th Floor, Physicals and Astronomy Building    |   | |            |
 {: rules="groups"}
