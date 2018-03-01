@@ -8,15 +8,13 @@ collection: main
 
 - David A. C. Beck
 - Joseph L. Hellerstein
-- Jake VanderPlas
-- Alex Ford (TA)
 
 
 ## Logistics
 
-- Days: Wednesday, Friday
-- Time: 12:30pm - 1:50pm
-- Place: Odegaard Undergraduate Library (OUG) 141
+- Days: Tuesdays
+- Time: 5pm - 8:50pm
+- Place: Denny 303
 
 
 ## Course Description

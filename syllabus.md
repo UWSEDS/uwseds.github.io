@@ -13,8 +13,8 @@ collection: main
 |Apr 24     | Software design. Version control II: working in teams.        |||
 |May 01     | Visualization in Python. Machine learning essentials.         | ||
 |May 08     | Student technology reviews.   | ||
-|May 15     | File formats and data structures.                             | ||
-|May 22     | TBD                                                         | ||
+|May 15     | Introduction to objects and OO design. Mentoring session.     | ||
+|May 22     | File formtats and data structures.                            | ||
 |May 29     | Project summaries.                                            | ||
 |Jun 05     | Project Presentations   |
 {: rules="groups"}
