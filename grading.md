@@ -23,8 +23,8 @@ Unless otherwise stated otherwise, homework is due on Monday at 11:59 PM.
 Two points will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
 from the instructors).
-All homework, including those with extensions, must be submitted no later than midnight PT Tuesday
-Nov 27, 2017.
+**All homework, including those with extensions, must be submitted no later than midnight PT Tuesday
+May 29, 2018.**
 
 ## Peer Review
 

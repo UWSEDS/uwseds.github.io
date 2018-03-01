@@ -109,4 +109,4 @@ specification and design specification)
 folder of the project repository)
 * Completeness of the setup.py script
 
-**ALL INFORMATION MUST BE POSTED TO YOUR REPO BY 10AM PDT THURSDAY DECEMBER 14.**
+**ALL INFORMATION MUST BE POSTED TO YOUR REPO BY 10AM PDT THUESDAY JUNE 5, 2018.**

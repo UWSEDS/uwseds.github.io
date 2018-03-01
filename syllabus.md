@@ -6,15 +6,15 @@ collection: main
 
 | Date      | Topic                                                         | References       | Assignment     |
 |:----------|:----------------|:---------------|:-------------------|
-|Mar 27     | Course introduction, data essentials, Version Control I       |                  |                |
-|Apr 03     | Jupyter notebooks, procedural Python and data manipulations   |                  |                |
-|Apr 10     | Exceptions, debugging, and testing. Working in teams.         |                  |                |
-|Apr 17     | Class project overview. Programming style and documentation.  Project structure. |           |                |
+|Mar 27     | Course introduction; Data essentials, Version Control I      |                  |                |
+|Apr 03     | Jupyter notebooks, procedural Python and data manipulations.  |                  |                |
+|Apr 10     | Exceptions, debugging, and testing. Working in teams.        |                  |                |
+|Apr 17     | Class project overview. Programming style and documentation. Project structure and packaging. |           |                |
 |Apr 24     | Software design. Version control II: working in teams.        |||
 |May 01     | Visualization in Python. Machine learning essentials.         | ||
 |May 08     | Student technology reviews.   | ||
 |May 15     | Introduction to objects and OO design. Mentoring session.     | ||
-|May 22     | File formtats and data structures.                            | ||
+|May 22     | File formats and data structures.                            | ||
 |May 29     | Project summaries.                                            | ||
 |Jun 05     | Project Presentations   |
 {: rules="groups"}
