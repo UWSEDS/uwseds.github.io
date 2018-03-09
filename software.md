@@ -52,6 +52,10 @@ Use git to clone the repo for the lectures. (We're assuming that you git install
 
 - git clone https://github.com/UWSEDS/LectureNotes.git
 
+## DB Browser (or other SQL interactive environments)
+You will need an environment in which you can run SQL queries.
+We recommended [DB Browser for sqlite](http://sqlitebrowser.org).
+
 ## Python
 We recommend that you use the most recent version of Python 3.  Earlier
 versions of Python 3 work as well.  There are some differences between Python 2
