@@ -10,8 +10,8 @@ The following software are available for Windows, Mac, and Linux.
 
 ## git and github
 git is a system used for version control and collaboration.
-You should have a github account and ensure that
-git is installed on your computer.
+**You should have a github account and ensure that
+git is installed on your computer.**
 
 ## Bash shell and git software version control
 The bash shell provides a programming environment that
