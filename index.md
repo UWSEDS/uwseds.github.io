@@ -8,6 +8,7 @@ collection: main
 
 - David A. C. Beck
 - Joseph L. Hellerstein
+- TA: Dimitrios Gklezakos
 
 
 ## Logistics
