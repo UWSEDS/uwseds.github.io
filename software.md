@@ -65,6 +65,12 @@ and Python 3, and many systems only include Python 2.7 as a standard
 installation.  A python installation for this course will be managed by the
 [conda](https://conda.io/docs/) package management system, described below.
 
+## sqlite3
+``sqlite3`` provides a simple environment for access SQL databases on your computer.
+It also provides a python API.
+``sqlite3`` is packaged with MacOS and other systems.
+You can check if ``sqlite3`` is installed on your system by typing ``sqlite3`` at the command line of a terminal session.
+
 ## Conda
 Conda is a system for installing and otherwise managing python and other
 software packages.  We recommend students use miniconda.  See
