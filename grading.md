@@ -8,15 +8,15 @@ collection: main
 
 The course grade consists of the following components and percentages:
 
-Homework: 25%
+Homework: 35%
 
-Class participation: 25%
+Class participation: 15%
 
 Course project: 50%
 
 ## Homework grading
 
-There will be 5 homeworks, each worth 5 points.
+There will be 5 homeworks, each worth 7 points.
 The homeworks will be assigned in the first part of the course.
 To receive full credit, homework must be posted by midnight Pacific Time on the due date.
 Unless otherwise stated otherwise, homework is due on Tuesday at 11:59 PM.
