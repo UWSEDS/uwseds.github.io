@@ -15,7 +15,7 @@ collection: main
 
 - Days: Tuesdays
 - Time: 5pm - 8:50pm
-- Place: Denny 303
+- Place: [Denny 303](http://www.washington.edu/maps/#!/DEN)
 
 
 ## Course Description
