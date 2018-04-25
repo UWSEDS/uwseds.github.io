@@ -109,4 +109,12 @@ specification and design specification)
 folder of the project repository)
 * Completeness of the setup.py script
 
+## Examples of previous projects
+These examples are fantastic, though they may not be perfect. They should be considered examples of what kinds of projects are possible and not necessarily exa mples to be precisely emulated.  The examples below include an analysis project, a visualization project and a reusable data project.
+
+* [Ax/Wx](https://github.com/rexthompson/axwx) - Ax/Wx is a collision and weather analysis tool that can enhance the WSP collision database with objective observations from nearby personal weather stations. 
+* [HomeIn](https://github.com/hanghu/HomeIn) - HomeIn provides a visualization tool for housing data, prices, and crime rates on a multiple-layered map. 
+* [Crash Data Analysis Tools](https://github.com/johnash1990/crashDataAnalysisTools) - This set of tools takes several different traffic data sets and merges them as well as providing an easy interface for interacting with the data.
+* [First Stop](https://github.com/sliwhu/UWHousingTeam) - First Stop for First-time home buyers; This tool would be most helpful to first-time home buyers to set up expectations, plan budgets and make an informed decision on expenses before they even go through the exhaustive house-hunting process given current real-estate market status.
+
 **ALL INFORMATION MUST BE POSTED TO YOUR REPO BY 10AM PDT THUESDAY JUNE 5, 2018.**
