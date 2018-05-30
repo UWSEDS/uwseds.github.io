@@ -16,5 +16,5 @@ collection: main
 |May 15     | Standups. [Virtual environments](https://github.com/UWSEDS/LectureNotes-Spring2018/blob/master/12.Virtualization.pptx). (Dave) [Continuous integration.](https://github.com/UWSEDS/LectureNotes-Spring2018/blob/master/13.Continuous_Integration.pptx)<br>[(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6d15b56-583b-4ddd-8966-a8e200246715)<br>[(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46318a7d-f9f0-4bfc-96d6-a8e200065bbb) (Dave)      | ||
 |May 22     | Standups. Introduction to objects and OO design. Other special topics. (Ryan Maas)  | ||
 |May 29     | Standups. Project summaries.                                            | ||
-|Jun 05     | Project Presentations   |
+|Jun 05     | Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
 {: rules="groups"}
