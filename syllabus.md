@@ -4,7 +4,7 @@ title: Syllabus
 collection: main
 ---
 
-| Week          | Tuesday Topic       | Thursday Topi  c   | References         | Assignment   |
+| Week          | Tuesday Topic       | Thursday Topic     | References         | Assignment   |
 |:--------------|:--------------------|:-------------------|:-------------------|:-------------|
 |Sep 23 | NO CLASS | Course introduction and data essentials | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | [Homework 1](https://classroom.github.com/a/yiSZgFof) Due Oct 4 in class. |
 |Oct 01  | Version control 1                                                       | Submit homework; Procedural python | |
