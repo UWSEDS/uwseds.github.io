@@ -108,6 +108,7 @@ specification and design specification)
 * Quality of the example of using the package (in the examples
 folder of the project repository)
 * Completeness of the setup.py script
+* Creativity and technical challenge
 
 ## Examples of previous projects
 These examples are fantastic, though they may not be perfect. They should be considered examples of what kinds of projects are possible and not necessarily exa mples to be precisely emulated.  The examples below include an analysis project, a visualization project and a reusable data project.
