@@ -8,14 +8,14 @@ collection: main
 
 - David A. C. Beck
 - Joseph L. Hellerstein
-- Jake VanderPlas
+- TA: Dimitrios Gklezakos
 
 
 ## Logistics
 
-- Days: Tues, Thurs
-- Time: 2:00-2:20
-- Place: [OUG 136](https://www.google.com/maps?q=47.65646093404,-122.3104401865+(Odegaard+Undergraduate+Library+-+OUG)&z=18)
+- Days: Tuesdays
+- Time: 5pm - 8:50pm
+- Place: [Denny 303](http://www.washington.edu/maps/#!/DEN)
 
 
 ## Course Description
