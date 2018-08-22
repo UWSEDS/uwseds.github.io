@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructors
-collection: main
+collection: spring2018
 ---
 
 ## Office hours. Place: Data Science Studio, 6th Floor PAB (except as noted)

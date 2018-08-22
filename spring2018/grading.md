@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: main
+collection: spring2018
 ---
 
 ## Course Grade
