@@ -9,7 +9,7 @@ collection: main
 - David A. C. Beck
 - Joseph L. Hellerstein
 - Bernease Herman
-- Colin Lockhard (TA)
+- Colin Lockard (TA)
 
 
 ## Logistics
