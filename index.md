@@ -8,7 +8,8 @@ collection: main
 
 - David A. C. Beck
 - Joseph L. Hellerstein
-- Jake VanderPlas
+- Bernease Herman
+- Colin Lockhard (TA)
 
 
 ## Logistics
