@@ -15,7 +15,7 @@ collection: main
 ## Logistics
 
 - Days: Tues, Thurs
-- Time: 2:00-2:20
+- Time: 2:00-3:20 p.m.
 - Place: [OUG 136](https://www.google.com/maps?q=47.65646093404,-122.3104401865+(Odegaard+Undergraduate+Library+-+OUG)&z=18)
 
 
