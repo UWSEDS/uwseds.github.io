@@ -6,7 +6,7 @@ collection: main
 
 | Week          | Tuesday Topic       | Thursday Topic     | References         | Assignment   |
 |:--------------|:--------------------|:-------------------|:-------------------|:-------------|
-|Sep 24 | NO CLASS | [Course introduction, command line, & data essentials](https://github.com/UWSEDS/LectureNotes/blob/master/01-Course-Introduction-And-Data-Essentials.ppt?raw=true) (Dave) [video (soon to come!)]() | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | [Homework 1](https://docs.google.com/document/d/1mxF8YyXCk4EPgfQF6xLXAZM1akhQ0WEg-Rp7Sp_BfYI/edit?usp=sharing) Due Oct 4 in class. |
+|Sep 24 | NO CLASS | [Course introduction, command line, & data essentials](https://github.com/UWSEDS/LectureNotes/blob/master/01_Course_Introduction_Command_Line_Data_Essentials/01_Course_Introduction_Command_Line_Data_Essentials.pptx?raw=true) (Dave) [video (soon to come!)]() | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | [Homework 1](https://docs.google.com/document/d/1mxF8YyXCk4EPgfQF6xLXAZM1akhQ0WEg-Rp7Sp_BfYI/edit?usp=sharing) Due Oct 4 in class. |
 |Oct 01  | Version control 1 (Bernease)                                                       | Submit homework; Procedural python (Joe) | |
 |Oct 08  | Project overview and data sources; Data analysis with python (Joe)      | Structuring code with functions (Colin)| | |
 |Oct 15  | Working in teams; Team formation; Exceptions & debugging (Bernease)     | Jupyter notebooks in depth (Dave) | | |
