@@ -7,7 +7,7 @@ collection: main
 | Week          | Tuesday Topic       | Thursday Topic     | References         | Assignment   |
 |:--------------|:--------------------|:-------------------|:-------------------|:-------------|
 |Sep 24 | NO CLASS | [Course introduction, command line, & data essentials](https://github.com/UWSEDS/LectureNotes/blob/master/01_Course_Introduction_Command_Line_Data_Essentials/01_Course_Introduction_Command_Line_Data_Essentials.pptx?raw=true) (Dave) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8b5dda0-778e-48d8-9f1d-a9680159ac29) | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | [Homework 1](https://docs.google.com/document/d/1mxF8YyXCk4EPgfQF6xLXAZM1akhQ0WEg-Rp7Sp_BfYI/edit?usp=sharing) Due Oct 4 in class. |
-|Oct 01  | Procedural python ([notebooks](https://github.com/UWSEDS/LectureNotes/tree/master/02_Procedural_Python)) (Joe) | Version control 1; Submit homework 1 (Bernease) | |
+|Oct 01  | Procedural python ([notebooks](https://github.com/UWSEDS/LectureNotes/tree/master/02_Procedural_Python) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e0e7114-c781-42cd-a0ea-a96d015b0504)) (Joe) | Version control 1; Submit homework 1 (Bernease) | |
 |Oct 08  | Project overview and data sources; Data analysis with python (Joe)      | Structuring code with functions (Colin)| | |
 |Oct 15  | Working in teams; Team formation; Exceptions & debugging (Bernease)     | Jupyter notebooks in depth (Dave) | | |
 |Oct 22  | Programming style, documentation, linting (Dave)                              | Writing tests (Joe) | |
