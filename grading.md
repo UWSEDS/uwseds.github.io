@@ -26,6 +26,20 @@ from the instructors).
 The instructors will respond to the homework as a github issue.
 You will have one week from the posting of the instructor's issue to revise your homework.
 
+Homework should be submitted using github classroom.
+
+1. Click the link for the homework on the syllabus page. This will create
+a repository for you.
+
+1. Clone the repository on your machine.
+
+1. Do the homework on your machine.
+
+1. ``git add`` new files that you create in your repo.
+
+1. ``git commit`` and ``git push`` to submit your homework. You may do many pushes as long
+as they are before the homework due date.
+
 ## Class Participation
 
 Class participation will be graded based on project related presentations.
