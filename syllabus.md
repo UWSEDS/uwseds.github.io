@@ -13,7 +13,11 @@ collection: main
 |Oct 22  | [Programming style, documentation, linting](https://github.com/UWSEDS/LectureNotes/blob/master/08-Documentation-and-Style/Documentation_and_Style.pptx?raw=true) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e19cbee-d93f-42de-89b7-a982015bb3c3)) (Dave)                              | Technology Reviews; Writing tests ([Notes](https://github.com/UWSEDS/LectureNotes/tree/master/09_UnitTests) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95bdcb97-308d-42dc-a2b7-a984015b4819)) (Joe) | |[Homework 3 due 10/25.](https://classroom.github.com/a/Gs1h4jPw)|
 |Oct 29  | [Software Design](https://github.com/UWSEDS/LectureNotes/blob/master/10_SoftwareDesign/Software-Design.pdf) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e2e194ca-dc87-46b5-9911-a989015a80ee)) ; Standup  (Joe)                                          | Standups; [Version control 2a](https://github.com/UWSEDS/LectureNotes/blob/master/11_Version_Control_2/11_Version_Control_2.pdf) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d3aa3d0-e125-41ea-85c9-a98b015bb749) (Bernease) | | [Homework 4 due 11/1](https://classroom.github.com/a/h8NxDdUg) |
 |Nov 05  | Version control 2b (Bernease)                                                      | Technology Reviews | |[Homework 5 due 11/8](https://github.com/UWSEDS-Au18/HW5) |
-|Nov 12  | Technology Reviews                                                   | Package structure and search paths  (Dave) | Homework: Create team repo and project design documents|
+|Nov 12  | Technology Reviews                                                   | Package structure (Dave) | Examples:
+* https://github.com/dacb/codebase
+* https://github.com/uwescience/shablona
+* Using conda for CI - https://github.com/ECSHackWeek/ECSOpenData/blob/master/.travis.yml
+  |Homework: Create team repo and project design documents|
 |Nov 19  | Standups; ML Overview (Bernease)                                        | NO CLASS (Thanksgiving)
 |Nov 26  | Standups; Text analytics (Colin)                                        | Standups; TBD | |
 |Dec 03  | Project presentation summaries                                          | Project presentation summaries  ||
