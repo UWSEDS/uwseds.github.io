@@ -17,5 +17,5 @@ collection: main
 |Nov 19  | Standups; [ML Overview](https://raw.githubusercontent.com/UWSEDS/LectureNotes/master/01_Course_Introduction_Command_Line_Data_Essentials/download_pronto.bash) (Bernease) <br> Panopto did not work for me again. Check out the slides or Colin's lecture next week for review of supervised and unsupervised ML. | NO CLASS (Thanksgiving)
 |Nov 26  | Standups; Text analytics (Colin)                                        | Standups; Guest Lecture by Valentina Staneva -- [Scalable Image Processing with Dask](https://notebooks.azure.com/vms16/libraries/Dask-ImageXD-2018)| |
 |Dec 03  | Project presentation summaries                                          | Project presentation summaries  ||
-|Dec 11  | 4pm - Final Presentation in Data Science Studio | ||
+|Dec 11  | 4:30pm - Final Presentation in Data Science Studio | ||
 {: rules="groups"}
