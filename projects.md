@@ -118,10 +118,11 @@ Projects will be evaluated based on the following criteria:
 * Quality of the documentation (especially the functional
 specification and design specification)
 * Uses at least two data sources
-* Code quality, especially consistent coding standard
+* Code quality, especially consistent coding standard (e.g., ``pylint``).
 * Test coverage
 * Quality of the example of using the package (in the examples
 folder of the project repository)
+* Implements continuous integration (e.g., via travis-CI).
 * Completeness of the setup.py script
 * Creativity and technical challenge
 
