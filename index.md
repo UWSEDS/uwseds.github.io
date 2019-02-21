@@ -6,17 +6,16 @@ collection: main
 
 ## Instructors
 
-- David A. C. Beck
 - Joseph L. Hellerstein
 - Bernease Herman
-- Colin Lockard (TA)
+- TA (TBD)
 
 
 ## Logistics
 
-- Days: Tues, Thurs
-- Time: 2:00-3:20 p.m.
-- Place: [OUG 136](https://www.google.com/maps?q=47.65646093404,-122.3104401865+(Odegaard+Undergraduate+Library+-+OUG)&z=18)
+- Days: 
+- Time: 
+- Place: 
 
 
 ## Course Description
