@@ -4,7 +4,7 @@ title: Syllabus
 collection: main
 ---
 
-| Date      | Topic                                                         | References       | Assignment     |
+| Week      | Topic                                                         | References       | Assignment     |
 |:----------|:----------------|:---------------|:-------------------|
 |Apr 01     | Course introduction, command line, Version Control I. | | |
 |Apr 08     | Jupyter notebooks. Procedural Python. Data manipulation. | | |
