@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-collection: main
+collection: fall2018
 ---
 
 | Week          | Tuesday Topic       | Thursday Topic     | References         | Assignment   |

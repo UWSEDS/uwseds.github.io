@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-collection: main
+collection: fall2018
 ---
 
 The course makes use of a number of software packages that students

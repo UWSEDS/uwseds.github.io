@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: main
+collection: fall2018
 ---
 
 ## Course Grade

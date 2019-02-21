@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructors
-collection: main
+collection: fall2018
 ---
 
 ## Office hours. Place: Data Science Studio, 6th Floor [PAT](https://www.google.com/maps/@47.6531248,-122.3130495,18z) (except as noted)
