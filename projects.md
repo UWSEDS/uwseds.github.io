@@ -122,7 +122,7 @@ specification and design specification)
 * Test coverage
 * Quality of the example of using the package (in the examples
 folder of the project repository)
-* Implements continuous integration (e.g., via travis-CI).
+* Implements continuous integration (e.g., via travis-CI), and all tests pass.
 * Completeness of the setup.py script
 * Creativity and technical challenge
 
