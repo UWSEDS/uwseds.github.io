@@ -6,6 +6,7 @@ collection: main
 
 ## Instructors
 
+- Dave Beck
 - Joseph L. Hellerstein
 - Bernease Herman
 - TA (TBD)
@@ -13,9 +14,9 @@ collection: main
 
 ## Logistics
 
-- Days: 
-- Time: 
-- Place: 
+- Days: Tuesdays
+- Time: 5pm-8:50pm
+- Place: OUG 141
 
 
 ## Course Description
