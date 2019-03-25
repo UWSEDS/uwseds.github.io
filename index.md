@@ -6,7 +6,6 @@ collection: main
 
 ## Instructors
 
-- Dave Beck
 - Joseph L. Hellerstein
 - Bernease Herman
 - TA (TBD)
