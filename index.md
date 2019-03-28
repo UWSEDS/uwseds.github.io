@@ -8,7 +8,7 @@ collection: main
 
 - Joseph L. Hellerstein
 - Bernease Herman
-- TA (TBD)
+- Sam Gao (TA)
 
 
 ## Logistics
