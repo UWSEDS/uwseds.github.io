@@ -16,5 +16,5 @@ collection: main
 |May 21     | Standups.  <br> Virtual environments (Dave). <br> Continuous integration (Dave). | | |
 |May 28     | Standups. <br> Python machine learning technologies (Bernease).  <br> Data Science Ethics (Bernease).  | ||
 |Jun 04     | Standups. Project summaries.                                            | ||
-|Jun xx     | Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
+|Jun 11, 5pm-7pm     | Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
 {: rules="groups"}
