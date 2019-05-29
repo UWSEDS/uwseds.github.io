@@ -14,7 +14,7 @@ collection: main
 |May 07     | Brief review of Technology Reviews (All). ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=741dbf3b-3a0e-4ae1-ae61-aa46018b63a7)). <br> Introduction to objects and OO design (Joe). ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d946d457-3546-44fb-a210-aa4700028ccf)). <br> Building interactive applications with Dash (Joe). ([folder](https://github.com/UWSEDS/LectureNotes/tree/master/06b_Dash_visualizations))  <br>Virtual environments survival skills (Joe). ([slides](https://github.com/UWSEDS/LectureNotes/blob/master/06c_Virtualization/virtualization_survival_skills.pptx)) ||[Homework 5](https://docs.google.com/document/d/1sSog7mdq-bkLHJ-Xh52fBQaPsAxLQQN7f5riSvQWDH8/edit#) due |
 |May 14     | Standups. <br> Student technology reviews.  | |  |
 |May 21     | Standups.  <br> [Virtual environments](https://github.com/UWSEDS/LectureNotes/raw/master/08/Virtualization.pptx) (Dave). <br> [Continuous integration](https://github.com/UWSEDS/LectureNotes/raw/master/08/Continuous_Integration.pptx) (Dave). | | |
-|May 28     | Standups. <br> Python machine learning technologies (Bernease).  <br> Data Science Ethics (Bernease).  | ||
-|Jun 04     | Standups. Project summaries.                                            | ||
+|May 28     | Standups. <br> <br> [Data Science Ethics](https://github.com/UWSEDS/LectureNotes/raw/master/09_Ethics/responsible_ethical_ds.pdf) (Bernease).  | ||
+w|Jun 04     | Standups. Project summaries.                                            | ||
 |Jun 11, 5pm-7pm     | Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
 {: rules="groups"}
