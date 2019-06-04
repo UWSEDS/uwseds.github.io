@@ -15,6 +15,6 @@ collection: main
 |May 14     | Standups. <br> Student technology reviews.  | |  |
 |May 21     | Standups.  <br> [Virtual environments](https://github.com/UWSEDS/LectureNotes/raw/master/08/Virtualization.pptx) (Dave). <br> [Continuous integration](https://github.com/UWSEDS/LectureNotes/raw/master/08/Continuous_Integration.pptx) (Dave). | | |
 |May 28     | Standups. <br> <br> [Data Science Ethics](https://github.com/UWSEDS/LectureNotes/raw/master/09_Ethics/responsible_ethical_ds.pdf) (Bernease).  | ||
-w|Jun 04     | Standups. Project summaries.                                            | ||
+|Jun 04     | Standups. Project summaries.                                            | ||
 |Jun 11, 5pm-7pm     | Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
 {: rules="groups"}
