@@ -118,7 +118,7 @@ The presentation should include:
 - Demo. Demonstrate your software.
 - Design. Describe the components and how they interact to accomplish the use cases.
 - Project Structure. Show the structure of your github repository.
-- Lessons learned and future work.
+- Lessons learned and future work. Focus on *software engineering* lessons.
 
 You should post a PDF of your presentation in the docs folder of your project.
 
