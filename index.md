@@ -6,16 +6,16 @@ collection: main
 
 ## Instructors
 
+- David Beck
 - Joseph L. Hellerstein
 - Bernease Herman
-- Sam Gao (TA)
 
 
 ## Logistics
 
-- Days: Tuesdays
-- Time: 5pm-8:50pm
-- Place: OUG 141
+- Days: Monday, Wednesday
+- Time: 8:30am - 9:50am
+- Place: OUG 136
 
 
 ## Course Description
