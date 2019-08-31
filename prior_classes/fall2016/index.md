@@ -1,21 +1,21 @@
 ---
 layout: home
 title: Home
-collection: main
+collection: fall2016
 ---
 
 ## Instructors
 
-- David Beck
+- David A. C. Beck
 - Joseph L. Hellerstein
-- Bernease Herman
+- Jake VanderPlas
 
 
 ## Logistics
 
-- Days: Monday, Wednesday
-- Time: 8:30am - 9:50am
-- Place: OUG 136
+- Days: Mon & Wed
+- Time: 12:30-1:50
+- Place: Odegaard Undergraduate Library (OUG) 141
 
 
 ## Course Description
@@ -34,7 +34,7 @@ Creating, updating, and sharing a project using version control (specifically Gi
 - Developing unit tests that validate important aspects of the project implementation, and, more broadly, using test-driven development to build software.
 - Searching, evaluating, and integrating into a project an externally developed Python packages as well as creating your own Python packages.
 
-The course emphasizes a hands-on learning approach in which class time is often used for problem solving in small groups. The first part of the class teaches the skills described above. The second part is devoted to the class project, creating a computational research project of their choosing.
+The course emphasizes a hands-on learning approach in which class time is often used for problem solving in small groups. The first 7 weeks will teach the skills described above. The remaining three weeks are devoted to the student’s class project, creating a computational research project of their choosing.
 
 Some prior computing experience is desirable. For example, we expect that given a CSV file you can open it and plot the data in a language like MATLAB, IDL, R, or Python.  A Software Carpentry bootcamp, Codeacademy, or similar MOOC would be appropriate venues to learn these skills.  Lessons include, e.g.:
 
