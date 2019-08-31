@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-collection: main
+collection: spring2019
 ---
 
 | Day      | Topic                                                         | References       | Assignment     |

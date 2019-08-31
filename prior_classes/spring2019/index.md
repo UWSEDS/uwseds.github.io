@@ -1,22 +1,21 @@
 ---
 layout: home
 title: Home
-collection: fall2018
+collection: spring2019
 ---
 
 ## Instructors
 
-- David A. C. Beck
 - Joseph L. Hellerstein
 - Bernease Herman
-- Colin Lockard (TA)
+- Sam Gao (TA)
 
 
 ## Logistics
 
-- Days: Tues, Thurs
-- Time: 2:00-3:20 p.m.
-- Place: [OUG 136](https://www.google.com/maps?q=47.65646093404,-122.3104401865+(Odegaard+Undergraduate+Library+-+OUG)&z=18)
+- Days: Tuesdays
+- Time: 5pm-8:50pm
+- Place: OUG 141
 
 
 ## Course Description

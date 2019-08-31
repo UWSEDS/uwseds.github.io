@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-collection: spring2018
+collection: spring2019
 ---
 
 ## Overview
@@ -80,7 +80,33 @@ that is structured as one or more python modules
 (e.g., with __init__.py files) and test files that begin with "test_".
 * examples folder that contains examples of using the packages
 
-## Presentations
+## Design Documents
+
+You will create two documents describing the design of your project. 
+These documents should be in your project ``docs`` folder.
+- **Functional Specification**. The document should have the following sections:
+  - Background. The problem being addressed.
+  - User profile. Who uses the system. What they know about the domain and computing (e.g., can browse the web, can program in Python)
+  - Data sources. What data you will use and how it is structured.
+  - Use cases. Describing at least two use cases. For each, describe: (a) the objective of the user interaction (e.g., withdraw money from an ATM); and (b) the expected interactions between the user and your system.
+  
+- **Component Specification**. The document should have sections for.
+  - Software components. High level description of the software components such as: *data manager*, which provides a simplified interface to your data and provides application specific features (e.g., querying data subsets); and *visualization manager*, which displays data frames as a plot. Describe at least 3 components specifying: what it does, inputs it requires, and outputs it provides.
+  - Interactions to accomplish use cases. Describe how the above software components interact to accomplish at least one of your use cases.
+  - Preliminary plan. A list of tasks in priority order.
+
+## Technology Review Presentation
+The technology review is about making decisions about the choice of a python library to address a technology need in the project. For example, many projects make use of map visualizations. There are many python libraries that support these visualizations such as Bokeh, Dash, and googlemaps. The libraries have different capbilities, such as what (if any) interactions users can have with the map. You will want to choose a library that: (a) addresses the requirements of your project; (b) is compatible with other elements of your project (e.g., runs on python 3); (c) is relatively easy to use; (d) is computationally efficient for the scale of data you use; and (d) doesn't have software bugs that will impair your use cases.
+
+The technology review is a group presentation. It should be about 15 minutes in length. The presentation should address the following:
+
+- Brief background on the problem you're solving to motivate a technology for which you need a python library (e.g., interactive maps).
+- One slide desciption of a use case in which the technology is required.
+- One slide that describes at least two python libraries that potentially address your technology requirement.
+- For each libarary, show a simple example of using it to implement the use case described above. This means that you will need to install each of the python libraries and attempt to use them.
+- One slide side-by-side comparisons of the technologies.
+
+## Project Presentation
 Teams 
 will present their projects using slides in
 15 minute oral presentation.
@@ -92,7 +118,7 @@ The presentation should include:
 - Demo. Demonstrate your software.
 - Design. Describe the components and how they interact to accomplish the use cases.
 - Project Structure. Show the structure of your github repository.
-- Lessons learned and future work.
+- Lessons learned and future work. Focus on *software engineering* lessons.
 
 You should post a PDF of your presentation in the docs folder of your project.
 
@@ -103,11 +129,13 @@ Projects will be evaluated based on the following criteria:
 * Quality of the documentation (especially the functional
 specification and design specification)
 * Uses at least two data sources
-* Code quality, especially consistent coding standard
+* Code quality, especially consistent coding standard (e.g., ``pylint``).
 * Test coverage
 * Quality of the example of using the package (in the examples
 folder of the project repository)
+* Implements continuous integration (e.g., via travis-CI), and all tests pass.
 * Completeness of the setup.py script
+* Creativity and technical challenge
 
 ## Examples of previous projects
 These examples are fantastic, though they may not be perfect. They should be considered examples of what kinds of projects are possible and not necessarily exa mples to be precisely emulated.  The examples below include an analysis project, a visualization project and a reusable data project.
@@ -125,4 +153,4 @@ These examples are fantastic, though they may not be perfect. They should be con
 
 
 
-**ALL INFORMATION MUST BE POSTED TO YOUR REPO BY MIDNIGHT PDT TUESDAY JUNE 5, 2018.**
+**ALL INFORMATION MUST BE POSTED TO YOUR REPO BY MIDNIGHT PDT TUESDAY DECEMBER 11, 2018.**

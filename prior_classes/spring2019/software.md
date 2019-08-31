@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-collection: spring2018
+collection: spring2019
 ---
 
 The course makes use of a number of software packages that students
@@ -23,6 +23,9 @@ The git version control system (along with the github website)
 are widely used for sharing codes and collaborative development
 of software.
 Bash and git are part of Linux and Mac OSX.
+**For Windows users, there are several pathes...** The first set of instructions below (using gitbash) has been the standard for the last several years.  However, recent versions of Windows 10 support with Windows Subsystem for Linux to run ubuntu nativelly within Windows 10.  This provides more seemless integration and does so with fewer headaches.  Instructions are here: https://docs.microsoft.com/en-us/windows/wsl/install-win10 .  You can use the Windows Store to install Ubuntu.
+
+(Older method):
 Windows users should install gitbash. (See https://git-scm.com/download/win.)
 Look [here](https://github.com/UWSEDS/uwseds.github.io/blob/master/software_windows_texteditor.md)
 for more
