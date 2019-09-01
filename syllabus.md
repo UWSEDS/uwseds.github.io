@@ -4,17 +4,27 @@ title: Syllabus
 collection: main
 ---
 
-| Day      | Topic                                                         | References       | Assignment     |
-|:----------|:----------------|:---------------|:-------------------|
-|Apr 02     | [Course introduction](https://github.com/UWSEDS/LectureNotes/blob/master/01_Course_Introduction_Command_Line_Data_Essentials/Course%20Introduction.pptx) (Joe - 0.5 hr), [Command line and Jupyter Notebook basics, Version Control I](https://github.com/UWSEDS/LectureNotes/raw/master/01_CourseIntro_CommandLine_VersionCntl1/01_CommandLine_VersionControl1_SubmittingHW.pdf) (Bernease - 3 hrs). <br> Video: [Command line & Jupyter basics](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7db26a9f-29f6-4595-bcd5-aa24000d35ee) [Version Control 1](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=739da64a-4cb6-40da-a72b-aa240029acfb)| [Slack invitation link](https://join.slack.com/t/uwsedscsed515sp2019/shared_invite/enQtNTk5MDgyNTQxMzM1LWU3M2E2ZjdiZjYyZDE0ZmQyZjJjZTI3Y2MwNTgwNzE1MjBhZmZjNDM2M2MyMzdmMDA2NTk3YjAxZTAwOTUxMTQ)<br/>[Github Classroom invitation link](https://classroom.github.com/a/LXeMBFZe) | |
-|Apr 09     | Jupyter notebooks (Bernease - 0.5 hr). [Python Data Basics](https://github.com/UWSEDS/LectureNotes/blob/master/02_Procedural_Python/Data%20Basics.ipynb) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85010f98-b2b0-4cff-b521-aa2b000bcd23)) (Joe - 1 hr). [Procedural Programming in Python](https://github.com/UWSEDS/LectureNotes/blob/master/02_Procedural_Python/Procedural%20Programming.ipynb)  ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=413b8195-90c4-4ee7-b7a2-aa2b00207089)) (Joe - 1 hr.) [Data manipulation](https://github.com/UWSEDS/LectureNotes/blob/master/02_Procedural_Python/Sophisticated%20Data%20Manipulation.ipynb) (Bernease - 1 hr). | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) ||
-|Apr 16     | Functions [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d7f094d-d36d-45f1-898c-aa3200004964) (Joe - 1 hr). [Working in teams](https://github.com/UWSEDS/LectureNotes/blob/master/03_Programming_Style/03-Working-in-Teams.pptx?raw=true): project management, code reviews, standups, technology reviews (Dave - 1 hr). [Project overview & requirements](https://github.com/UWSEDS/LectureNotes/blob/master/03_Programming_Style/03-Project-overview.pptx?raw=true) (Dave - 0.5 hr). [Programming style and documentation](https://github.com/UWSEDS/LectureNotes/blob/master/03_Programming_Style/03-Documentation-and-Style.pptx?raw=true) ( Dave - 1 hr).  | [Introduction to Test Driven Development](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)    |[Homework 1](https://classroom.github.com/a/EUAJZneU) due|
-|Apr 23     | Project matching (All - 1 hr). <br> [Debuggin, Exceptions, and Testing](https://github.com/UWSEDS/LectureNotes/tree/master/04a_Exceptions_and_Testing) ([testing video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80205cf9-a850-4f51-97fe-aa39015fe40b)) ([lecture audio](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1fef31b-95e1-413f-a846-aa3900158644)) ( Joe - 1 hr). <br> Project structure and packaging: directory structure, __init__.py, setup.py, PyPI. (Bernease - 1.5 hr).  | [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html), [Example Google Style Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)          | [Homework 2](https://classroom.github.com/a/BwxG9jT0) due|
-|Apr 30     |  [Version control II](https://github.com/UWSEDS/LectureNotes/blob/master/05b_Version_Control_2/05b_Version_Control_2.pdf) (Bernease - 2 hr). <br> Student project status updates <br> [Software design](https://github.com/UWSEDS/LectureNotes/blob/master/05_Design_and_Teams/Software-Design.ppt) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ffd9389-89cb-42fd-b2b9-aa400028b872)) (Joe - 1 hr).  <br>Student in-class development of use cases.      | [Overview of Software Design](https://en.wikipedia.org/wiki/Software_design) |  [Homework 3-4](https://classroom.github.com/a/uxpI8I_y) due|
-|May 07     | Brief review of Technology Reviews (All). ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=741dbf3b-3a0e-4ae1-ae61-aa46018b63a7)). <br> Introduction to objects and OO design (Joe). ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d946d457-3546-44fb-a210-aa4700028ccf)). <br> Building interactive applications with Dash (Joe). ([folder](https://github.com/UWSEDS/LectureNotes/tree/master/06b_Dash_visualizations))  <br>Virtual environments survival skills (Joe). ([slides](https://github.com/UWSEDS/LectureNotes/blob/master/06c_Virtualization/virtualization_survival_skills.pptx)) ||[Homework 5](https://docs.google.com/document/d/1sSog7mdq-bkLHJ-Xh52fBQaPsAxLQQN7f5riSvQWDH8/edit#) due |
-|May 14     | Standups. <br> Student technology reviews.  | |  |
-|May 21     | Standups.  <br> [Virtual environments](https://github.com/UWSEDS/LectureNotes/raw/master/08/Virtualization.pptx) (Dave). <br> [Continuous integration](https://github.com/UWSEDS/LectureNotes/raw/master/08/Continuous_Integration.pptx) (Dave). | | |
-|May 28     | Standups. <br> <br> [Data Science Ethics](https://github.com/UWSEDS/LectureNotes/raw/master/09_Ethics/responsible_ethical_ds.pdf) (Bernease).  | ||
-|Jun 04     | Standups. Project summaries.                                            | ||
-|Jun 11, 5pm-7pm     | Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
+| Day       | Topic                                                         | References       | Assignment     |
+|:--------------|:----------------|:---------------|:-------------------|
+|Sep 25     | Course Introduction, Command line and Jupyter Notebook basics, Version Control I, Slack invitation link | |
+|Sep 30     | Jupyter notebooks, Procedural Programming in Python, Data manipulation || [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) ||
+|Oct 2     | Functions, Working in teams: project management, code reviews, standups, technology reviews, Project overview & requirements, Programming style and documentation, Introduction to Test Driven Development ||[Homework 1](https://classroom.github.com/a/EUAJZneU) due|
+|Oct 7     | Project matching, Debugging, Exceptions, and Testing, Project structure and packaging: directory structure, __init__.py, setup.py, PyPI. || [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html), [Example Google Style Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)          | [Homework 2](https://classroom.github.com/a/BwxG9jT0) due|
+|Oct 9    |  Version control II, Software design. Overview of Software Design ||  [Homework 3-4](https://classroom.github.com/a/uxpI8I_y) due|
+|Oct 14     | Brief review of Technology Reviews. Introduction to objects and OO design. Building interactive applications with Dash. Virtual environments survival skills. ||[Homework 5](https://docs.google.com/document/d/1sSog7mdq-bkLHJ-Xh52fBQaPsAxLQQN7f5riSvQWDH8/edit#) due |
+|Oct 16 |||
+|Oct 21 |||
+|Oct 23 |||
+|Oct 28 |||
+|Nov 4 |||
+|Nov 6 |||
+|Nov 11 | NO CLASS. Veterans Day.||
+|Nov 13 |||
+|Nov 18 |||
+|Nov 20 |||
+|Nov 25 |||
+|Nov 27 |NO CLASS. Thanksgiving.||
+|Dec 2 |||
+|Dec 4 |||
+|Dec 9 | 4pm-6pm. Project Presentations in Data Science Studio - 6th Floor, Physics & Astronomy. Arrive before 5pm.   |
 {: rules="groups"}
