@@ -6,16 +6,16 @@ collection: main
 
 | Week          | Monday       | Wednesday    | References         | Assignment   |
 |:--------------|:--------------------|:-------------------|:-------------------|:-------------|
-|Sep 23 | NO CLASS | Course introduction, command line & data essentials | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | |
-|Sep 30  | Jupyter notebooks. Python basics. | Version control 1. How to submit homework.| |
-|Oct 07  | Project overview and data sources; Data analysis with python | Structuring code with functions. Creating and using python modules || Homework 1 due. |
-|Oct 14  | Working in teams; Team formation; Virtualization survial skills.| Exceptions, debugging, testing. | [Projects](http://uwseds.github.io/projects.html) | Homework 2 due. |
-|Oct 21  | Programming style, documentation, linting| Technology Reviews. Jupyter notebooks in depth.  | |Homework 3 due.|
-|Oct 28  | Technology Reviews | Standups. Software Design.  | | Homework 4 due.|
-|Nov 04  | Version control 2a | Version control 2b  | |Homework 5 (Create team repo and project design documents) due. |
-|Nov 11  | NO CLASS (Verterans Day)                                                   | Package structure. Virtualization in depth. Continuous integration. | Examples: [simple](https://github.com/dacb/codebase), [complex](https://github.com/uwescience/shablona), [conda](https://github.com/ECSHackWeek/ECSOpenData/blob/master/.travis.yml) ||
-|Nov 18  | Standups. ML Overview.| Writing web applications in DASH. 
-|Nov 25  | Standups. Object Oriented Programming. | NO CLASS (Thanksgiving)| |
+|Sep 23 | NO CLASS | Course introduction, command line & data essentials (Bernease) | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | |
+|Sep 30  | Jupyter notebooks. Python basics. (Dave) | Version control 1: init, clone, add, commit, push, pull. How to submit homework. (Dave)| |HW 1 assigned.|
+|Oct 07  | Project overview and data sources; Data analysis with python (Joe) | Structuring code with functions. Creating and using python modules (Joe) || HW 2 assigned. |
+|Oct 14  | Working in teams; Team formation; Virtualization survial skills. (Bernease)| Exceptions, debugging, testing. (Joe) | [Projects](http://uwseds.github.io/projects.html) | HW 1 due. HW 3 assigned. |
+|Oct 21  | Version Control 2a. (Bernease) |Version Control 2b. (Bernease)  | |HW 2 due.|
+|Oct 28  |  Programming style, documentation, linting (Dave)  | Software Design. (Joe)   | | HW 3 due. HW 4, 5 assigned.|
+|Nov 04  | Technology Reviews. | Technology Reviews.  (MSDSE SUMMIT] | | HW  4, 5 due. |
+|Nov 11  | NO CLASS (Veterans Day)                                                   | Package structure. Continuous integration. (Joe) | Examples: [simple](https://github.com/dacb/codebase), [complex](https://github.com/uwescience/shablona), [conda](https://github.com/ECSHackWeek/ECSOpenData/blob/master/.travis.yml) ||
+|Nov 18  | Standups. ML Overview. (Bernease)| Visualization with Altair. (Dave) 
+|Nov 25  | Standups. Object Oriented Programming. (Joe) | NO CLASS (Thanksgiving)| |
 |Dec 02  | Project presentation summaries                                          | Project presentation summaries  ||
 |Dec 09  | 4:30pm - Final Presentation in Data Science Studio | ||
 {: rules="groups"}
