@@ -5,7 +5,8 @@ collection: main
 ---
 
 For students interested in pursuing more depth in software engineering, we recommend a number
-of courses in Allen School of Computer Science & Engineering that are intended
+of courses in the
+Allen School of Computer Science & Engineering that are intended
 for non-CSE students..
 
 - 373: Data Structures and Algorithms. The course teaches
