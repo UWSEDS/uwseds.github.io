@@ -19,3 +19,5 @@ Oct 07  | Project overview [slides](https://github.com/UWSEDS/LectureNotes/blob/
 |Dec 02  | Project presentation summaries                                          | Project presentation summaries  ||
 |Dec 09  | 4:30pm - Final Presentation in Data Science Studio | ||
 {: rules="groups"}
+
+**Homework is due by 11:59pm on the Wednesday of the week where it is posted as "due".**
