@@ -19,7 +19,7 @@ Course project: 50%
 There will be 5 homeworks, each worth 7 points.
 The homeworks will be assigned in the first part of the course.
 To receive full credit, homework must be posted by midnight Pacific Time on the due date.
-Unless otherwise stated otherwise, homework is due on Tuesdays at 11:59 PM.
+The due date for homework is specified in the class syllabus.
 Two points will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
 from the instructors).
