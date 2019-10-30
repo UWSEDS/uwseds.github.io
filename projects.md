@@ -98,7 +98,7 @@ These documents should be in your project ``docs`` folder.
 ## Technology Review Presentation
 The technology review is about making decisions about the choice of a python library to address a technology need in the project. For example, many projects make use of map visualizations. There are many python libraries that support these visualizations such as Bokeh, Dash, and googlemaps. The libraries have different capbilities, such as what (if any) interactions users can have with the map. You will want to choose a library that: (a) addresses the requirements of your project; (b) is compatible with other elements of your project (e.g., runs on python 3); (c) is relatively easy to use; (d) is computationally efficient for the scale of data you use; and (d) doesn't have software bugs that will impair your use cases.
 
-The technology review is a group presentation. It should be about 15 minutes in length. The presentation should address the following:
+The technology review is a group presentation. It should be about 10-15 minutes in length. The presentation should address the following:
 
 - Brief background on the problem you're solving to motivate a technology for which you need a python library (e.g., interactive maps).
 - One slide desciption of a use case in which the technology is required.
