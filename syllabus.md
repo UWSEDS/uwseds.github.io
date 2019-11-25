@@ -17,7 +17,7 @@ Oct 07  | Project overview [slides](https://github.com/UWSEDS/LectureNotes/blob/
 |Nov 04  | Technology Reviews. | Technology Reviews.  [MSDSE SUMMIT] | | HW  4, 5 due. |
 |Nov 11  | NO CLASS (Veterans Day)                                                   | Package structure. Continuous integration. \[[slides](https://github.com/UWSEDS/LectureNotes/tree/master/10_Packaging_and_continuous_integration)\] (Joe) | Examples: [simple](https://github.com/dacb/codebase), [complex](https://github.com/uwescience/shablona), [conda](https://github.com/ECSHackWeek/ECSOpenData/blob/master/.travis.yml) ||
 |Nov 18  | Standups. Responsible and ethical machine learning ([slides](https://github.com/UWSEDS/LectureNotes/raw/master/11_Ethical_ML/ResponsibleEthicalDataScientists.pdf)). (Bernease)| Visualization with Altair.<br>([notebook](https://raw.githubusercontent.com/UWSEDS/LectureNotes/master/13_Viz_with_Altair/Altair_Introduction.ipynb))<br>([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23b8d47d-6a1d-4560-a65d-ab0b01110ff3)) (Dave)
-|Nov 25  | Standups. Object Oriented Programming. \[ [slides](https://github.com/UWSEDS/LectureNotes/tree/master/14_Objects) \] (Joe) | NO CLASS (Thanksgiving)| |
+|Nov 25  | Standups. Object Oriented Programming. \[ [slides](https://github.com/UWSEDS/LectureNotes/tree/master/14_Objects), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bea8d83-5d86-454f-bb9a-ab10011ab27d) \] (Joe) | NO CLASS (Thanksgiving)| |
 |Dec 02  | Project presentation summaries                                          | Project presentation summaries  ||
 |Dec 09  | 4:30pm - Final Presentation in Data Science Studio | ||
 {: rules="groups"}
