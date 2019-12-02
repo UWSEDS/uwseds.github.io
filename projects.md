@@ -108,7 +108,7 @@ The technology review is a group presentation. It should be about 5-7 minutes in
 ## Project Presentation
 Teams 
 will present their projects using slides in
-15 minute oral presentation.
+10 minute oral presentation.
 The presentation should include:
 
 - Background. Describe the problem or area being addressed.
