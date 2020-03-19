@@ -6,17 +6,17 @@ collection: main
 
 ## Instructors
 
-- David Beck
-- Joseph L. Hellerstein
-- Bernease Herman
-
+#### Bernease Herman
+#### Joseph Hellerstein
+#### Teaching Assistant: TBA
 
 ## Logistics
+#### Days: Tuesdays
+#### Time: 5:00 - 8:50PM
+#### Place: Virtual (see Virtual Learning page for more information)
 
-- Days: Monday, Wednesday
-- Time: 8:30am - 9:50am
-- Place: OUG 136
-
+#### Bernease's office hourse: Virtural at 6-7PM Mondays, bernease@uw
+#### Joe Hellerstein's office hourse: TBD, [jlheller@uw
 
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
@@ -40,29 +40,3 @@ Some prior computing experience is desirable. For example, we expect that given 
 
 - Using the shell (command line): http://swcarpentry.github.io/shell-novice/
 - General Python overview: http://swcarpentry.github.io/python-novice-inflammation/
-
-
-
-<div class="home">
-
-<!-- Following will add blog links to the index page:
-
-  <h2 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
--->
-
-</div>

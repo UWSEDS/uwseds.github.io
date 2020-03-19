@@ -23,7 +23,7 @@ The git version control system (along with the github website)
 are widely used for sharing codes and collaborative development
 of software.
 Bash and git are part of Linux and Mac OSX.
-**For Windows users, there are several pathes...** The first set of instructions below (using gitbash) has been the standard for the last several years.  However, recent versions of Windows 10 support with Windows Subsystem for Linux to run ubuntu nativelly within Windows 10.  This provides more seemless integration and does so with fewer headaches.  Instructions are here: https://docs.microsoft.com/en-us/windows/wsl/install-win10 .  You can use the Windows Store to install Ubuntu.
+**For Windows users, there are several paths...** The first set of instructions below (using gitbash) has been the standard for the last several years.  However, recent versions of Windows 10 support with Windows Subsystem for Linux to run ubuntu nativelly within Windows 10.  This provides more seemless integration and does so with fewer headaches.  Instructions are here: https://docs.microsoft.com/en-us/windows/wsl/install-win10 .  You can use the Windows Store to install Ubuntu.
 
 (Older method):
 Windows users should install gitbash. (See https://git-scm.com/download/win.)
@@ -51,15 +51,10 @@ Links to the installers for Windows:
 * GitBASH: [https://git-for-windows.github.io](https://git-for-windows.github.io)
 * Software Carpentry Installer: [https://github.com/swcarpentry/windows-installer/releases/](https://github.com/swcarpentry/windows-installer/releases/)
 
-
 ## Get the class notes
 Use git to clone the repo for the lectures. (We're assuming that you git installed.)
 
 - git clone https://github.com/UWSEDS/LectureNotes.git
-
-## DB Browser (or other SQL interactive environments)
-You will need an environment in which you can run SQL queries.
-We recommended [DB Browser for sqlite](http://sqlitebrowser.org).
 
 ## Python
 We recommend that you use the most recent version of Python 3.  Earlier
@@ -67,12 +62,6 @@ versions of Python 3 work as well.  There are some differences between Python 2
 and Python 3, and many systems only include Python 2.7 as a standard
 installation.  A python installation for this course will be managed by the
 [conda](https://conda.io/docs/) package management system, described below.
-
-## sqlite3
-``sqlite3`` provides a simple environment for access to SQL databases on your computer.
-It also provides a python API.
-``sqlite3`` is packaged with MacOS and other systems.
-You can check if ``sqlite3`` is installed on your system by typing ``sqlite3`` at the command line of a terminal session.
 
 ## Conda
 Conda is a system for installing and otherwise managing python and other
@@ -93,7 +82,7 @@ Below are detailed instructions after you have installed miniconda:
 - $ jupyter notebook
 
 If everything has worked correctly, it should automatically open the notebook
-server in your default browser. 
+server in your default browser.
 
 ## Text editor
 Students will select a text editor of their choice, such as
@@ -101,7 +90,5 @@ Notebook (Windows), vim (all platforms), and sublime (all platforms).
 A text editor is different from word processing programs,
 like MS Word, in that text editors often recognize
 program syntax and do no formatting.
-
-
 
 If you don't already have a favorite text editor, we recommend installing either [atom](http://atom.io/) or [Sublime](http://www.sublimetext.com/), which are both available for all platforms.
