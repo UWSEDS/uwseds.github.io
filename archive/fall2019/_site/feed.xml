@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS 583 - Software Engineering for Data Scientists</title>
+    <description>UW course, Software Engineering for Data Scientists</description>
+    <link>http://uwseds.github.io/</link>
+    <atom:link href="http://uwseds.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Mar 2020 05:43:17 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2020 05:43:17 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>

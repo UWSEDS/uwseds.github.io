@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Homework 1 Submission
+collection: fall2018
 ---
 
 # Homework 1 Submission

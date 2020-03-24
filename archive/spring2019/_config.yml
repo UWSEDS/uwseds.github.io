@@ -1,0 +1,11 @@
+# Site settings
+title: Data 515A - Software Engineering for Data Scientists
+email: jlheller -- AT -- uw.edu
+description: "UW course, Software Engineering for Data Scientists"
+url: "http://uwseds.github.io"
+twitter_username: uwescience
+github_username:  UWSEDS
+
+
+# Build settings
+markdown: kramdown

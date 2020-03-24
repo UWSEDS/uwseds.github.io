@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Next
-collection: main
+collection: spring2019
 ---
 
 For students interested in pursuing more depth in software engineering, we recommend a number

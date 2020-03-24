@@ -1,0 +1,536 @@
+
+total 152
+-rwxr-xr-x   1 bernease  staff   175 Mar 19 04:05 README.md
+-rwxr-xr-x   1 bernease  staff   295 Mar 19 04:05 _config.yml
+drwxr-xr-x   5 bernease  staff   160 Mar 19 04:05 _includes
+drwxr-xr-x   6 bernease  staff   192 Mar 19 04:05 _layouts
+drwxr-xr-x   6 bernease  staff   192 Mar 19 04:05 _sass
+drwxr-xr-x   4 bernease  staff   128 Mar 19 04:05 coursepack
+drwxr-xr-x   3 bernease  staff    96 Mar 19 04:05 css
+drwxr-xr-x   4 bernease  staff   128 Mar 19 04:05 data
+-rwxr-xr-x   1 bernease  staff  2046 Mar 19 04:05 grading.md
+-rw-r--r--   1 bernease  staff  2479 Mar 19 04:05 hw1_example_submission.md
+drwxr-xr-x   5 bernease  staff   160 Mar 19 04:05 images
+-rwxr-xr-x   1 bernease  staff  3359 Mar 19 04:05 index.md
+-rwxr-xr-x   1 bernease  staff   498 Mar 19 04:05 instructors.md
+-rwxr-xr-x   1 bernease  staff  1116 Mar 19 04:05 next_steps.md
+-rwxr-xr-x   1 bernease  staff  9914 Mar 19 04:05 projects.md
+-rwxr-xr-x   1 bernease  staff  5147 Mar 19 04:05 software.md
+-rwxr-xr-x   1 bernease  staff  2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x   1 bernease  staff  5984 Mar 19 04:05 syllabus.md
+drwxr-xr-x  10 bernease  staff   320 Mar 19 04:09 prior_classes
+-rwxr-xr-x   1 bernease  staff   134 Mar 19 04:48 Gemfile
+-rw-r--r--   1 bernease  staff  7283 Mar 19 04:51 Gemfile.lock
+drwxr-xr-x  17 bernease  staff   544 Mar 19 05:02 _site
+-rw-r--r--   1 bernease  staff     1 Mar 19 05:04 directory.txt
+
+./_includes:
+total 24
+-rwxr-xr-x  1 bernease  staff  3100 Mar 19 04:05 footer.html
+-rwxr-xr-x  1 bernease  staff   878 Mar 19 04:05 head.html
+-rwxr-xr-x  1 bernease  staff  1288 Mar 19 04:05 header.html
+
+./_layouts:
+total 32
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:05 default.html
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:05 home.html
+-rwxr-xr-x  1 bernease  staff  209 Mar 19 04:05 page.html
+-rwxr-xr-x  1 bernease  staff  377 Mar 19 04:05 post.html
+
+./_sass:
+total 48
+-rwxr-xr-x  1 bernease  staff  2833 Mar 19 04:05 _base.scss
+-rwxr-xr-x  1 bernease  staff  4153 Mar 19 04:05 _layout.scss
+-rwxr-xr-x  1 bernease  staff  3297 Mar 19 04:05 _syntax-highlighting.scss
+-rw-r--r--  1 bernease  staff  6099 Mar 19 04:05 _tables.scss
+
+./coursepack:
+total 24
+-rwxr-xr-x  1 bernease  staff    93 Mar 19 04:05 index.md
+-rw-r--r--  1 bernease  staff  5683 Mar 19 04:05 syllabus.md
+
+./css:
+total 8
+-rwxr-xr-x  1 bernease  staff  1046 Mar 19 04:05 main.scss
+
+./data:
+total 128
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:05 README.md
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:05 pronto_weather.csv
+
+./images:
+total 336
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:05 favicon.ico
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:05 logo-eScience.png
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:05 logo.png
+
+./prior_classes:
+total 0
+drwxr-xr-x   9 bernease  staff  288 Mar 19 04:05 fall2016
+drwxr-xr-x  14 bernease  staff  448 Mar 19 04:05 fall2017
+drwxr-xr-x  20 bernease  staff  640 Mar 19 04:05 fall2018
+drwxr-xr-x  10 bernease  staff  320 Mar 19 04:05 spring2017
+drwxr-xr-x  11 bernease  staff  352 Mar 19 04:05 spring2018
+drwxr-xr-x  21 bernease  staff  672 Mar 19 04:05 spring2019
+drwxr-xr-x   7 bernease  staff  224 Mar 19 04:05 winter2016
+drwxr-xr-x  22 bernease  staff  704 Mar 19 04:10 fall2019
+
+./prior_classes/fall2016:
+total 72
+-rw-r--r--  1 bernease  staff  1753 Mar 19 04:05 grading.md
+-rwxr-xr-x  1 bernease  staff  3405 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff   371 Mar 19 04:05 instructors.md
+-rw-r--r--  1 bernease  staff  4119 Mar 19 04:05 projects.md
+-rw-r--r--  1 bernease  staff  2557 Mar 19 04:05 software.md
+-rw-r--r--  1 bernease  staff  2271 Mar 19 04:05 software_windows_texteditor.md
+-rw-r--r--  1 bernease  staff  6767 Mar 19 04:05 syllabus.md
+
+./prior_classes/fall2017:
+total 120
+-rwxr-xr-x  1 bernease  staff   175 Mar 19 04:05 Gemfile
+-rwxr-xr-x  1 bernease  staff   175 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff   296 Mar 19 04:05 _config.yml
+-rwxr-xr-x  1 bernease  staff  1291 Mar 19 04:05 feed.xml
+-rwxr-xr-x  1 bernease  staff  4405 Mar 19 04:05 grading.md
+-rw-r--r--  1 bernease  staff  2479 Mar 19 04:05 hw1_example_submission.md
+-rwxr-xr-x  1 bernease  staff  3436 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff   475 Mar 19 04:05 instructors.md
+-rwxr-xr-x  1 bernease  staff  4470 Mar 19 04:05 projects.md
+-rwxr-xr-x  1 bernease  staff  4048 Mar 19 04:05 software.md
+-rwxr-xr-x  1 bernease  staff  2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff  5671 Mar 19 04:05 syllabus.md
+
+./prior_classes/fall2018:
+total 120
+-rwxr-xr-x  1 bernease  staff   175 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff   296 Mar 19 04:05 _config.yml
+drwxr-xr-x  5 bernease  staff   160 Mar 19 04:05 _includes
+drwxr-xr-x  6 bernease  staff   192 Mar 19 04:05 _layouts
+drwxr-xr-x  6 bernease  staff   192 Mar 19 04:05 _sass
+drwxr-xr-x  4 bernease  staff   128 Mar 19 04:05 coursepack
+drwxr-xr-x  3 bernease  staff    96 Mar 19 04:05 css
+drwxr-xr-x  4 bernease  staff   128 Mar 19 04:05 data
+-rwxr-xr-x  1 bernease  staff  1291 Mar 19 04:05 feed.xml
+-rwxr-xr-x  1 bernease  staff  2064 Mar 19 04:05 grading.md
+-rw-r--r--  1 bernease  staff  2479 Mar 19 04:05 hw1_example_submission.md
+drwxr-xr-x  5 bernease  staff   160 Mar 19 04:05 images
+-rwxr-xr-x  1 bernease  staff  3507 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff   569 Mar 19 04:05 instructors.md
+-rwxr-xr-x  1 bernease  staff  8420 Mar 19 04:05 projects.md
+-rwxr-xr-x  1 bernease  staff  5151 Mar 19 04:05 software.md
+-rwxr-xr-x  1 bernease  staff  2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff  5852 Mar 19 04:05 syllabus.md
+
+./prior_classes/fall2018/_includes:
+total 24
+-rwxr-xr-x  1 bernease  staff  3100 Mar 19 04:05 footer.html
+-rwxr-xr-x  1 bernease  staff   878 Mar 19 04:05 head.html
+-rwxr-xr-x  1 bernease  staff  1288 Mar 19 04:05 header.html
+
+./prior_classes/fall2018/_layouts:
+total 32
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:05 default.html
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:05 home.html
+-rwxr-xr-x  1 bernease  staff  209 Mar 19 04:05 page.html
+-rwxr-xr-x  1 bernease  staff  377 Mar 19 04:05 post.html
+
+./prior_classes/fall2018/_sass:
+total 48
+-rwxr-xr-x  1 bernease  staff  2833 Mar 19 04:05 _base.scss
+-rwxr-xr-x  1 bernease  staff  4153 Mar 19 04:05 _layout.scss
+-rwxr-xr-x  1 bernease  staff  3297 Mar 19 04:05 _syntax-highlighting.scss
+-rw-r--r--  1 bernease  staff  6099 Mar 19 04:05 _tables.scss
+
+./prior_classes/fall2018/coursepack:
+total 24
+-rwxr-xr-x  1 bernease  staff    93 Mar 19 04:05 index.md
+-rw-r--r--  1 bernease  staff  5683 Mar 19 04:05 syllabus.md
+
+./prior_classes/fall2018/css:
+total 8
+-rwxr-xr-x  1 bernease  staff  1046 Mar 19 04:05 main.scss
+
+./prior_classes/fall2018/data:
+total 128
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:05 README.md
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:05 pronto_weather.csv
+
+./prior_classes/fall2018/images:
+total 336
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:05 favicon.ico
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:05 logo-eScience.png
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:05 logo.png
+
+./prior_classes/spring2017:
+total 80
+-rwxr-xr-x  1 bernease  staff   178 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff  1604 Mar 19 04:05 grading.md
+-rwxr-xr-x  1 bernease  staff  3390 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff   253 Mar 19 04:05 instructors.md
+-rwxr-xr-x  1 bernease  staff  4456 Mar 19 04:05 projects.md
+-rwxr-xr-x  1 bernease  staff  3866 Mar 19 04:05 software.md
+-rwxr-xr-x  1 bernease  staff  2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff  6823 Mar 19 04:05 syllabus.md
+
+./prior_classes/spring2018:
+total 96
+-rwxr-xr-x  1 bernease  staff   175 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff  1645 Mar 19 04:05 grading.md
+-rw-r--r--  1 bernease  staff  2479 Mar 19 04:05 hw1_example_submission.md
+-rwxr-xr-x  1 bernease  staff  3426 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff   302 Mar 19 04:05 instructors.md
+-rwxr-xr-x  1 bernease  staff  7021 Mar 19 04:05 projects.md
+-rwxr-xr-x  1 bernease  staff  4649 Mar 19 04:05 software.md
+-rwxr-xr-x  1 bernease  staff  2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff  6047 Mar 19 04:05 syllabus.md
+
+./prior_classes/spring2019:
+total 128
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 Gemfile
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff    298 Mar 19 04:05 _config.yml
+drwxr-xr-x  5 bernease  staff    160 Mar 19 04:05 _includes
+drwxr-xr-x  6 bernease  staff    192 Mar 19 04:05 _layouts
+drwxr-xr-x  6 bernease  staff    192 Mar 19 04:05 _sass
+drwxr-xr-x  4 bernease  staff    128 Mar 19 04:05 coursepack
+drwxr-xr-x  3 bernease  staff     96 Mar 19 04:05 css
+drwxr-xr-x  4 bernease  staff    128 Mar 19 04:05 data
+-rwxr-xr-x  1 bernease  staff   1291 Mar 19 04:05 feed.xml
+-rwxr-xr-x  1 bernease  staff   2066 Mar 19 04:05 grading.md
+-rw-r--r--  1 bernease  staff   2479 Mar 19 04:05 hw1_example_submission.md
+drwxr-xr-x  5 bernease  staff    160 Mar 19 04:05 images
+-rwxr-xr-x  1 bernease  staff   3369 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff    451 Mar 19 04:05 instructors.md
+-rwxr-xr-x  1 bernease  staff  10042 Mar 19 04:05 projects.md
+-rwxr-xr-x  1 bernease  staff   5153 Mar 19 04:05 software.md
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff   5700 Mar 19 04:05 syllabus.md
+
+./prior_classes/spring2019/_includes:
+total 24
+-rwxr-xr-x  1 bernease  staff  3100 Mar 19 04:05 footer.html
+-rwxr-xr-x  1 bernease  staff   878 Mar 19 04:05 head.html
+-rwxr-xr-x  1 bernease  staff  1288 Mar 19 04:05 header.html
+
+./prior_classes/spring2019/_layouts:
+total 32
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:05 default.html
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:05 home.html
+-rwxr-xr-x  1 bernease  staff  209 Mar 19 04:05 page.html
+-rwxr-xr-x  1 bernease  staff  377 Mar 19 04:05 post.html
+
+./prior_classes/spring2019/_sass:
+total 48
+-rwxr-xr-x  1 bernease  staff  2833 Mar 19 04:05 _base.scss
+-rwxr-xr-x  1 bernease  staff  4153 Mar 19 04:05 _layout.scss
+-rwxr-xr-x  1 bernease  staff  3297 Mar 19 04:05 _syntax-highlighting.scss
+-rw-r--r--  1 bernease  staff  6099 Mar 19 04:05 _tables.scss
+
+./prior_classes/spring2019/coursepack:
+total 24
+-rwxr-xr-x  1 bernease  staff    93 Mar 19 04:05 index.md
+-rw-r--r--  1 bernease  staff  5683 Mar 19 04:05 syllabus.md
+
+./prior_classes/spring2019/css:
+total 8
+-rwxr-xr-x  1 bernease  staff  1046 Mar 19 04:05 main.scss
+
+./prior_classes/spring2019/data:
+total 128
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:05 README.md
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:05 pronto_weather.csv
+
+./prior_classes/spring2019/images:
+total 336
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:05 favicon.ico
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:05 logo-eScience.png
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:05 logo.png
+
+./prior_classes/winter2016:
+total 48
+-rw-r--r--  1 bernease  staff  2918 Mar 19 04:05 grading.md
+-rwxr-xr-x  1 bernease  staff  3385 Mar 19 04:05 index.md
+-rwxr-xr-x  1 bernease  staff   494 Mar 19 04:05 instructors.md
+-rw-r--r--  1 bernease  staff  1375 Mar 19 04:05 software.md
+-rw-r--r--  1 bernease  staff  5642 Mar 19 04:05 syllabus.md
+
+./prior_classes/fall2019:
+total 136
+-rwxr-xr-x  1 bernease  staff   175 Mar 19 04:08 Gemfile
+-rwxr-xr-x  1 bernease  staff   175 Mar 19 04:08 README.md
+-rwxr-xr-x  1 bernease  staff   295 Mar 19 04:08 _config.yml
+drwxr-xr-x  5 bernease  staff   160 Mar 19 04:08 _includes
+drwxr-xr-x  6 bernease  staff   192 Mar 19 04:08 _layouts
+drwxr-xr-x  6 bernease  staff   192 Mar 19 04:08 _sass
+drwxr-xr-x  4 bernease  staff   128 Mar 19 04:08 coursepack
+drwxr-xr-x  3 bernease  staff    96 Mar 19 04:08 css
+drwxr-xr-x  4 bernease  staff   128 Mar 19 04:08 data
+-rwxr-xr-x  1 bernease  staff  1291 Mar 19 04:08 feed.xml
+-rwxr-xr-x  1 bernease  staff  2046 Mar 19 04:08 grading.md
+-rw-r--r--  1 bernease  staff  2479 Mar 19 04:08 hw1_example_submission.md
+drwxr-xr-x  5 bernease  staff   160 Mar 19 04:08 images
+-rwxr-xr-x  1 bernease  staff  3359 Mar 19 04:08 index.md
+-rwxr-xr-x  1 bernease  staff   498 Mar 19 04:08 instructors.md
+-rwxr-xr-x  1 bernease  staff  1116 Mar 19 04:08 next_steps.md
+-rwxr-xr-x  1 bernease  staff  9914 Mar 19 04:08 projects.md
+-rwxr-xr-x  1 bernease  staff  5147 Mar 19 04:08 software.md
+-rwxr-xr-x  1 bernease  staff  2271 Mar 19 04:08 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff  5984 Mar 19 04:08 syllabus.md
+
+./prior_classes/fall2019/_includes:
+total 24
+-rwxr-xr-x  1 bernease  staff   878 Mar 19 04:08 head.html
+-rwxr-xr-x  1 bernease  staff  3100 Mar 19 04:08 footer.html
+-rwxr-xr-x  1 bernease  staff  1288 Mar 19 04:08 header.html
+
+./prior_classes/fall2019/_layouts:
+total 32
+-rwxr-xr-x  1 bernease  staff  377 Mar 19 04:08 post.html
+-rwxr-xr-x  1 bernease  staff  209 Mar 19 04:08 page.html
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:08 home.html
+-rwxr-xr-x  1 bernease  staff  248 Mar 19 04:08 default.html
+
+./prior_classes/fall2019/_sass:
+total 48
+-rwxr-xr-x  1 bernease  staff  4153 Mar 19 04:08 _layout.scss
+-rwxr-xr-x  1 bernease  staff  3297 Mar 19 04:08 _syntax-highlighting.scss
+-rw-r--r--  1 bernease  staff  6099 Mar 19 04:08 _tables.scss
+-rwxr-xr-x  1 bernease  staff  2833 Mar 19 04:08 _base.scss
+
+./prior_classes/fall2019/coursepack:
+total 24
+-rwxr-xr-x  1 bernease  staff    93 Mar 19 04:08 index.md
+-rw-r--r--  1 bernease  staff  5683 Mar 19 04:08 syllabus.md
+
+./prior_classes/fall2019/css:
+total 8
+-rwxr-xr-x  1 bernease  staff  1046 Mar 19 04:08 main.scss
+
+./prior_classes/fall2019/data:
+total 128
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:08 README.md
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:08 pronto_weather.csv
+
+./prior_classes/fall2019/images:
+total 336
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:08 logo-eScience.png
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:08 favicon.ico
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:08 logo.png
+
+./_site:
+total 264
+-rwxr-xr-x   1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x   1 bernease  staff    175 Mar 19 04:05 README.md
+-rw-r--r--   1 bernease  staff  11866 Mar 19 05:02 grading.html
+drwxr-xr-x  10 bernease  staff    320 Mar 19 05:02 prior_classes
+-rw-r--r--   1 bernease  staff  12067 Mar 19 05:02 hw1_example_submission.html
+-rw-r--r--   1 bernease  staff  12563 Mar 19 05:02 index.html
+-rw-r--r--   1 bernease  staff  10076 Mar 19 05:02 instructors.html
+drwxr-xr-x   3 bernease  staff     96 Mar 19 05:02 css
+-rw-r--r--   1 bernease  staff  10708 Mar 19 05:02 next_steps.html
+-rw-r--r--   1 bernease  staff  20742 Mar 19 05:02 projects.html
+-rw-r--r--   1 bernease  staff  15828 Mar 19 05:02 software.html
+-rw-r--r--   1 bernease  staff  18526 Mar 19 05:02 syllabus.html
+drwxr-xr-x   4 bernease  staff    128 Mar 19 05:02 coursepack
+drwxr-xr-x   4 bernease  staff    128 Mar 19 05:02 data
+drwxr-xr-x   5 bernease  staff    160 Mar 19 05:02 images
+
+./_site/prior_classes:
+total 0
+drwxr-xr-x   7 bernease  staff  224 Mar 19 05:02 winter2016
+drwxr-xr-x   9 bernease  staff  288 Mar 19 05:02 fall2016
+drwxr-xr-x  13 bernease  staff  416 Mar 19 05:02 fall2017
+drwxr-xr-x  16 bernease  staff  512 Mar 19 05:02 fall2018
+drwxr-xr-x  18 bernease  staff  576 Mar 19 05:02 fall2019
+drwxr-xr-x  10 bernease  staff  320 Mar 19 05:02 spring2017
+drwxr-xr-x  11 bernease  staff  352 Mar 19 05:02 spring2018
+drwxr-xr-x  17 bernease  staff  544 Mar 19 05:02 spring2019
+
+./_site/prior_classes/winter2016:
+total 136
+-rw-r--r--  1 bernease  staff  11841 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  11846 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9299 Mar 19 05:02 instructors.html
+-rw-r--r--  1 bernease  staff  10097 Mar 19 05:02 software.html
+-rw-r--r--  1 bernease  staff  17177 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/fall2016:
+total 176
+-rw-r--r--  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rw-r--r--  1 bernease  staff  10722 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  11962 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9263 Mar 19 05:02 instructors.html
+-rw-r--r--  1 bernease  staff  13512 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  11756 Mar 19 05:02 software.html
+-rw-r--r--  1 bernease  staff  18949 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/fall2017:
+total 240
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 Gemfile
+-rw-r--r--  1 bernease  staff    585 Mar 19 05:02 feed.xml
+-rw-r--r--  1 bernease  staff  13489 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  12090 Mar 19 05:02 hw1_example_submission.html
+-rw-r--r--  1 bernease  staff  11998 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9389 Mar 19 05:02 instructors.html
+-rw-r--r--  1 bernease  staff  13964 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  13781 Mar 19 05:02 software.html
+-rw-r--r--  1 bernease  staff  17504 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/fall2018:
+total 232
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 README.md
+-rw-r--r--  1 bernease  staff    585 Mar 19 05:02 feed.xml
+-rw-r--r--  1 bernease  staff  11233 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  12090 Mar 19 05:02 hw1_example_submission.html
+-rw-r--r--  1 bernease  staff  12084 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9505 Mar 19 05:02 instructors.html
+drwxr-xr-x  3 bernease  staff     96 Mar 19 05:02 css
+-rw-r--r--  1 bernease  staff  18432 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  15181 Mar 19 05:02 software.html
+drwxr-xr-x  4 bernease  staff    128 Mar 19 05:02 coursepack
+-rw-r--r--  1 bernease  staff  17520 Mar 19 05:02 syllabus.html
+drwxr-xr-x  4 bernease  staff    128 Mar 19 05:02 data
+drwxr-xr-x  5 bernease  staff    160 Mar 19 05:02 images
+
+./_site/prior_classes/fall2018/css:
+total 32
+-rw-r--r--  1 bernease  staff  12763 Mar 19 05:02 main.css
+
+./_site/prior_classes/fall2018/coursepack:
+total 64
+-rw-r--r--  1 bernease  staff   8924 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff  17526 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/fall2018/data:
+total 128
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:05 pronto_weather.csv
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:05 README.md
+
+./_site/prior_classes/fall2018/images:
+total 336
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:05 logo.png
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:05 logo-eScience.png
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:05 favicon.ico
+
+./_site/prior_classes/fall2019:
+total 280
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:08 README.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:08 Gemfile
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:08 software_windows_texteditor.md
+-rw-r--r--  1 bernease  staff    585 Mar 19 05:02 feed.xml
+-rw-r--r--  1 bernease  staff  11889 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  12090 Mar 19 05:02 hw1_example_submission.html
+-rw-r--r--  1 bernease  staff  12586 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff  10099 Mar 19 05:02 instructors.html
+drwxr-xr-x  3 bernease  staff     96 Mar 19 05:02 css
+-rw-r--r--  1 bernease  staff  10731 Mar 19 05:02 next_steps.html
+-rw-r--r--  1 bernease  staff  20765 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  15851 Mar 19 05:02 software.html
+drwxr-xr-x  4 bernease  staff    128 Mar 19 05:02 coursepack
+-rw-r--r--  1 bernease  staff  18549 Mar 19 05:02 syllabus.html
+drwxr-xr-x  4 bernease  staff    128 Mar 19 05:02 data
+drwxr-xr-x  5 bernease  staff    160 Mar 19 05:02 images
+
+./_site/prior_classes/fall2019/css:
+total 32
+-rw-r--r--  1 bernease  staff  12763 Mar 19 05:02 main.css
+
+./_site/prior_classes/fall2019/coursepack:
+total 64
+-rw-r--r--  1 bernease  staff   8924 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff  17526 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/fall2019/data:
+total 128
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:08 pronto_weather.csv
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:08 README.md
+
+./_site/prior_classes/fall2019/images:
+total 336
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:08 logo.png
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:08 logo-eScience.png
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:08 favicon.ico
+
+./_site/prior_classes/spring2017:
+total 192
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff    178 Mar 19 04:05 README.md
+-rw-r--r--  1 bernease  staff  10549 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  11946 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9148 Mar 19 05:02 instructors.html
+-rw-r--r--  1 bernease  staff  13956 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  13583 Mar 19 05:02 software.html
+-rw-r--r--  1 bernease  staff  17958 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/spring2018:
+total 224
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 README.md
+-rw-r--r--  1 bernease  staff  10592 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  12092 Mar 19 05:02 hw1_example_submission.html
+-rw-r--r--  1 bernease  staff  12002 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9199 Mar 19 05:02 instructors.html
+-rw-r--r--  1 bernease  staff  16779 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  14671 Mar 19 05:02 software.html
+-rw-r--r--  1 bernease  staff  17193 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/spring2019:
+total 240
+-rwxr-xr-x  1 bernease  staff   2271 Mar 19 04:05 software_windows_texteditor.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 README.md
+-rwxr-xr-x  1 bernease  staff    175 Mar 19 04:05 Gemfile
+-rw-r--r--  1 bernease  staff    585 Mar 19 05:02 feed.xml
+-rw-r--r--  1 bernease  staff  11247 Mar 19 05:02 grading.html
+-rw-r--r--  1 bernease  staff  12092 Mar 19 05:02 hw1_example_submission.html
+-rw-r--r--  1 bernease  staff  11934 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff   9390 Mar 19 05:02 instructors.html
+drwxr-xr-x  3 bernease  staff     96 Mar 19 05:02 css
+-rw-r--r--  1 bernease  staff  20240 Mar 19 05:02 projects.html
+-rw-r--r--  1 bernease  staff  15195 Mar 19 05:02 software.html
+-rw-r--r--  1 bernease  staff  16825 Mar 19 05:02 syllabus.html
+drwxr-xr-x  4 bernease  staff    128 Mar 19 05:02 coursepack
+drwxr-xr-x  4 bernease  staff    128 Mar 19 05:02 data
+drwxr-xr-x  5 bernease  staff    160 Mar 19 05:02 images
+
+./_site/prior_classes/spring2019/css:
+total 32
+-rw-r--r--  1 bernease  staff  12763 Mar 19 05:02 main.css
+
+./_site/prior_classes/spring2019/coursepack:
+total 64
+-rw-r--r--  1 bernease  staff   8926 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff  17528 Mar 19 05:02 syllabus.html
+
+./_site/prior_classes/spring2019/data:
+total 128
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:05 pronto_weather.csv
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:05 README.md
+
+./_site/prior_classes/spring2019/images:
+total 336
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:05 logo.png
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:05 logo-eScience.png
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:05 favicon.ico
+
+./_site/css:
+total 32
+-rw-r--r--  1 bernease  staff  12763 Mar 19 05:02 main.css
+
+./_site/coursepack:
+total 64
+-rw-r--r--  1 bernease  staff   8901 Mar 19 05:02 index.html
+-rw-r--r--  1 bernease  staff  17503 Mar 19 05:02 syllabus.html
+
+./_site/data:
+total 128
+-rw-r--r--  1 bernease  staff  57629 Mar 19 04:05 pronto_weather.csv
+-rw-r--r--  1 bernease  staff    197 Mar 19 04:05 README.md
+
+./_site/images:
+total 336
+-rw-r--r--  1 bernease  staff  86406 Mar 19 04:05 logo.png
+-rw-r--r--  1 bernease  staff  47710 Mar 19 04:05 logo-eScience.png
+-rw-r--r--  1 bernease  staff  32038 Mar 19 04:05 favicon.ico
