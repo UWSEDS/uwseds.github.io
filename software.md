@@ -39,13 +39,15 @@ Links to the installers for Windows:
 * GitBASH: [https://git-for-windows.github.io](https://git-for-windows.github.io)
 * Software Carpentry Installer: [https://github.com/swcarpentry/windows-installer/releases/](https://github.com/swcarpentry/windows-installer/releases/)
 
-## 2. Ensure that `git` is installed.
+## 2. Ensure that Git is installed.
 
 Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10 WSL system returns `s`.
 
 ### Mac OS Note: Some students reported an error with ``git``:
 ```
-xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+xcode-select: note: no developer tools were found at
+'/Applications/Xcode.app', requesting install. Choose an option
+in the dialog to download the command line developer tools.
 ```
 To fix this, do the following:
 

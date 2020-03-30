@@ -8,15 +8,16 @@ collection: spring2019
 
 #### Bernease Herman
 #### Joseph Hellerstein
-#### Teaching Assistant: TBA
+#### Teaching Assistant: Tony Cannistra
 
 ## Logistics
 #### Days: Tuesdays
 #### Time: 5:00 - 8:50PM
-#### Place: Virtual (see Virtual Learning page for more information)
+#### Place: Zoom meeting, link in course email
 
-#### Bernease's office hourse: Virtural at 6-7PM Mondays, bernease@uw
-#### Joe Hellerstein's office hourse: TBD, [jlheller@uw
+#### Bernease's office hours: 6-7:30PM Mondays, bernease AT uw.edu
+#### Tony's (TA) office hours: TBD Thursdays, tonycan AT uw.edu
+#### Joe Hellerstein will hold office hours by appointment: jlheller AT uw.edu
 
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
