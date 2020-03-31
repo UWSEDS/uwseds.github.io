@@ -6,7 +6,7 @@ collection: spring2019
 
 | Day      | Topic                                                         | References       | Assignment (Tues @ 5PM Pacific)    |
 |:----------|:----------------|:---------------|:-------------------|
-|Mar 31     | Course introduction, virtual classroom, command line (B, 1.5 hrs). Jupyter notebooks, Python basics, procedural programming (J, 2.5 hrs). | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | |
+|Mar 31     | Course introduction, virtual classroom, command line (B, 1.5 hrs). [Jupyter notebooks, Python basics, procedural programming](https://github.com/UWSEDS/LectureNotes/tree/master/week_1) (J, 2.5 hrs). | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | |
 |Apr 7      | Pandas data manipulation, version control I, submitting homework (B, 4 hrs). |  |  |
 |Apr 14     | Functions (J, 1 hr). Course project & teams requirements overview (B, 1.5 hr). Programming style and documentation (B , 1 hr).  |  | Homework 1 due. |
 |Apr 21     | Debugging, exceptions, testing (J, 1 hr). Python project structure and packaging. (B, 1.5 hr). Project matching (All, 2 hr). | [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html), [Example Google Style Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)          | Homework 2 due. |
