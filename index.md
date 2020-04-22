@@ -16,7 +16,7 @@ collection: spring2019
 #### Place: Zoom meeting, link in course email
 
 #### Bernease's office hours: 6-7:30PM Mondays, bernease AT uw.edu
-#### Tony's (TA) office hours: TBD Thursdays, tonycan AT uw.edu
+#### Tony's (TA) office hours: 2-3PM Thursdays ([zoom link](https://washington.zoom.us/j/97993337079?pwd=dXZKaERFUHUzOWtHNi9BOEVZVjdJQT09), must be authenticated.), tonycan AT uw.edu
 #### Joe Hellerstein will hold office hours by appointment: jlheller AT uw.edu
 
 ## Course Description
