@@ -4,7 +4,7 @@ title: Syllabus
 collection: fall2020
 ---
 
-**Homework is due by 11:59pm on the Wednesday of the week where it is posted as "due".**
+**Homework is due by 11:59pm on the date that it is posted as "due".**
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Resources |
 |:---|:---|:---|:---|:---|:---|
