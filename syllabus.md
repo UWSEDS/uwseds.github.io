@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Syllabus
-collection: spring2019
+collection: fall2020
 ---
 
-| Day      | Topic                                                         | References       | Assignment (Tues @ 5PM Pacific)    |
-|:----------|:----------------|:---------------|:-------------------|
-|Mar 31     | Course introduction, virtual classroom, command line (B, video issues). [Jupyter notebooks, Python basics, procedural programming](https://github.com/UWSEDS/LectureNotes/tree/master/week_1) (J, [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c17d6581-e6ee-4236-87d9-ab900019d791) [video2](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0026a9b-8824-4a80-a651-ab90002bd84f)). | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | |
-|Apr 7      | [Version control I, submitting homework](https://github.com/UWSEDS/LectureNotes/tree/master/week_2/version_control) & [data manipulation](https://github.com/UWSEDS/LectureNotes/blob/master/week_2/data_manipulation/numpy_pandas.ipynb) (B, [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d95d68f2-d254-443a-9047-ab970003c491)). |  |  |
-|Apr 14     | [Functions](https://github.com/UWSEDS/LectureNotes/blob/master/week_3/Functions%20and%20Software%20Development%20Workflow.ipynb) (J, [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f7804e2-2396-4471-9a3b-ab9e00017c6e)). [Course project & teams requirements overview](https://github.com/UWSEDS/LectureNotes/raw/master/week_3/ProjectOverview.pdf) (B, [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=725c8507-c59f-44a2-94d6-ab9e001c5382)). [Version control II](https://github.com/UWSEDS/LectureNotes/raw/master/week_2/version_control/VersionControl2.pdf) (B, [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24f98f68-ff8a-452d-97cd-ab9e002b191c)).  |  | [Homework 1](https://classroom.github.com/a/R_iaeidK) due. |
-|Apr 21     | Project matching (All, 2 hr). [Debugging, exceptions, testing](https://github.com/UWSEDS/LectureNotes/tree/master/week_4) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff460c2c-6edd-4cca-8d31-aba5000e4164)) (J, 1 hr). [Programming style and documentation](https://github.com/UWSEDS/LectureNotes/raw/master/week_4/Documentation-and-Style.pdf) ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe067f22-2950-4c41-b42e-aba5002ed73e)). (B, 1.5 hr). | [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html), [Example Google Style Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)          |  |
-|Apr 28     |  Project status updates. Software design ([slides](https://github.com/UWSEDS/LectureNotes/tree/master/week_5) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5523fa4-fa6e-4858-8755-abac0004433d)) (Mark Friedman, 1 hr). Student in-class development of use cases (All, 1 hr). [Python package structure and packaging](https://github.com/UWSEDS/LectureNotes/raw/master/week_5/ProjectStructure_Packaging.pdf) [[video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81781e89-dcc3-47a1-ada9-abac001cdb25)] (1.5 hr).      | [Overview of Software Design](https://en.wikipedia.org/wiki/Software_design) | [Homework 2](https://classroom.github.com/a/7TN6MDDs) due, extended to Friday, May 1.  |
-|May 5     | [Introduction to objects and OO design](https://github.com/UWSEDS/LectureNotes/tree/master/week_6/objects) [[video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bac79ac-4a41-498b-baf0-abb30004c0e8)] (J, 1.5 hr). [Geospatial data science](https://github.com/UWSEDS/LectureNotes/tree/master/week_6/geospatial_data) [[video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73b987c9-d1fd-4ade-8394-abb3001dae55)] (Tony, 2 hr). [Technology review example](https://github.com/UWSEDS/LectureNotes/raw/master/week_6/Working-in-Teams.ppt) (All, 0.5 hr).|  | [Homework 3](https://classroom.github.com/a/ERyE21uo) due. |
-|May 12     | Standups. Student technology reviews. | | [Homework 4](https://docs.google.com/document/d/1mRcMSCs36ILP6ctbJyyMGYT6LW3ExtPlYmxad_fRqwk) due. |
-|May 17     | Standups.  Virtual environments and continuous integration (B, 2 hr)). Group work (remainder of time). | | |
-|May 26     | Standups.  | |  |
-|Jun 02     | Standups. Practice project presentations. | |  |
-|TBD     | Virtual project presentations.  |  |  |
-{: rules="groups"}
+**Homework is due by 11:59pm on the Wednesday of the week where it is posted as "due".**
+
+| Tuesday | Thursday | References | Assignment |
+|:--------------|:--------------------|:-------------------|:-------------------|:-------------|
+| NO CLASS | October 1:<br>Overview and introductions, software tour, software installation checklist (Dave) | [learning linux commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) | |
+| October 6:<br>Command line, introductory Git (Bernease) | October 8:<br>Python basics, procedural Python (Dave) | |
+| October 13:<br>Data manipulation with Pandas (Bernease) | October 15:<br>Intermediate Git (Bernease) | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)| |
+| October 20:<br>Project overview, Python imports and modules (Bernease) | October 22:<br>Programming style & documentation (Dave) | [Projects](http://uwseds.github.io/projects.html) | |
+| October 27:<br>Student project proposals, team formation (All) | October 29:<br>Debugging, exceptions, testing (Bernease) |  |  |
+| November 3:<br>Software design, use case design (Bernease) | November 5:<br>Visualization (TBD) | [PEP8](https://www.python.org/dev/peps/pep-0008/)<br>[Google Python Style Guide](http://google.github.io/styleguide/pyguide.html) | |
+| November 10:<br>Technology reviews (students) | Novemeber 12:<br>Technology reviews (students) | | |
+| November 17:<br>Standups (students); Object-oriented programming (TBD) | November 19:<br> Package structure, collaboration in Git (Bernease) | Examples: [simple](https://github.com/dacb/codebase), [complex](https://github.com/uwescience/shablona), [conda](https://github.com/ECSHackWeek/ECSOpenData/blob/master/.travis.yml) ||
+| November 24:<br>Standups (students); Continuous integration (Dave) | November 26:<br>NO CLASS (Thanksgiving) | | |
+| December 1:<br>Standups (students); Advanced and probabalistic testing (Bernease) | December 3:<br>Enrichment lecture (TBD) |  |  |
+| December 8:<br>Project previews (All) | December 10:<br>Project previews (All) |  |  |
+| WEDNESDAY, December 16:<br>Final presentations (All) |  |  |

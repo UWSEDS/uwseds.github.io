@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-collection: spring2019
+collection: fall2020
 ---
 
 ## Overview

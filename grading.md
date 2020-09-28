@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: spring2019
+collection: fall2020
 ---
 
 ## Course Grade
@@ -16,9 +16,9 @@ Course project: 50%
 
 ## Homework grading
 
-There will be 4 homework assignments with individual scores for homework 1-3 and a group score for homework 4.
+There will be 4 homework assignments with individual scores and a group homework assignment.
 The homework will be assigned in the first part of the course.
-To receive full credit, homework must be posted by 5PM Pacific Time on the due date (Tuesdays).
+To receive full credit, homework must be posted by 5PM Pacific Time on the due date.
 The due date for homework is specified in the class syllabus.
 Two points will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
@@ -28,8 +28,7 @@ You will have one week from the posting of the instructor's issue to revise your
 
 Homework should be submitted using Github Classroom.
 
-1. Click the link for the homework on the syllabus page. This will create
-a repository for you.
+1. Click the link for the homework on the syllabus page. This will create a repository for you.
 
 1. Clone the repository on your machine.
 

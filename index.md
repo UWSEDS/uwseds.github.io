@@ -1,23 +1,23 @@
 ---
 layout: home
 title: Home
-collection: spring2019
+collection: fall2020
 ---
 
 ## Instructors
 
 #### Bernease Herman
-#### Joseph Hellerstein
-#### Teaching Assistant: Tony Cannistra
+#### David Beck
+#### Teaching Assistant: Edward Misback
 
 ## Logistics
-#### Days: Tuesdays
-#### Time: 5:00 - 8:50PM
-#### Place: Zoom meeting, link in course email
+#### Days: Tuesdays, Thursday
+#### Time: 11:30am - 1:00pm
+#### Place: Zoom meeting, links on Canvas
 
-#### Bernease's office hours: 6-7:30PM Mondays, bernease AT uw.edu
-#### Tony's (TA) office hours: 2-3PM Thursdays ([zoom link](https://washington.zoom.us/j/97993337079?pwd=dXZKaERFUHUzOWtHNi9BOEVZVjdJQT09), must be authenticated.), tonycan AT uw.edu
-#### Joe Hellerstein will hold office hours by appointment: jlheller AT uw.edu
+#### Bernease's office hours: Thursdays 10:00-11:00am, bernease AT uw.edu
+#### David's office hours: flexible for students, by appointment via dacb AT uw.edu
+#### Edward's (TA) office hours: TBD
 
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
