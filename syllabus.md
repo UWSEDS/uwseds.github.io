@@ -8,7 +8,7 @@ collection: fall2020
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Resources |
 |:---|:---|:---|:---|:---|:---|
-| | | | **October 1**:<br>Overview and introductions, software tour, software installation checklist (Dave) | | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) |
+| | | | **October 1**:<br>Overview and introductions, software tour, software installation checklist (Dave) [(video)](https://washington.zoom.us/rec/play/oLRQrbxXgArTLWQJk8qRSnURAeywzV8_ylSV3E0bbKl19f7v7jmmbrqJDfYKKU2VxiXt9cu07Mjbsfk.1Q1RWXuXCGWlyQ3s) | | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) |
 | HW1 assigned. | **October 6**:<br>Command line, introductory Git (Bernease) | | **October 8**:<br>Python basics, procedural Python (Dave) | | |
 | HW1 due.<br>HW2 assigned. | **October 13**:<br>Data manipulation with Pandas (Bernease) | | **October 15**:<br>Intermediate Git (Bernease) | | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)|
 | HW2 assigned. | **October 20**:<br>Project overview, Python imports and modules (Bernease) | | **October 22**:<br>Programming style & documentation (Dave) | | [Projects](http://uwseds.github.io/projects.html) |
