@@ -7,7 +7,7 @@ collection: fall2020
 The course makes use of a number of software packages that students will install on their computers.
 The following software are available for Windows, Mac, and Linux.
 
-**Please try to install all of this software is on your computer before the first day of class.**
+**Please try to install all of this software on your computer before the first day of class.**
 
 ## 1. Ensure you have access to a Unix-style terminal.
 
@@ -68,7 +68,7 @@ Anaconda is a system for installing and otherwise managing Python and other soft
 
 Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
 1. Update conda's listing of packages for your system: $``conda update conda``
-2. Install Jupyter notebook and its requirements: $``conda update jupyter notebook``
+2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``
 3. Test that Jupyter notebooks run using the terminal to start the notebook: $``jupyter notebook``
 
 If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
