@@ -9,7 +9,7 @@ collection: fall2020
 | Monday | Tuesday | Wednesday | Thursday | Friday | Resources |
 |:---|:---|:---|:---|:---|:---|
 | | | | **October 1**:<br>Overview and introductions, software tour, software installation checklist (Dave) | | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) |
-| HW1 assigned. | **October 6**:<br>Command line, introductory Git (Bernease) | | **October 8**:<br>Python basics, procedural Python (Dave) | | |
+| | **October 6**:<br>Command line, introductory Git (Bernease). HW1 assigned. | | **October 8**:<br>Python basics, procedural Python (Dave) | | |
 | HW1 due.<br>HW2 assigned. | **October 13**:<br>Data manipulation with Pandas (Bernease) | | **October 15**:<br>Intermediate Git (Bernease) | | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)|
 | HW2 assigned. | **October 20**:<br>Project overview, Python imports and modules (Bernease) | | **October 22**:<br>Programming style & documentation (Dave) | | [Projects](http://uwseds.github.io/projects.html) |
 | HW2 due.<br>HW3 assigned. | **October 27**:<br>Student project proposals, team formation (All) | | **October 29**:<br>Debugging, exceptions, testing (Bernease) | | |
