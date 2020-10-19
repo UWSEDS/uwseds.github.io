@@ -17,7 +17,7 @@ collection: fall2020
 
 #### Bernease's office hours: Thursdays 10:00-11:00am, bernease AT uw.edu
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu
-#### Edward's (TA) office hours: Mondays 11:30-12:30pm, misback AT cs.washington.edu
+#### Edward's (TA) office hours: Mondays 11:30-12:30pm, misback AT cs.washington.edu, Zoom link [here](https://canvas.uw.edu/courses/1396788/discussion_topics/5742340)
 
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
