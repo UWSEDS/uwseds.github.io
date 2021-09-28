@@ -32,3 +32,6 @@ Washington state law requires that UW develop a policy for accommodation of stud
 
 **Land Acknowledgment:**
 The University of Washington acknowledges the Coast Salish people of this land, the land which touches the shared waters of all tribes and bands within the Duwamish, Suquamish, Tulalip and Muckleshoot nations.
+
+**Academic Integrity and Misconduct**
+We will follow the UW College of Engineering policies on academic integrity and misconduct.  You can view them [here](https://www.engr.washington.edu/current/policies/academic-integrity-misconduct).
