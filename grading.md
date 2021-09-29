@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: fall2020
+collection: fall2021
 ---
 
 ## Course Grade

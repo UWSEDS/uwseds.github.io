@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-collection: fall2020
+collection: fall2021
 ---
 
 ## Instructors
@@ -12,7 +12,8 @@ collection: fall2020
 ## Logistics
 #### Days: Tuesdays, Thursday
 #### Time: 11:30am - 1:00pm
-#### Place: OUG 136 *IMPORTANT NOTE ABOUT OUG*: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
+#### Place: OUG 136 
+**IMPORTANT NOTE ABOUT OUG**: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
 #### Anant's (TA) office hours: TBD
