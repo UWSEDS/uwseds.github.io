@@ -41,7 +41,7 @@ as they are before the homework due date.
 
 ## Class Participation
 
-Class participation will be graded based on project related presentations, polling in class, and participation in the Slack or Zoom chats. If you are in a location that makes attending live lecture difficult, contact the instructors.
+Class participation will be graded based on project related presentations, polling in class, and participation in the Ed Discussion.
 
 We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation) **and** have answered the poll questions for 8 of 10 lectures for 12 (of 15) points. To get full points (15 of 15), additionally have asked or answered a class related question to Zoom chat or Slack at least once.
 
@@ -50,7 +50,7 @@ We expect that everyone has presented part of their group's presentation (tech r
 [Description of Class Project](https://docs.google.com/document/d/14XfgSuko_hfYbNBq8agz31CxnmIJkw2Iz8yW0cs-mSY/edit?usp=sharing)
 
 Projects will be graded based on:
-(a) the poster presentation, (b) documentation
+(a) the final presentation, (b) documentation
 (especially function and design specifications), (c) the features implemented,
 and (d) code quality.
 (Details of the grading rubric can be found
