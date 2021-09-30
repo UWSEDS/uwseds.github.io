@@ -16,8 +16,10 @@ collection: fall2021
 **IMPORTANT NOTE ABOUT OUG**: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Anant's (TA) office hours: TBD
-
+#### Anant's (TA) office hours: by appointment via anmittal AT uw.edu  
+```
+Fastest way to get help would be by posting your doubts on Ed Discussion platform. 
+```
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
 
