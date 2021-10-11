@@ -20,6 +20,9 @@ collection: fall2021
 ```
 Fastest way to get help would be by posting your doubts on Ed Discussion platform. 
 ```
+
+If you are feeling sick, please follow these guidelines from the University: https://www.washington.edu/coronavirus/student-faq/#feelsick .
+
 ## Course Description
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
 
