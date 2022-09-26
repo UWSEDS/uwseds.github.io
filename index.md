@@ -7,18 +7,18 @@ collection: fall2021
 ## Instructors
 
 #### David Beck
-#### Teaching Assistant: Anant Mittal
+#### Teaching Assistant: Erin Wilson
 
 ## Logistics
 #### Days: Tuesdays, Thursday
 #### Time: 11:30am - 1:00pm
-#### Place: OUG 136 
+#### Place: OUG 141
 **IMPORTANT NOTE ABOUT OUG**: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Anant's (TA) office hours: by appointment via anmittal AT uw.edu  
+#### Erin's (TA) office hours: 3-4 PM in CSE 674
 ```
-Fastest way to get help would be by posting your doubts on Ed Discussion platform. 
+Fastest way to get help would be by posting your doubts on Ed Discussion platform: https://edstem.org/us/courses/29869/discussion/ 
 ```
 
 If you are feeling sick, please follow these guidelines from the University: https://www.washington.edu/coronavirus/student-faq/#feelsick .
