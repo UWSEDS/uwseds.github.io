@@ -18,7 +18,7 @@ Course project: 50%
 
 There will be 4 homework assignments with individual scores and a group homework assignment.
 The homework will be assigned in the first part of the course.
-To receive full credit, homework must be posted by 5PM Pacific Time on the due date.
+To receive full credit, homework must be posted by 11:59 PM Pacific Time on the due date.
 The due date for homework is specified in the class syllabus.
 Two points will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
