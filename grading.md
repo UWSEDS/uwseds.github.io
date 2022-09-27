@@ -43,7 +43,7 @@ as they are before the homework due date.
 
 Class participation will be graded based on project related presentations, polling in class, and participation in the Ed Discussion.
 
-We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation) **and** have answered the poll questions for 8 of 10 lectures for 12 (of 15) points. To get full points (15 of 15), additionally have asked or answered a class related question to Zoom chat or Slack at least once.
+We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation).
 
 ## Course Project
 
