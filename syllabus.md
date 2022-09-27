@@ -19,7 +19,7 @@ collection: fall2021
 | | **November 23**:<br>Standups (students); <br>[Virtual Environments](https://github.com/UWSEDS/lecture-materials/raw/master/10_virtual_envs_and_continuous_integration/virtual_environments.pptx)<br>[Continuous integration](https://github.com/UWSEDS/lecture-materials/blob/master/10_virtual_envs_and_continuous_integration/continous_integration.pptx?raw=true) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ed60fe0-73cf-4cf8-bab8-ade9014a3421) | | **November 25**:<br>NO CLASS (Thanksgiving) | | |
 | | **November 30**:<br> **HW4 due** <br> Standups (students)<br>Finish CI & Package structure [(slides)](https://github.com/UWSEDS/lecture-materials/blob/master/08_package_structure/ProjectStructure_Packaging.pdf)<br>[(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb8314be-2709-4c32-af51-adf00149b334) <br> Group breakout / work time | | **December 2**:<br>[Communication, revisited](https://github.com/UWSEDS/lecture-materials/blob/master/communication.pptx?raw=true)<br>[Visualization with Altair](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/11_altair_introduction/Altair_Introduction.ipynb) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7240b593-4985-4b65-bfbd-adf2014304c0)<br> Group consultations with Dave & Anant | | |
 | | **December 7**:<br>Project previews (All) | | **December 9**:<br>Project previews (All) | | |
-| | | **December 15**:<br>Final presentations (All)<br>4:30-6:20 | | |
+| | | **December 14**:<br>Final presentations (All)<br>4:30-6:20 | | |
 
 
 **Access and Accomodations**
