@@ -27,7 +27,7 @@ We suggest following these instructions for [installing a WSL distribution](http
 
 Some tips:
 * In addition to WSL, there is a new WSL 2 with different installation procedures as of Windows 10 version 2004 (told to be released late March 2020). The instructors will not support WSL2, but it should work similarly if you elect to try WSL 2 instead. Don't be confused by information or instructions for WSL 2 instead of the original WSL.
-* We highly suggest using the Ubuntu 18.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
+* We highly suggest using the Ubuntu 20.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
 * We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
 
 ### Older versions of Windows:
