@@ -16,7 +16,7 @@ collection: fall2021
 **IMPORTANT NOTE ABOUT OUG**: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Erin's (TA) office hours: Wednesdays 3-4 PM in CSE 674
+#### Erin's (TA) office hours: Wednesdays 3:45-4:45 PM in CSE 674
 ```
 Fastest way to get help would be by posting your doubts on Ed Discussion platform: https://edstem.org/us/courses/29869/discussion/ 
 ```
