@@ -21,13 +21,12 @@ You should get a window with a command prompt. Command prompt might have differe
 
 All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
 
-Note: Windows Linux Subsystem (WSL or WSL2) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
+Note: Windows Linux Subsystem (WSL2, or the older WSL) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
-We suggest following these instructions for [installing a WSL distribution](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and [setting up that distribution](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro).
+We suggest following these instructions for [installing a WSL distribution](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Some tips:
-* In addition to WSL, there is a new WSL 2 with different installation procedures as of Windows 10 version 2004 (told to be released late March 2020). The instructors will not support WSL2, but it should work similarly if you elect to try WSL 2 instead. Don't be confused by information or instructions for WSL 2 instead of the original WSL.
-* We highly suggest using the Ubuntu 20.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
+* We highly suggest using the Ubuntu 20.04 or 22.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
 * We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
 
 ### Older versions of Windows:
