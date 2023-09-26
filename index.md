@@ -7,18 +7,18 @@ collection: fall2021
 ## Instructors
 
 #### David Beck
-#### Teaching Assistant: Erin Wilson
+#### Teaching Assistants: Evan Komp, Nels Schimek
 
 ## Logistics
 #### Days: Tuesdays, Thursday
-#### Time: 11:30am - 1:00pm
-#### Place: OUG 141
-**IMPORTANT NOTE ABOUT OUG**: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
+#### Time: 11:30am - 12:50pm
+#### Place: NAN 181
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Erin's (TA) office hours: Wednesdays 3:45-4:45 PM in CSE 674
+#### Evan's (TA) office hours: TBD
+#### Nels's (TA) office hours: TBD
 ```
-Fastest way to get help would be by posting your doubts on Ed Discussion platform: https://edstem.org/us/courses/29869/discussion/ 
+Fastest way to get help would be by posting your doubts on Ed Discussion platform: https://edstem.org/us/courses/48034/discussion/
 ```
 
 If you are feeling sick, please follow these guidelines from the University: https://www.washington.edu/coronavirus/student-faq/#feelsick .
