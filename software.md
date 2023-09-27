@@ -17,26 +17,19 @@ Use your operating system's program search (MacOS: spotlight search, Cmd-Space. 
 
 You should get a window with a command prompt. Command prompt might have different words / characters, followed by a `$` and cursor for text input. Late 2018 and newer MacOS computers default to `zsh` instead of `bash`. This difference will briefly be covered in class, but you can run `bash` [+ Enter] in the terminal if you choose to use that instead.
 
-### Windows 10, version 1607+ (Windows Linux Subsystem)
+### Windows 11 and Windows 10, version 1607+ (Windows Linux Subsystem)
 
 All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
 
 Note: Windows Linux Subsystem (WSL2, or the older WSL) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
-We suggest following these instructions for [installing a WSL distribution](https://learn.microsoft.com/en-us/windows/wsl/install).
+Before trying the suggestions below, try opening the Windows Store (from your start menu) and search for Ubuntu 22.04.  It will be a free download and installing it "will just work" for most recent versions of Windows 11 on relatively new hardware. 
+
+If installing from the Windows Store does not work, we suggest following these instructions for [installing a WSL distribution](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Some tips:
-* We highly suggest using the Ubuntu 20.04 or 22.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
+* We highly suggest using the Ubuntu 22.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
 * We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
-
-### Older versions of Windows:
-
-Windows users should install the Software Carpentry recommended software:
-Please follow these instructions on YouTube: [https://www.youtube.com/watch?v=339AEqk9c-8](https://www.youtube.com/watch?v=339AEqk9c-8).
-Make sure you install gitbash _and_ the text editor (SWCarpentryInstaller).
-Links to the installers for Windows:
-* GitBASH: [https://git-for-windows.github.io](https://git-for-windows.github.io)
-* Software Carpentry Installer: [https://github.com/swcarpentry/windows-installer/releases/](https://github.com/swcarpentry/windows-installer/releases/)
 
 ## 2. Ensure that Git is installed.
 
