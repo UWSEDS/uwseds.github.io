@@ -18,7 +18,7 @@ collection: fall2021
 #### Evan's (TA) office hours: TBD
 #### Nels's (TA) office hours: TBD
 
-### Fastest way to get help would be by posting your questions on the Ed Discussion platform: https://edstem.org/us/courses/48034/discussion/
+### Fastest way to get help would be by posting your questions on the Ed Discussion platform: [CSE 583 - 23au – Ed Discussion](https://edstem.org/us/courses/48034/discussion/)
 
 
 If you are feeling sick, please follow these guidelines from the University: https://www.washington.edu/coronavirus/student-faq/#feelsick .
