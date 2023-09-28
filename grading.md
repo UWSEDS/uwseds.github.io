@@ -26,6 +26,8 @@ from the instructors).
 The instructors will respond to the homework as a github issue.
 You will have one week from the posting of the instructor's issue to revise your homework.
 
+__Note that we will not help you with your homework regrades unless we saw you in office hours before the due date.__ We will keep track. The regrade opportunity is to aid in your learning, not to procrastinate. __PLEASE__ use us during office hours in a timely manner, before the homework is due.
+
 Homework should be submitted using Github Classroom.
 
 1. Click the link for the homework on the syllabus page. This will create a repository for you.
