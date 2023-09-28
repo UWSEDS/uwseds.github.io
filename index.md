@@ -7,7 +7,7 @@ collection: fall2021
 ## Instructors
 
 #### David Beck
-#### Teaching Assistants: Evan Komp, Nels Schimek
+#### Teaching Assistants: Evan Komp (evankomp+cse583@uw.edu), Nels Schimek
 
 ## Logistics
 #### Days: Tuesdays, Thursday
