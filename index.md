@@ -15,8 +15,10 @@ collection: fall2021
 #### Place: NAN 181
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Evan's (TA) office hours: Mon 11:00-12:30, In person @ eScience institute, Zoom id 'evankomp'. BONUS OH WEEK 1 & 2: Thursday 11:00-12:30
-#### Nels's (TA) office hours: TBD
+#### Evan's (TA) office hours: Mon 15:00-16:30, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), Zoom id 'evankomp'. BONUS OH WEEK 1 & 2: Wed 15:00-16:30. 
+
+Note: preference will be given to in person office hours unless a specific request is made. I reserve the right to remove the remote option.
+#### Nels's (TA) office hours: Tue 15:30-16:30, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
 
 ### Fastest way to get help would be by posting your questions on the Ed Discussion platform: [CSE 583 - 23au – Ed Discussion](https://edstem.org/us/courses/48034/discussion/)
 
