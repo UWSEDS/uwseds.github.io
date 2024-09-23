@@ -6,21 +6,19 @@ collection: fall2021
 
 ## Instructors
 
-#### David Beck
-#### Teaching Assistants: Evan Komp (evankomp+cse583@uw.edu), Nels Schimek
+#### David Beck (ChemE, DEOHS, CSE, eScience, SSEC)
+#### Bryna Hazelton (Physics, eScience)
+#### Teaching Assistants: Nels Schimek
 
 ## Logistics
 #### Days: Tuesdays, Thursday
 #### Time: 11:30am - 12:50pm
-#### Place: NAN 181
+#### Place: [OUG 136](http://www.washington.edu/classroom/OUG+136)
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Evan's (TA) office hours: Mon 15:00-16:30, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), Zoom id 'evankomp'. BONUS OH WEEK 1 & 2: Wed 15:00-16:30. 
 #### Nels's (TA) office hours: Tue 15:30-16:30, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), Zoom id 'nelsschimek'
 
 Note: preference will be given to in person office hours unless a specific request is made. We reserve the right to remove the remote option.
-
-### Fastest way to get help would be by posting your questions on the Ed Discussion platform: [CSE 583 - 23au – Ed Discussion](https://edstem.org/us/courses/48034/discussion/)
 
 
 If you are feeling sick, please follow these guidelines from the University: https://www.washington.edu/coronavirus/student-faq/#feelsick .
