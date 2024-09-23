@@ -8,7 +8,7 @@ collection: fall2021
 
 #### David Beck (ChemE, DEOHS, CSE, eScience, SSEC)
 #### Bryna Hazelton (Physics, eScience)
-#### Teaching Assistants: Nels Schimek
+#### Teaching Assistants: Nels Schimek, Natalie Robbins
 
 ## Logistics
 #### Days: Tuesdays, Thursday
