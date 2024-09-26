@@ -6,14 +6,15 @@ collection: fall2021
 
 ## Instructors
 
-#### David Beck (ChemE, DEOHS, CSE, eScience, SSEC)
+#### David Beck (ChemE, eScience, SSEC)
 #### Bryna Hazelton (Physics, eScience)
-#### Teaching Assistants: Nels Schimek, Natalie Robbins
+#### Teaching Assistants: Nels Schimek (MolES), Natalie Robbins (Comp. Ling.)
 
 ## Logistics
 #### Days: Tuesdays, Thursday
 #### Time: 11:30am - 12:50pm
 #### Place: [OUG 136](http://www.washington.edu/classroom/OUG+136)
+##### A current, valid Husky Card is required for entry.
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
 #### Nels's (TA) office hours: Tue 15:30-16:30, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), Zoom id 'nelsschimek'
