@@ -18,6 +18,7 @@ collection: fall2021
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
 #### Nels's (TA) office hours: Tue 15:30-16:30, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), Zoom id 'nelsschimek'
+#### Natalie's (TA) office hours: Mon 15:00-16:00, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), [Zoom](https://washington.zoom.us/j/92319100739)
 
 Note: preference will be given to in person office hours unless a specific request is made. We reserve the right to remove the remote option.
 
