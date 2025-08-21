@@ -67,6 +67,27 @@ at the end of the quarter.
 
 ## Using AI Assists (Copilot, GPT, Cursor, ...)
 
-* Please do not use AI assists for the homeworks. Education literature on this is still very new, but we would like you to learn the basic skills that are taught in the homeworks so that you are well prepared to utilize AI assists in the future. The reward of using AI assists can be negative as their output is effectively opaque to you, without requisite basic software design and programming skills that the homeworks gently provide.  There are only a handful of homework assignments.
-* You are encouraged to investigate AI assists for your class project.  AI assisted tooling is the future of building software and you should become comfortable with the best tools for the task at hand, once you are able to interpret and evaluate its output. We do ask that you share how you used the AI assists in your documentation and class stand ups so we can all learn about exciting new tools.
-* Ultimately, You are responsible for what you turn in/publish. If it contains errors as a result of using AI assists, you are still responsible for those errors.  This is true in your career as well as your academics.
+* We encourage you to do the homeworks without using AI assists. Education
+literature on this is still very new, but it suggests that AI assists can limit
+learning and we would like you to learn the basic skills that are taught in the
+homeworks so that you are well prepared to utilize AI assists in the future. The
+reward of using AI assists can be negative as their output is effectively opaque
+to you, without requisite basic software design and programming skills that the
+homeworks gently provide. There are only a handful of homework assignments.
+There is a question in each homework where we ask you to describe your process
+for doing the homework. If you do decide to use AI Assists in the homeworks,
+we ask that you use that question to descibe to us what tool you used and how
+you used it so that we can understand the diversty of approachs and adapt our
+class materials in the future.
+
+* You are welcome to investigate AI assists for your class project.  AI assisted
+tooling is being used in many cases to build software and if you are interested
+in them this class can provide an opportunity to experiment with them. You
+should become comfortable with the best tools for the task at hand, once you are
+able to interpret and evaluate its output. We do ask that you share how you used
+the AI assists in your documentation and class stand ups so we can all learn
+about new tools.
+
+* Ultimately, You are responsible for what you turn in/publish. If it contains
+errors as a result of using AI assists, you are still responsible for those
+errors. This is true in your career as well as your academics.
