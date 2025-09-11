@@ -77,8 +77,9 @@ homeworks gently provide. There are only a handful of homework assignments.
 There is a question in each homework where we ask you to describe your process
 for doing the homework. If you do decide to use AI Assists in the homeworks,
 we ask that you use that question to descibe to us what tool you used and how
-you used it so that we can understand the diversty of approachs and adapt our
-class materials in the future.
+you used it so that we can understand the diversity of approachs and adapt our
+class materials in the future. If you tell us that you used an AI assist and how
+you used it, it will not negatively affect your grade on the homeworks.
 
 * You are welcome to investigate AI assists for your class project.  AI assisted
 tooling is being used in many cases to build software and if you are interested
@@ -88,6 +89,6 @@ able to interpret and evaluate its output. We do ask that you share how you used
 the AI assists in your documentation and class stand ups so we can all learn
 about new tools.
 
-* Ultimately, You are responsible for what you turn in/publish. If it contains
+* Ultimately, you are responsible for what you turn in/publish. If it contains
 errors as a result of using AI assists, you are still responsible for those
 errors. This is true in your career as well as your academics.
