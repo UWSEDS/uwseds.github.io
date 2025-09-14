@@ -56,7 +56,7 @@ Also create a Github.com username. This is a free account. We will discuss more 
 ## 3. Installing Python via Anaconda / Miniconda
 We recommend that you use the most recent version of Python 3.  Earlier versions of Python 3 work as well.  There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation.  A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
 
-Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs  See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
+Anaconda is a system for installing and otherwise managing Python and other software packages. For the instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer see [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)  
 
 Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
 1. Update conda's listing of packages for your system: $``conda update conda``
