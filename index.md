@@ -8,7 +8,7 @@ collection: fall2021
 
 #### David Beck (ChemE, eScience, SSEC)
 #### Bryna Hazelton (Physics, eScience)
-#### Teaching Assistants: Ian Quah (Psychology), - (-)
+#### Teaching Assistants: Ian Quah (Psychology), Elli Beres (CSE, Seattle Hub for Synthetic Biology)
 
 ## Logistics
 #### Days: Tuesdays, Thursday
@@ -18,7 +18,7 @@ collection: fall2021
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
 #### Ian's (TA) office hours: Date and Time TBD, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
-#### Natalie's (TA) office hours: Mon 15:00-16:00, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/), [Zoom](https://washington.zoom.us/j/92319100739)
+#### Elli's (TA) office hours: Date and Time TBD, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
 
 Note: preference will be given to in person office hours unless a specific request is made. We reserve the right to remove the remote option.
 
