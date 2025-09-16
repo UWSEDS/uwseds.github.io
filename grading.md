@@ -77,7 +77,7 @@ homeworks gently provide. There are only a handful of homework assignments.
 There is a question in each homework where we ask you to describe your process
 for doing the homework. If you do decide to use AI Assists in the homeworks,
 we ask that you use that question to descibe to us what tool you used and how
-you used it so that we can understand the diversity of approachs and adapt our
+you used it so that we can understand the diversity of approaches and adapt our
 class materials in the future. If you tell us that you used an AI assist and how
 you used it, it will not negatively affect your grade on the homeworks.
 
