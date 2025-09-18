@@ -11,7 +11,7 @@ The following software are available for Windows, Mac, and Linux.
 
 ## 1. Ensure you have access to a Unix-style terminal.
 
-### MacOS and Linux operating systems
+### macOS and Linux operating systems
 
 Use your operating system's program search (MacOS: spotlight search, Cmd-Space. Ubuntu: Ubuntu button in upper-left corner) up and search for `Terminal`.
 
@@ -28,37 +28,45 @@ Before trying the suggestions below, try opening the Windows Store (from your st
 If installing from the Windows Store does not work, we suggest following these instructions for [installing a WSL distribution](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Some tips:
+
 * We highly suggest using the Ubuntu 22.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
 * We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
 
-## 2. Ensure that Git is installed.
+## 2. Ensure that Git is installed
 
 Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10 WSL system returns `s`.
 
-### Mac OS Note: Some students reported an error with ``git``:
-```
+### macOS note
+
+Some students reported an error with `git`
+
+```raw
 xcode-select: note: no developer tools were found at
 '/Applications/Xcode.app', requesting install. Choose an option
 in the dialog to download the command line developer tools.
 ```
+
 To fix this, do the following:
 
 * Start a new Terminal
 * Run the following command: ``xcode-select --install``
 * Click ``Install``
 * Click ``Agree`` to agree to the terms
-For more information see this [link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/)
 
-### Github.com
+For more information, [see this link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/).
 
-Also create a Github.com username. This is a free account. We will discuss more on the Version Control I lecture.
+### GitHub.com
+
+Also, create a GitHub.com username [on the GitHub website](https://github.com/signup). This is a free account. We will discuss more on the Version Control I lecture.
 
 ## 3. Installing Python via Anaconda / Miniconda
+
 We recommend that you use the most recent version of Python 3.  Earlier versions of Python 3 work as well.  There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation.  A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
 
 Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs  See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
 
 Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
+
 1. Update conda's listing of packages for your system: $``conda update conda``
 2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``
 3. Test that Jupyter notebooks run using the terminal to start the notebook: $``jupyter notebook``
