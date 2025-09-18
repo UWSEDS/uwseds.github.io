@@ -77,3 +77,9 @@ MacOS doesn't have a pre-installed package manager for their Unix programs. The 
 Students can also select a graphical text editor of their choice, such as Notebook (Windows), vim (all platforms), and Sublime (all platforms). A text editor is different from word processing programs, like MS Word, in that text editors often recognize program syntax and do no formatting.
 
 If you'd also like a graphical text editor but don't already have a favorite, we recommend installing either [atom](http://atom.io/) or [Sublime](http://www.sublimetext.com/), which are both available for all platforms.
+## 5. Install Visual Studio Code \(VS Code\)
+
+[Visual Studio Code \(also known as VS Code\)](https://code.visualstudio.com/download) is a graphical code editor that can be customized and extended with a vast library of open-source extensions.
+After installing VS Code, install [the Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [the Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+If you frequently use R, you can install [the R language extension too](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r).
