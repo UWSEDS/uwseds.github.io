@@ -65,18 +65,30 @@ Below are detailed instructions **after** you have installed Miniconda (or the f
 
 If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
 
-## 4. Install a terminal text editor.
-We highly suggest installing Nano, an easy to use text editor in the terminal.
+## 4. Install a terminal text editor \(if you don't already have one!\)
 
-### Linux operating systems (including WSL and Git Bash on Windows!)
+We highly suggest using Nano, an easy to use text editor in the terminal.
+
+You might already have Nano installed. To check, enter $`nano -version` in the Terminal.
+If you get a version number back, for example `Nano 8.6`, then you have Nano installed.
+Nano is not installed if you get an error message saying: `command not found: nano`.
+
+Note that on macOS, your Nano version will likely return a version of Pico, for example `Pico 5.06`.
+For the purposes of this course, Pico and Nano are identical terminal text editors.
+
+### Installing Nano on a Linux operating systems (including WSL and Git Bash on Windows!)
+
 For Ubuntu distributions, try $`sudo apt-get install nano`. For others, $`yum install nano`.
 
-### MacOS operating system:
-MacOS doesn't have a pre-installed package manager for their Unix programs. The best option is Homebrew with [full instructions on the website](https://brew.sh/).
+### Installing Nano on the macOS operating system
 
-Students can also select a graphical text editor of their choice, such as Notebook (Windows), vim (all platforms), and Sublime (all platforms). A text editor is different from word processing programs, like MS Word, in that text editors often recognize program syntax and do no formatting.
+MacOS doesn't have a pre-installed package manager for their Unix programs. The best option is Homebrew with [full instructions on the website](https://brew.sh/). You can also choose to use [MacPorts](https://www.macports.org/install.php).
 
-If you'd also like a graphical text editor but don't already have a favorite, we recommend installing either [atom](http://atom.io/) or [Sublime](http://www.sublimetext.com/), which are both available for all platforms.
+Once installed, download Nano with the following command in your terminal:
+
+* `brew install nano` if using Homebrew
+* `sudo port install nano` if using MacPorts
+
 ## 5. Install Visual Studio Code \(VS Code\)
 
 [Visual Studio Code \(also known as VS Code\)](https://code.visualstudio.com/download) is a graphical code editor that can be customized and extended with a vast library of open-source extensions.
