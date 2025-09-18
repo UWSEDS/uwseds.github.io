@@ -19,18 +19,18 @@ You should get a window with a command prompt. Command prompt might have differe
 
 ### Windows 11 and Windows 10, version 1607+ (Windows Linux Subsystem)
 
-All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the ``bash`` or ``zsh`` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
+All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the `bash` or `zsh` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
 
 Note: Windows Linux Subsystem (WSL2, or the older WSL) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
-Before trying the suggestions below, try opening the Windows Store (from your start menu) and search for Ubuntu 22.04.  It will be a free download and installing it "will just work" for most recent versions of Windows 11 on relatively new hardware. 
+Before trying the suggestions below, try opening the Windows Store (from your start menu) and search for Ubuntu 22.04. It will be a free download and installing it "will just work" for most recent versions of Windows 11 on relatively new hardware.
 
 If installing from the Windows Store does not work, we suggest following these instructions for [installing a WSL distribution](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 Some tips:
 
-* We highly suggest using the Ubuntu 22.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
-* We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
+- We highly suggest using the Ubuntu 22.04 distribution. Ubuntu is one of the more beginner-friendly Linux distros and the instructor is also able to record screen captures for this setup.
+- We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
 
 ## 2. Ensure that Git is installed
 
@@ -48,10 +48,10 @@ in the dialog to download the command line developer tools.
 
 To fix this, do the following:
 
-* Start a new Terminal
-* Run the following command: ``xcode-select --install``
-* Click ``Install``
-* Click ``Agree`` to agree to the terms
+- Start a new Terminal
+- Run the following command: `xcode-select --install`
+- Click `Install`
+- Click `Agree` to agree to the terms
 
 For more information, [see this link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/).
 
@@ -59,17 +59,40 @@ For more information, [see this link](http://mac-how-to.wonderhowto.com/how-to/i
 
 Also, create a GitHub.com username [on the GitHub website](https://github.com/signup). This is a free account. We will discuss more on the Version Control I lecture.
 
+### GitKraken
+
+We recommend installing [GitKraken](https://www.gitkraken.com/), which provides a user-interface to git, while also providing many features that are conducive for collaboration. Either download it directly from the [downloads page](https://www.gitkraken.com/download) and follow the setup instructions, or install via your OS's package manager.
+
+#### Installing
+
+For **macOS**: `brew install --cask gitkraken` for macOS
+
+For **Ubuntu** (via a .deb file):
+
+```
+wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
+sudo apt install ./gitkraken-amd64.deb
+```
+
+or alternatively use `snap`
+
+For **windows**: download from the [downloads page](https://www.gitkraken.com/download)
+
+#### Usage
+
+There is a built-in tutorial for GitKraken that covers a simple workflow, but we will also showcase more workflows throughout the course.
+
 ## 3. Installing Python via Anaconda / Miniconda
 
-We recommend that you use the most recent version of Python 3.  Earlier versions of Python 3 work as well.  There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation.  A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
+We recommend that you use the most recent version of Python 3. Earlier versions of Python 3 work as well. There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation. A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
 
-Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs  See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
+Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
 
 Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
 
-1. Update conda's listing of packages for your system: $``conda update conda``
-2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``
-3. Test that Jupyter notebooks run using the terminal to start the notebook: $``jupyter notebook``
+1. Update conda's listing of packages for your system: $`conda update conda`
+2. Install Jupyter notebook and its requirements: $`conda install jupyter notebook`
+3. Test that Jupyter notebooks run using the terminal to start the notebook: $`jupyter notebook`
 
 If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
 
@@ -94,8 +117,8 @@ MacOS doesn't have a pre-installed package manager for their Unix programs. The 
 
 Once installed, download Nano with the following command in your terminal:
 
-* `brew install nano` if using Homebrew
-* `sudo port install nano` if using MacPorts
+- `brew install nano` if using Homebrew
+- `sudo port install nano` if using MacPorts
 
 ## 5. Install Visual Studio Code \(VS Code\)
 
