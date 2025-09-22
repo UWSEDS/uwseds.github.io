@@ -103,7 +103,7 @@ Once installed, download Nano with the following command in your terminal:
 - `brew install nano` if using Homebrew
 - `sudo port install nano` if using MacPorts
 
-## 5. Install Visual Studio Code \(VS Code\)
+## 7. Install Visual Studio Code \(VS Code\)
 
 [Visual Studio Code \(also known as VS Code\)](https://code.visualstudio.com/download) is a graphical code editor that can be customized and extended with a vast library of open-source extensions.
 After installing VS Code, install [the Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [the Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
