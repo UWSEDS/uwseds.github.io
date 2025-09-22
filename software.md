@@ -55,40 +55,23 @@ To fix this, do the following:
 
 For more information, [see this link](http://mac-how-to.wonderhowto.com/how-to/install-command-line-developer-tools-without-xcode-0168115/).
 
-### GitHub.com
+## 3. Create a GitHub.com account
 
-Also, create a GitHub.com username [on the GitHub website](https://github.com/signup). This is a free account. We will discuss more on the Version Control I lecture.
+Create a GitHub.com account [on the GitHub website](https://github.com/signup). This is a free account. We will discuss more on the Version Control I lecture. You will need to enter your GitHub username into the survey in the welcome email so that we can associate your GitHub username with your UW NetIT.
 
-### GitKraken
+## 4. Install GitKraken
 
-We recommend installing [GitKraken](https://www.gitkraken.com/), which provides a user-interface to git, while also providing many features that are conducive for collaboration. Either download it directly from the [downloads page](https://www.gitkraken.com/download) and follow the setup instructions, or install via your OS's package manager.
+Please install [GitKraken](https://www.gitkraken.com/), which provides a graphical user-interface to git, while also providing many features that are conducive for collaboration. We suggest that you download it directly from the [downloads page](https://www.gitkraken.com/download) and follow the setup instructions, although you can also use your OS's package manager. For Windows users follow the directions [here](https://www.gitkraken.com/blog/wsl2-and-gitkraken-client) to install GitKraken in WSL2 rather than in Windows.
 
-#### Installing
+GitKraken is free to use on public repositories, if the install process mentions a free trial, that is just for the paid "pro" version which you do not need for this class.
 
-For **macOS**: `brew install --cask gitkraken` for macOS
+## 5. Installing Python via Anaconda / Miniconda
 
-For **Ubuntu** (via a .deb file):
+We recommend that you use the most recent version of Python 3. Slightly earlier versions of Python 3 work as well. There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation. A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
 
-```
-wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
-sudo apt install ./gitkraken-amd64.deb
-```
+Conda is a system for installing and otherwise managing Python and other software packages. See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
 
-or alternatively use `snap`
-
-For **windows**: download from the [downloads page](https://www.gitkraken.com/download)
-
-#### Usage
-
-There is a built-in tutorial for GitKraken that covers a simple workflow, but we will also showcase more workflows throughout the course.
-
-## 3. Installing Python via Anaconda / Miniconda
-
-We recommend that you use the most recent version of Python 3. Earlier versions of Python 3 work as well. There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation. A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
-
-Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
-
-Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
+Below are detailed instructions **after** you have installed Miniconda:
 
 1. Update conda's listing of packages for your system: $`conda update conda`
 2. Install Jupyter notebook and its requirements: $`conda install jupyter notebook`
@@ -96,7 +79,7 @@ Below are detailed instructions **after** you have installed Miniconda (or the f
 
 If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
 
-## 4. Install a terminal text editor \(if you don't already have one!\)
+## 6. Install a terminal text editor \(if you don't already have one!\)
 
 We highly suggest using Nano, an easy to use text editor in the terminal.
 
