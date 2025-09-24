@@ -21,7 +21,7 @@ You should get a window with a command prompt. Command prompt might have differe
 
 All Windows users should note that the Windows command lines, cmd and PowerShell, differ greatly from the `bash` or `zsh` command prompt that software developers commonly use. From here on out, we will use "terminal" to refer to the Unix-style unless clearly and explicitly stated otherwise.
 
-Note: Windows Linux Subsystem (WSL2, or the older WSL) is preferred over older Git Bash solution below. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
+Note: Windows Linux Subsystem (WSL2, or the older WSL) is preferred over older Git Bash solutions. It's faster, more similar to what you'll see in class and has a more complete set of Unix programs.
 
 Before trying the suggestions below, try opening the Windows Store (from your start menu) and search for Ubuntu 22.04. It will be a free download and installing it "will just work" for most recent versions of Windows 11 on relatively new hardware.
 
@@ -87,10 +87,13 @@ You might already have Nano installed. To check, enter $`nano -version` in the T
 If you get a version number back, for example `Nano 8.6`, then you have Nano installed.
 Nano is not installed if you get an error message saying: `command not found: nano`.
 
+Note that some users have reported that on Windows using WSL they need to use $`nano --version`
+instead.
+
 Note that on macOS, your Nano version will likely return a version of Pico, for example `Pico 5.06`.
 For the purposes of this course, Pico and Nano are identical terminal text editors.
 
-### Installing Nano on a Linux operating systems (including WSL and Git Bash on Windows!)
+### Installing Nano on a Linux operating systems (including WSL on Windows!)
 
 For Ubuntu distributions, try $`sudo apt-get install nano`. For others, $`yum install nano`.
 
