@@ -16,12 +16,19 @@
 
       <div class="trigger">
         {% for thispage in site.pages %}
-          {% if thispage.title %}
+          {% if thispage.title and thispage.title == "Home" %}
             {% if thispage.collection == page.collection %}
               <a class="page-link" href="{{ thispage.url | prepend: site.baseurl }}">{{ thispage.title }}</a>
             {% endif %}
           {% endif %}
         {% endfor %}
+        {% for thispage in site.pages %}
+          {% if thispage.title and thispage.title != "Home" %}
+            {% if thispage.collection == page.collection %}
+              <a class="page-link" href="{{ thispage.url | prepend: site.baseurl }}">{{ thispage.title }}</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %} 
       </div>
     </nav>
 
