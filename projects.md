@@ -15,7 +15,7 @@ Projects will address a science or business question of interest. For example, a
 You should have two data sets so that you can demonstrate an ability to join data with different characteristics (e.g., granularity in time and/or space). The data must be available immediately, without concerns about access rights for team members or the instructors.
 
 ### Step 2: Define the Problem
-Determine the type of project  (e.g., analysis project) and the questions of interest.
+Determine the type of project (e.g., analysis project) and the questions of interest.
 
 ### Step 3: Write the Functional Specification
 The functional specification details:
@@ -30,7 +30,7 @@ For tool projects, the users are typically programmers, and so the functional sp
 You will organize the project as a set of short-term deliverables. Typically, you focus first on those parts where you have the most uncertainty since projects typically fail because of "unknown unknowns". For some projects, this will be a data-first focus to make sure that your data can answer the questions that you pose. For others, it may be exploring a python package that you hope will provide key features (e.g., visualizations).
 
 ## Project Structure
-Projects should have a online github repository with the project name. Top level folders/files within the repository include:
+Projects should have an online GitHub repository with the project name. Top level folders/files within the repository include:
 
 * README.md file that gives an overview of the project
 * LICENSE file
@@ -55,12 +55,12 @@ These documents should be in your project ``docs`` folder.
   - Preliminary plan. A list of tasks in priority order.
 
 ## Technology Review Presentation
-The technology review is about making decisions about the choice of a python library to address a technology need in the project. For example, many projects make use of map visualizations. There are many python libraries that support these visualizations such as Bokeh, Dash, and googlemaps. The libraries have different capbilities, such as what (if any) interactions users can have with the map. You will want to choose a library that: (a) addresses the requirements of your project; (b) is compatible with other elements of your project (e.g., runs on python 3); (c) is relatively easy to use; (d) is computationally efficient for the scale of data you use; and (d) doesn't have software bugs that will impair your use cases.
+The technology review is about making decisions about the choice of a python library to address a technology need in the project. For example, many projects make use of map visualizations. There are many python libraries that support these visualizations such as [Bokeh](https://bokeh.org/), [Plotly](https://plotly.com/python/), and [googlemaps](https://pypi.org/project/googlemaps/). The libraries have different capabilities, such as what (if any) interactions users can have with the map. You will want to choose a library that: (a) addresses the requirements of your project; (b) is compatible with other elements of your project (e.g., runs on python 3); (c) is relatively easy to use; (d) is computationally efficient for the scale of data you use; and (d) doesn't have software bugs that will impair your use cases.
 
 The technology review is a group presentation. It should be about 5-7 minutes in length. The presentation should address the following:
 
 - Brief background on the problem you're solving to motivate a technology for which you need a python library (e.g., interactive maps).
-- One slide desciption of a use case in which the technology is required.
+- One slide description of a use case in which the technology is required.
 - One slide that describes at least two python libraries that potentially address your technology requirement.
 - One slide side-by-side comparisons of the technologies. This will require that you actually install and use the technologies.
 
@@ -75,7 +75,7 @@ Teams will present their projects using slides in 10 minute oral presentation. T
 - Use cases. How users will interact with your system in a way that addresses the problem area.
 - Demo. Demonstrate your software.
 - Design. Describe the components and how they interact to accomplish the use cases.
-- Project Structure. Show the structure of your github repository.
+- Project Structure. Show the structure of your GitHub repository.
 - Lessons learned and future work. Focus on *software engineering* lessons.
 
 You should post a PDF of your presentation in the docs folder of your project.
@@ -106,7 +106,7 @@ These examples are fantastic, though they may not be perfect. They should be con
 * [Searching For Success](https://github.com/khyatiparekh/Searching-for-Success) is a template project that can help an amateur investor to visualize search trends on Google for selected company and get probability that the stock price will increase when the quarterly reports will be released for that company.
 * [Ax/Wx](https://github.com/rexthompson/axwx) - Ax/Wx is a collision and weather analysis tool that can enhance the WSP collision database with objective observations from nearby personal weather stations.
 * [HomeIn](https://github.com/hanghu/HomeIn) - HomeIn provides a visualization tool for housing data, prices, and crime rates on a multiple-layered map.
-* [How is Uber changing Taxi in New York City?](https://github.com/HWNi/DATA515-Project) Uber is a new riding model which connects drivers and passengers and provides ride-sharing service with a fair rate. This visualization tool enable user to analyze and compare Uber and taxi traffic of neighbors in NYC.
-* [AirbnbViz](https://github.com/wangbeiqi199159/AirbnbVizTool) aims to provide more information and insights to guests of Airbnb in Seattle to help them have a deeper understanding of what factors influence the listing price most, which neighborhood has higher/lower listing price and which neighborhood has higher and lower guests' rating via our different interactive visualizations. On the other hand, As hosts of Airbnb, they will have more idaes that how other hosts priced around them relative to dimensions such as amenities and location and what is the average listing prices of different neighborhoods in Seattle.
+* [How is Uber changing Taxi in New York City?](https://github.com/HWNi/DATA515-Project) Uber is a new riding model which connects drivers and passengers and provides ride-sharing service with a fair rate. This visualization tool enables user to analyze and compare Uber and taxi traffic of neighbors in NYC.
+* [AirbnbViz](https://github.com/wangbeiqi199159/AirbnbVizTool) aims to provide more information and insights to guests of Airbnb in Seattle to help them have a deeper understanding of what factors influence the listing price most, which neighborhood has higher/lower listing price and which neighborhood has higher and lower guests' rating via our different interactive visualizations. On the other hand, As hosts of Airbnb, they will have more ideas that how other hosts priced around them relative to dimensions such as amenities and location and what is the average listing prices of different neighborhoods in Seattle.
 
 **ALL INFORMATION MUST BE POSTED TO YOUR REPO BY THE DEADLINE**
