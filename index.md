@@ -7,25 +7,33 @@ collection: fall2021
 ## Instructors
 
 #### David Beck (ChemE, eScience, SSEC)
+
 #### Bryna Hazelton (Physics, eScience)
+
 #### Teaching Assistants: Ian Quah (Psychology), Elli Beres (CSE, Seattle Hub for Synthetic Biology)
 
 ## Logistics
+
 #### Days: Tuesdays, Thursday
+
 #### Time: 11:30am - 12:50pm
+
 #### Place: [NAN 181](http://www.washington.edu/classroom/NAN+181)
-##### A current, valid Husky Card is required for entry.
+
+##### A current, valid Husky Card is required for entry
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
+
 #### Ian's (TA) office hours: Date and Time TBD, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
+
 #### Elli's (TA) office hours: Date and Time TBD, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
 
 Note: preference will be given to in person office hours unless a specific request is made. We reserve the right to remove the remote option.
 
-
 If you are feeling sick, please follow [these guidelines from the University](https://www.washington.edu/coronavirus/student-faq/#feelsick).
 
 ## Course Description
+
 Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
 
 Examples of data science skills abound. Biologists search thousands of genomes for DNA sequences with special characteristics, such as genes that transcribe non-coding RNA that is “anti-sense” to messenger RNAs. Astronomers search, integrate, and visualize data from many instruments that produce terabytes of complex data. Social scientists do text analytics on massive repositories of social media data to distill patterns in topics and trends in sentiment.
