@@ -63,7 +63,7 @@ Create a GitHub.com account [on the GitHub website](https://github.com/signup). 
 
 Please install [GitKraken](https://www.gitkraken.com/), which provides a graphical user-interface to git, while also providing many features that are conducive for collaboration. We suggest that you download it directly from the [downloads page](https://www.gitkraken.com/download) and follow the setup instructions, although you can also use your OS's package manager. For Windows users follow the directions [here](https://www.gitkraken.com/blog/wsl2-and-gitkraken-client) to install GitKraken in WSL2 rather than in Windows.
 
-GitKraken is free to use on public repositories, if the install process mentions a free trial, that is just for the paid "pro" version which you do not need for this class.
+GitKraken is free to use on public repositories, if the installation process mentions a free trial, that is just for the paid "pro" version which you do not need for this class.
 
 ## 5. Installing Python via Anaconda / Miniconda
 
