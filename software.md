@@ -67,11 +67,11 @@ GitKraken is free to use on public repositories, if the installation process men
 
 ## 5. Installing Python via Anaconda / Miniconda
 
-We recommend that you use the most recent version of Python 3. Slightly earlier versions of Python 3 work as well. There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation. A Python installation for this course will be managed by the [conda](https://conda.io/docs/) package management system, described below.
+We recommend that you use the most recent version of Python 3. Slightly earlier versions of Python 3 work as well. There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation. A Python installation for this course will be managed by the conda package management system, described below.
 
-Conda is a system for installing and otherwise managing Python and other software packages. See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
+Conda is a system for installing and otherwise managing Python and other software packages. We recommend that you install conda from the open source community managed conda distribution because they offer terms of service that best align with academic research. The installers are available [here](https://github.com/conda-forge/miniforge), scroll down to the **Install** heading and follow the directions for "Unix-like platforms" (Windows users will be installing this using their WSL bash terminal). Let it install in the default location and answer "yes" to the installer question about initializing conda. 
 
-Below are detailed instructions **after** you have installed Miniconda:
+Below are detailed instructions **after** you have installed conda:
 
 1. Update conda's listing of packages for your system: $`conda update conda`
 2. Install Jupyter notebook and its requirements: $`conda install jupyter notebook`
