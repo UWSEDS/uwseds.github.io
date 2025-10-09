@@ -7,6 +7,8 @@ collection: fall2021
 The course makes use of a number of software packages that students will install on their computers.
 The following software are available for Windows, Mac, and Linux.
 
+**You will need to be connected to `eduroam` WiFi for most of what we want to do in class to work.**
+
 **Please try to install all of this software on your computer before the first day of class.**
 
 ## 1. Ensure you have access to a Unix-style terminal.
