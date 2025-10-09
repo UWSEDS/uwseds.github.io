@@ -11,7 +11,13 @@ The following software are available for Windows, Mac, and Linux.
 
 **Please try to install all of this software on your computer before the first day of class.**
 
-## 1. Ensure you have access to a Unix-style terminal.
+## 0. Connect to the eduroam Wi-Fi network
+
+For this class, you will **not** be able to the `University of Washington` Wi-Fi network for this class.
+Instead, you need to be connected to `eduroam`.
+For instructions on how to connect to `eduroam`, follow the "How to access the eduroam network" section on this page: [https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0034255#howtouse](https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0034255#howtouse).
+
+## 1. Ensure you have access to a Unix-style terminal
 
 ### macOS and Linux operating systems
 
