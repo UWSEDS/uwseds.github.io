@@ -1,0 +1,11 @@
+[
+    {
+        "Thursday": "a",
+        "Resources": "b"
+    },
+    {
+        "Tuesday": "c",
+        "Thursday": "d",
+        "Resources": "e"
+    }
+]
