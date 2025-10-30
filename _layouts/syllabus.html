@@ -10,6 +10,7 @@ layout: default
   {{ page.categories }}
 
   <article class="post-content">
+    {{ page.precalendarContent | markdownify }}
     {% include calendar.html %}
     {{ content }}
   </article>

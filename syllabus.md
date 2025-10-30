@@ -2,9 +2,8 @@
 layout: syllabus
 title: Syllabus
 collection: fall2021
+precalendarContent: "**Homework is due by 11:59pm on the date that it is posted as \"due\", unless otherwise noted in class.**"
 ---
-
-**Homework is due by 11:59pm on the date that it is posted as "due", unless otherwise noted in class.**
 
 ## Access and Accommodations
 
