@@ -1,0 +1,24 @@
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Monday</th>
+      <th style="text-align: left">Tuesday</th>
+      <th style="text-align: left">Wednesday</th>
+      <th style="text-align: left">Thursday</th>
+      <th style="text-align: left">Friday</th>
+      <th style="text-align: left">Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for week in site.data.schedule %}
+    <tr>
+      <td style="text-align: left">{%- if week.monday -%}{{- week.monday | markdownify --}}{%- else -%}&nbsp;{%- endif %}</td>
+      <td style="text-align: left">{%- if week.tuesday -%}{{- week.tuesday | markdownify --}}{%- else -%}&nbsp;{%- endif %}</td>
+      <td style="text-align: left">{%- if week.wednesday -%}{{- week.wednesday | markdownify --}}{%- else -%}&nbsp;{%- endif %}</td>
+      <td style="text-align: left">{%- if week.thursday -%}{{- week.thursday | markdownify --}}{%- else -%}&nbsp;{%- endif %}</td>
+      <td style="text-align: left">{%- if week.friday -%}{{- week.friday | markdownify --}}{%- else -%}&nbsp;{%- endif %}</td>
+      <td style="text-align: left">{%- if week.resources -%}{{- week.resources | markdownify --}}{%- else -%}&nbsp;{%- endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
