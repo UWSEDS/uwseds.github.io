@@ -4,7 +4,7 @@ title: Syllabus
 collection: fall2021
 precalendarContent: "**Homework is due by 11:59pm on the date that it is posted as \"due\", unless otherwise noted in class.**"
 ---
-
+<!-- The schedule is stored in the YAML file at `_data/schedule.yml`. It will appear here on the rendered website. -->
 ## Access and Accommodations
 
 Your experience in this class is important to us. If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me at your earliest convenience so we can discuss your needs in this course.
