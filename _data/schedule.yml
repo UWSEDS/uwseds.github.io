@@ -87,59 +87,61 @@
         
         Finishing components
         
-        How to do a technology review
-        
-        Modules, imports and names
-        
-        Debugging, exceptions, testing
-        
-        ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [debugging](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Debugging.ipynb), [exceptions](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Exceptions.ipynb), [testing](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=903fc4cc-17a0-4323-800f-b38b01421098), [2023](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec), [2022](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f9234aa-5773-4567-b4c7-af470141afc6))
+        How to do a technology review: [communication](https://github.com/UWSEDS/lecture-materials/blob/master/communication.pptx?raw=true)
+                
+        ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=903fc4cc-17a0-4323-800f-b38b01421098), [2023](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec), [2022](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f9234aa-5773-4567-b4c7-af470141afc6))
     thursday: |
-        **November 6** How to do a technology review: [communication](https://github.com/UWSEDS/lecture-materials/blob/master/communication.pptx?raw=true)
+        **November 6** Debugging, exceptions
         
-        Modules, imports and names
-        
-        [commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt)
+        ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e09640f-8bd5-4a6d-aeee-b38d01445288),
+        [debugging](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Debugging.ipynb),
+        [exceptions](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Exceptions.ipynb))
     resources: |
         Examples: [simple pip](https://github.com/dacb/codebase), [simple conda](https://github.com/dacb/codebase_conda), [entropy example](https://github.com/uwseds/entropy)
 -   tuesday: |
         **November 11**:
         
-        **Technology Reviews**
-        
-        ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c80089c-716f-46a1-bf04-b0ba01425f54))
+        **Veteran's Day Holiday**
+
     thursday: |
         **November 13**:  Debugging, exceptions, testing
         
-        ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [debugging](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Debugging.ipynb), [exceptions](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Exceptions.ipynb), [testing](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9190ad28-597a-4916-b4f1-b22801470b3a), [(2023 video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=441a76e6-d283-42aa-8df5-b21f0143a07e), [2023](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec), [2022](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f9234aa-5773-4567-b4c7-af470141afc6))
-        
-        Testing
-        
-        ([testing](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb), [test_entropy.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/entropy/tests/test_entropy.py), [entropy.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/entropy/entropy.py), [notes.txt](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/notes.txt), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec))
+        **Technology Reviews**
+
 -   tuesday: |
         **November 18**:
         
-        Finish testing
-        
+        Package structure, floating point representations
+
         [project structure](https://github.com/UWSEDS/lecture-materials/blob/master/08_package_structure/08_package_structure.pptx)
         
         [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad80dd7f-7dc0-4306-9c98-b22d0142ec8b)
     thursday: |
-        **November 20**:[Documentation & Style overview](https://github.com/UWSEDS/lecture-materials/raw/master/06_documentation_and_style/style_active_learning.pptx)
+        **November 20**:
         
+        Modules, imports and names
+        
+        Testing
+
+        ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [testing](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Unit-tests.ipynb), [test_entropy.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/entropy/tests/test_entropy.py), [entropy.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/entropy/entropy.py), [notes.txt](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/notes.txt), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec))
+        
+
+        [Documentation & Style overview](https://github.com/UWSEDS/lecture-materials/raw/master/06_documentation_and_style/style_active_learning.pptx)
+
         [python_demo_1.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/06_documentation_and_style/python_demo_1.py)
         
         [python_demo_2.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/06_documentation_and_style/python_demo_2.py)
         
-        Standups (students);
-        
+    resources: |
+
+-   tuesday: |
+        **November 25**:
+                
         [Virtual Environments](https://github.com/UWSEDS/lecture-materials/raw/master/10_virtual_envs_and_continuous_integration/virtual_environments.pptx)
         
         [Continuous integration](https://github.com/UWSEDS/lecture-materials/blob/master/10_virtual_envs_and_continuous_integration/continous_integration.pptx?raw=true) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e94b57c-2dab-4610-a6a4-b0c80142d5d5)[(video2022)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02fc5948-dbe1-4a6a-a295-af5e0147268c)
-    resources: |
-        [Link to HW3]()
--   tuesday: |
-        **November 25**:Standups (students)
+
+        Standups (students)
         
         Finish CI & Package structure [(slides)](https://github.com/UWSEDS/lecture-materials/blob/master/08_package_structure/ProjectStructure_Packaging.pdf)
         
@@ -148,10 +150,7 @@
         [Communication, revisited](https://github.com/UWSEDS/lecture-materials/blob/master/communication.pptx?raw=true)
         
         Group consultations with instructors.
-    wednesday: |
-        **November 26**:
         
-        **HW3 Due!**
     thursday: |
         **November 27**:
         
