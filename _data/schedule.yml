@@ -131,6 +131,11 @@
         [python_demo_2.py](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/06_documentation_and_style/python_demo_2.py)
         
     resources: |
+        [Official Python Packaging Authority tutorial on creating packages](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+
+        [Guide on choosing a license for software](https://choosealicense.com/)
+
+        [Python .gitignore template](https://github.com/github/gitignore/blob/main/Python.gitignore)
 
 -   tuesday: |
         **November 25**:
