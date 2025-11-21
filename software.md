@@ -127,7 +127,7 @@ If you frequently use R, you can install [the R language extension too](https://
 Without this extension, you will not be able to run Visual Studio Code from WSL.
 Install the extension [here from the Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl).
 
-Whenever you run Visual Studio Code, you should see a small rectangle in the bottom left corner of your window that says WSL:
+Whenever you run Visual Studio Code from WSL, you should see a small rectangle in the bottom left corner of your window that says WSL; if you don't see this indicator, it likely means you're not in WSL:
 
 ![WSL indicator in VS Code](images/wsl-statusbar-indicator.png)
 > Image credit: [https://code.visualstudio.com/docs/remote/wsl]([https://code.visualstudio.com/docs/remote/wsl)
