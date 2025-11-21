@@ -120,3 +120,14 @@ Once installed, download Nano with the following command in your terminal:
 After installing VS Code, install [the Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [the Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 
 If you frequently use R, you can install [the R language extension too](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r).
+
+### Visual Studio Code with Windows Subsystem for Linux
+
+**If you are using Windows and WSL, you MUST install the WSL extension for Visual Studio Code.**
+Without this extension, you will not be able to run Visual Studio Code from WSL.
+Install the extension [here from the Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl).
+
+Whenever you run Visual Studio Code, you should see a small rectangle in the bottom left corner of your window that says WSL:
+
+![WSL indicator in VS Code](images/wsl-statusbar-indicator.png)
+> Image credit: [https://code.visualstudio.com/docs/remote/wsl]([https://code.visualstudio.com/docs/remote/wsl)
