@@ -153,16 +153,14 @@
         [Communication, revisited](https://github.com/UWSEDS/lecture-materials/blob/master/communication.pptx?raw=true)
         
         Group consultations with instructors.
-
-    resources: |
-        [Link to HW3](https://classroom.github.com/a/xBwnxnC8)
         
     thursday: |
         **November 27**:
         
         Thanksgiving break! 
     resources: |
-        [Link to HW4]() [codebase CI example](https://github.com/dacb/codebase) and [codebase complete example](https://github.com/dacb/codebase_github_actions)
+        [Link to HW3](https://classroom.github.com/a/xBwnxnC8)
+
 -   tuesday: |
         **December 2**:
         
@@ -171,6 +169,8 @@
         [Continuous integration](https://github.com/UWSEDS/lecture-materials/blob/master/10_virtual_envs_and_continuous_integration/continous_integration.pptx?raw=true)
         
         [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53dc3230-87e7-48a9-9e17-b23b014372da)
+
+        **HW3 due!**
     thursday: |
         **December 4**:
         
