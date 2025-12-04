@@ -38,7 +38,12 @@ You will organize the project as a set of short-term deliverables. Typically, yo
 
 Projects should have an online GitHub repository with the project name. Top level folders/files within the repository include:
 
-* README.md file that gives an overview of the project
+* README.md file that gives an overview of the project containing information about:
+  * Who the intended audience is.
+  * How to install the package .
+  * A simple example of how to use the library (this might require specifying how to aquire any dataset(s) needed to run the example).
+  * A list of all the team members who contributed and what their contributions were.
+
 * LICENSE file
 * pyproject.toml file that specifies the package and allows it to be installed after it has been cloned
 * doc folder that contains documentation (including the functional specification, the design specification, and the final project presentation or poster)
