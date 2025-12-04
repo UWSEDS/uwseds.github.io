@@ -8,13 +8,13 @@ collection: fall2021
 
 The course project is a "capstone" that pulls together all elements of the course: data, programming, coding style, version control, testing, design, and team collaborations. This is a team effort, often with members drawn from different disciplines.
 
-Projects will address a science or business question of interest. For example, a business question related to the bike sharing company Pronto might be "How should bicycles be allocated among stations?" An **analysis project** would seek data to answer this question directly. However, you may choose not to answer the question yourself. Rather, you might do a **tool project** that builds a tool to help others to answer the question. For example, one such tool might be a package that better organizes the Pronto data for analysis. Still another possibility is that you will build a system that teaches others the skills needed to do analysis, which we call an **instructional system project**. An example here would be a system that teaches about logistics for businesses in the sharing economy. Other types of projects are possible as well.
+Projects will address a research or business question of interest. For example, a business question related to the bike sharing company Pronto might be "How should bicycles be allocated among stations?" An **analysis project** would seek data to answer this question directly. However, you may choose not to answer the question yourself. Rather, you might do a **tool project** that builds a tool to help others to answer the question. For example, one such tool might be a package that better organizes the Pronto data for analysis. Still another possibility is that you will build a system that teaches others the skills needed to do analysis, which we call an **instructional system project**. An example here would be a system that teaches about logistics for businesses in the sharing economy. Other types of projects are possible as well.
 
 ## Project Workflow
 
 ### Step 1: Pick Your Data
 
-You should have two data sets so that you can demonstrate an ability to join data with different characteristics (e.g., granularity in time and/or space). The data must be available immediately, without concerns about access rights for team members or the instructors.
+You should have at least two data sets so that you can demonstrate an ability to join data with different characteristics (e.g., granularity in time and/or space). The data must be available immediately, without concerns about access rights for team members or the instructors.
 
 ### Step 2: Define the Problem
 
@@ -40,9 +40,10 @@ Projects should have an online GitHub repository with the project name. Top leve
 
 * README.md file that gives an overview of the project
 * LICENSE file
-* setup.py file that initializes the project after it has been cloned
+* pyproject.toml file that specifies the package and allows it to be installed after it has been cloned
 * doc folder that contains documentation (including the functional specification, the design specification, and the final project presentation or poster)
-* python package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with `__init__.py` files) and test files that begin with "test_".
+* `src` folder containing a package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with `__init__.py` files).
+* `test` folder containing one or more python test files starting with `test_`.
 * examples folder that contains examples of using the packages
 
 ## Design Documents
@@ -69,16 +70,16 @@ The technology review is a group presentation. It should be about 5-7 minutes in
 
 * Brief background on the problem you're solving to motivate a technology for which you need a python library (e.g., interactive maps).
 * One slide description of a use case in which the technology is required.
-* One slide that describes at least two python libraries that potentially address your technology requirement.
+* One slide that describes two to three python libraries that potentially address your technology requirement (3 preferred)
 * One slide side-by-side comparisons of the technologies. This will require that you actually install and use the technologies.
 
 ## Final Project Presentation
 
-We will likely use a poster presentation format for this year.  In the past, we have done oral presentations.  
+We will have oral presentations with slides for this year.  In the past, we have done either oral or poster presentations.  
 
-### Instructions for oral presentations (likely not for 2022)
+### Instructions for oral presentations
 
-Teams will present their projects using slides in 10 minute oral presentation. The presentation should include:
+Teams will present their projects using slides in 7 minute oral presentation. The presentation should include:
 
 * Background. Describe the problem or area being addressed.
 * Data used. What data did you use? How was it obtained? What are its limitations?
@@ -95,15 +96,16 @@ You should post a PDF of your presentation in the docs folder of your project.
 Projects will be evaluated based on the following criteria:
 
 * Organized as described in the section on project structure
-* Quality of the documentation (especially the functional
+* Quality of the design documentation (especially the functional
 specification and design specification)
 * Uses at least two data sources
-* Code quality, especially consistent coding standard (e.g., ``pylint``).
+* Code quality, especially consistent coding standard (e.g., `pylint` or `ruff`).
+* Quality of docstrings (both module level and function level) throughout the code.
 * Test coverage
 * Quality of the example of using the package (in the examples
 folder of the project repository)
-* Implements continuous integration (e.g., via travis-CI), and all tests pass.
-* Completeness of the setup.py script
+* Implements continuous integration (e.g., via github actions) with tests and linting and all tests pass.
+* Completeness and functionality of the pyproject.toml (package is installable, dependencies are specified).
 * Creativity and technical challenge
 
 ## Examples of previous projects
