@@ -10,7 +10,7 @@ collection: fall2021
 
 #### Bryna Hazelton (Physics, eScience)
 
-#### Teaching Assistants: Ian Quah (Psychology), Elli Beres (CSE, Seattle Hub for Synthetic Biology)
+#### Teaching Assistants: Elli Beres (CSE, Seattle Hub for Synthetic Biology)
 
 ## Logistics
 
@@ -24,9 +24,7 @@ collection: fall2021
 
 #### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
 
-#### Ian's (TA) office hours: Wed 14:00-15:00, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
-
-#### Elli's (TA) office hours: Tue 14:00-15:00, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/)
+#### Elli's (TA) office hours: TBD <!-- Tue 14:00-15:00, In person @ [WRF Data Science studio](https://escience.washington.edu/about/wrf-data-science-studio/) -->
 
 Note: preference will be given to in person office hours unless a specific request is made. We reserve the right to remove the remote option.
 
