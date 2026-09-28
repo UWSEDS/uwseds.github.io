@@ -103,24 +103,20 @@
 -   tuesday: |
         **November 17**:
         
-        **Veteran's Day Holiday**
+        **Technology Reviews**
 
     thursday: |
         **November 19**:
-        
-        **Technology Reviews**
-
--   tuesday: |
-        **November 24**:
         
         Package structure, floating point representations
 
         [project structure](https://github.com/UWSEDS/lecture-materials/blob/master/08_package_structure/08_package_structure.pptx)
         
         [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69a39d15-dabb-4541-8199-b3990142cc5e)
-    thursday: |
-        **November 26**:
-        
+
+-   tuesday: |
+        **November 24**:
+
         Modules, imports and names
         
         Testing
@@ -141,6 +137,11 @@
 
         [Python .gitignore template](https://github.com/github/gitignore/blob/main/Python.gitignore)
 
+    thursday: |
+        **November 26**:
+
+        Thanksgiving break! 
+
 -   tuesday: |
         **December 1**:
                 
@@ -160,13 +161,6 @@
         
     thursday: |
         **December 3**:
-        
-        Thanksgiving break! 
-    resources: |
-        [Link to HW3](https://classroom.github.com/a/xBwnxnC8)
-
--   tuesday: |
-        **December 8**:
 
         [entropy_plus example](https://github.com/uwseds/entropy_plus)
         
@@ -176,11 +170,20 @@
         
         [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef06c926-e64f-40c4-8b0b-b3a70143ab12)
 
+    resources: |
+        [Link to HW3](https://classroom.github.com/a/xBwnxnC8)
+
+-   tuesday: |
+        **December 8**:
+
+        Consultation, Project Work Time
+
         **HW3 due!**
     thursday: |
         **December 10**:
         
         Consultation, Project Work Time
+
 -   wednesday: |
         **December 16**:
         
