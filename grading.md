@@ -67,7 +67,7 @@ at the end of the quarter.
 
 ## Using AI Assists (Copilot, GPT, Cursor, ...)
 
-* We encourage you to do the homeworks without using AI assists. Education
+* We encourage you to do the homeworks __without__ using AI assists. Education
 literature on this is still very new, but it suggests that AI assists can limit
 learning, and we would like you to learn the basic skills that are taught in the
 homeworks so that you are well-prepared to utilize AI assists in the future. The

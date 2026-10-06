@@ -1,15 +1,15 @@
 -   thursday: |
-        **September 25**:
+        **October 1**:
         
         Overview and introductions ([slides](https://github.com/UWSEDS/lecture-materials/raw/master/01_overview/Course%20Introduction.pptx)), [software tour, software installation checklist](http://uwseds.github.io/software.html) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=960b1953-3708-40d0-95b4-b363013104a8)
     resources: |
         [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php); [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 -   tuesday: |
-        **September 30**:
+        **October 6**:
         
         Command line ([slides](https://github.com/UWSEDS/lecture-materials/raw/master/02_command_line/02_Command_Line.pptx), [history](https://github.com/UWSEDS/history/blob/master/history.txt) [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08236334-010b-45e5-87a8-b368013377bb))
     thursday: |
-        **October 2**:
+        **October 8**:
         
         Command line scripts([slides](https://github.com/UWSEDS/lecture-materials/blob/master/03_git_intro/03_Command_Line_git.pptx), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=783e2f75-957a-4eb8-bbc9-b36a0132e206))
     resources: |
@@ -19,11 +19,11 @@
         
         [Link to HW0](https://classroom.github.com/a/Q9-9msoC)
 -   tuesday: |
-        **October 7**:
+        **October 13**:
         
         Introductory git [(slides)](https://github.com/UWSEDS/lecture-materials/blob/master/04_jupyter_and_python_intro/04_git_intro.pptx) [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8559b405-3ba5-48e3-bc86-b36f013264f8).
     thursday: |
-        **October 9**:
+        **October 15**:
         
         Hands on Git [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c44a9148-aa25-47a9-9090-b37101312d0f)
     resources: |
@@ -31,7 +31,7 @@
         
         [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 -   tuesday: |
-        **October 14**:
+        **October 20**:
         
         Simple Math Breakout [(notebook)](https://raw.githubusercontent.com/UWSEDS/lecture-materials/refs/heads/master/04_jupyter_and_python_intro/simple_math_breakout.ipynb)
         
@@ -39,7 +39,7 @@
         
         Guided Pandas tour [(notebook)](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/05_pandas_more_git/data_manipulation.ipynb) **HW0 due!**
     thursday: |
-        **October 16**:
+        **October 22**:
         
         Python and Pandas tour, part 2 [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ecd9419-d41a-48e5-b4c8-b3780132b4dc))
         
@@ -49,13 +49,13 @@
         
         [Real Python on imports](https://realpython.com/absolute-vs-relative-python-imports/)
 -   tuesday: |
-        **October 21**:
+        **October 27**:
         
         Procedural Python (finishing)
         
         Student project proposals and project pairing
     thursday: |
-        **October 23**:
+        **October 29**:
         
         Student project pairing
         
@@ -63,7 +63,7 @@
     resources: |
         [Link to HW2](https://classroom.github.com/a/ch5vsRmH)
 -   tuesday: |
-        **October 28**:
+        **November 3**:
         
         **HW1 Due**
         
@@ -71,7 +71,7 @@
         
         ([slides](https://github.com/UWSEDS/lecture-materials/raw/master/05_pandas_more_git/05_more_git.pptx), [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87a87811-e0b8-4352-97da-b3840133ddba))
     thursday: |
-        **October 30**:
+        **November 5**:
         
         **HW2 Due**
         
@@ -85,7 +85,7 @@
         
         [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
 -   tuesday: |
-        **November 4**:
+        **November 10**:
         
         Finishing components
         
@@ -93,7 +93,7 @@
                 
         ([commands](https://github.com/UWSEDS/lecture-materials/blob/master/modules_imports_names/notes.txt), [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=903fc4cc-17a0-4323-800f-b38b01421098), [2023](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b037b6fb-4a17-4459-9e6e-b0b301421eec), [2022](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f9234aa-5773-4567-b4c7-af470141afc6))
     thursday: |
-        **November 6** Debugging, exceptions
+        **November 12** Debugging, exceptions
         
         ([video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e09640f-8bd5-4a6d-aeee-b38d01445288),
         [debugging](https://raw.githubusercontent.com/UWSEDS/lecture-materials/master/07_debug_exceptions_testing/Debugging.ipynb),
@@ -101,24 +101,22 @@
     resources: |
         Examples: [simple pip](https://github.com/dacb/codebase), [simple conda](https://github.com/dacb/codebase_conda), [entropy example](https://github.com/uwseds/entropy)
 -   tuesday: |
-        **November 11**:
+        **November 17**:
         
-        **Veteran's Day Holiday**
+        **Technology Reviews**
 
     thursday: |
-        **November 13**:  **Technology Reviews**
-
--   tuesday: |
-        **November 18**:
+        **November 19**:
         
         Package structure, floating point representations
 
         [project structure](https://github.com/UWSEDS/lecture-materials/blob/master/08_package_structure/08_package_structure.pptx)
         
         [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69a39d15-dabb-4541-8199-b3990142cc5e)
-    thursday: |
-        **November 20**:
-        
+
+-   tuesday: |
+        **November 24**:
+
         Modules, imports and names
         
         Testing
@@ -139,8 +137,13 @@
 
         [Python .gitignore template](https://github.com/github/gitignore/blob/main/Python.gitignore)
 
+    thursday: |
+        **November 26**:
+
+        Thanksgiving break! 
+
 -   tuesday: |
-        **November 25**:
+        **December 1**:
                 
         [Virtual Environments](https://github.com/UWSEDS/lecture-materials/raw/master/10_virtual_envs_and_continuous_integration/virtual_environments.pptx)
         
@@ -157,14 +160,7 @@
         Group consultations with instructors.
         
     thursday: |
-        **November 27**:
-        
-        Thanksgiving break! 
-    resources: |
-        [Link to HW3](https://classroom.github.com/a/xBwnxnC8)
-
--   tuesday: |
-        **December 2**:
+        **December 3**:
 
         [entropy_plus example](https://github.com/uwseds/entropy_plus)
         
@@ -174,13 +170,22 @@
         
         [(video)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef06c926-e64f-40c4-8b0b-b3a70143ab12)
 
+    resources: |
+        [Link to HW3](https://classroom.github.com/a/xBwnxnC8)
+
+-   tuesday: |
+        **December 8**:
+
+        Consultation, Project Work Time
+
         **HW3 due!**
     thursday: |
-        **December 4**:
+        **December 10**:
         
         Consultation, Project Work Time
+
 -   wednesday: |
-        **December 10**:
+        **December 16**:
         
         Final presentations (All)
         
